@@ -23,5 +23,5 @@ jobs:
         # html_body: file://README.html
         ignore_cert: true
         convert_markdown: true
-        attachments: dummy.png
+        attachments: dummy.png,git.diff,./dist/static/main.js
 # doesn't trigger when issue reopen
