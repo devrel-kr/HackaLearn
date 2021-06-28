@@ -24,4 +24,4 @@ jobs:
         ignore_cert: true
         convert_markdown: true
         attachments: dummy.png
-
+# doesn't trigger when issue reopen
