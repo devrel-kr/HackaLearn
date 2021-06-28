@@ -1,8 +1,8 @@
 # Comment to a new issue.
-name: Auto Comment
+name: Auto comment on new issue
 on: [issues, pull_request]
 jobs:
-  run:
+  auto-comment:
     runs-on: ubuntu-latest
     steps:
       - uses: bubkoo/auto-comment@v1.0.7
