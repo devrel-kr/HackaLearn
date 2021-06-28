@@ -1,0 +1,22 @@
+# test email
+- name: automatized email
+
+  uses: dawidd6/action-send-mail@v3
+  on:
+    issues:
+      types: [opened, assigned]
+  with:
+    server_address: smtp.gmail.com
+    server_port: 465
+    username: ${{secrets.MAIL_USERNAME}}
+    password: ${{secrets.MAIL_PASSWORD}}
+    subject: GitHub Action Job Result
+    to: 1772042@ewhain.net
+    from: HackaLearn YouJin Jung
+    secure: true
+    body: Email job from ${{github.repository}} completed successfully!
+    html_body: file://README.html
+    ignore_cert: true
+    convert_markdown: true
+    attachments: dummy.jpg
+
