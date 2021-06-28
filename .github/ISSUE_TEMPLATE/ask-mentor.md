@@ -2,7 +2,7 @@
 name: 멘토에게 질문하기
 about: 궁금한 점이 있다면, 멘토에게 질문하세요!
 title: 'OOO멘토님 / 질문 사항 제목'
-labels: faq, ask-mentor
+labels: FAQ, ask-mentor
 assignees: ''
 
 ---
