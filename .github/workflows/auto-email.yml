@@ -23,5 +23,5 @@ jobs:
         # html_body: file://README.html
         ignore_cert: true
         convert_markdown: true
-        attachments: dummy.jpg
+        attachments: dummy.png
 
