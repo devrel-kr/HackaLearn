@@ -1,10 +1,19 @@
 # Comment to a new issue.
-issueOpened: >
-  Issue를 생성해 주셔서 감사합니다! 🎉 Hacker님의 열정을 응원해요! 😊
-  
-  최대한 빠르게 검토한 후 답변 드릴게요!
+name: Auto Comment
+on: [issues, pull_request]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: bubkoo/auto-comment@v1.0.7
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          issueOpened: >
+            👋 @{{ author }}님, Issue를 생성해 주셔서 감사합니다! 🎉 Hacker님의 열정을 응원해요! 😊
+            
+            최대한 빠르게 검토한 후 답변 드릴게요!
 
-pullRequestOpened: >
-  Pull Request를 생성해 주셔서 감사합니다! 🎉
-  
-  가이드라인을 준수하셨는지 확인해주세요. 최대한 빠르게 리뷰하겠습니다!
+          pullRequestOpened: >
+            👋 @{{ author }}님, Pull Request를 생성해 주셔서 감사합니다! 🎉Hacker님의 열정을 응원해요! 😊
+            
+            PR 가이드라인을 준수하셨는지 확인해주세요. 최대한 빠르게 리뷰하겠습니다!
