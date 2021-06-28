@@ -8,7 +8,7 @@ jobs:
       - uses: bubkoo/auto-comment@v1.0.7
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          issueOpened: >
+          issuesOpened: >
             👋 @{{ author }}님, Issue를 생성해 주셔서 감사합니다! 🎉 Hacker님의 열정을 응원해요! 😊
             
             최대한 빠르게 검토한 후 답변 드릴게요!
