@@ -22,6 +22,6 @@ jobs:
         body: Email job from ${{ github.repository }} completed successfully!
         # html_body: file://README.html
         ignore_cert: true
-        convert_markdown: true
-        attachments: dummy.png,git.diff,./dist/static/main.js
+        # convert_markdown: true
+        # attachments: dummy.png
 # doesn't trigger when issue reopen
