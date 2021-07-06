@@ -1,8 +1,9 @@
 # email-template
 
 이메일에 사용되는 템플릿 뼈대는 모두 동일하며, 절차마다 수정되어야하는 부분은 아래와 같다
-- `<img id ="banner" src="">`의 이미지 배너 링크
-- `<tbody id="contents-body">`의 메일 내용 부분
+
+- [x] `<img id ="banner" src="">`의 이미지 배너 링크 (적용 완료)
+- [ ] `<tbody id="contents-body">`의 메일 내용 부분
     ``` html
     <div id="dear">
     ... 
@@ -28,6 +29,8 @@
     ...
     </div>
     ```
+    
+---
 
 1. 등록 확인
 
