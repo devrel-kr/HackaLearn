@@ -35,7 +35,7 @@ HackaLearnx Korea 2021은 개방적이고 서로를 존중하고 배려하는 �
 > 해커톤 행사 기간 동안 필요한 요구사항 및 모든 문의는 운영진(hackalearn.korea@outlook.com)에게 연락하세요!
 
 ### ✔ 참고 문서
-- ![Contributor Convenant 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-- ![Global Azure 2021 Korea Code of Conduct](https://github.com/krazure/gab2020kr/blob/master/CODE-OF-CONDUCT.md)
-- ![Code-for-Korea Code of Conduct](https://github.com/Code-for-Korea/community.identity/blob/master/code_of_conduct.md)
-- ![Virtual Events Guideline](https://github.com/devrel-kr/virtual-events/tree/translated/l10n/ko-kr)
+- [Contributor Convenant 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+- [Global Azure 2021 Korea Code of Conduct](https://github.com/krazure/gab2020kr/blob/master/CODE-OF-CONDUCT.md)
+- [Code-for-Korea Code of Conduct](https://github.com/Code-for-Korea/community.identity/blob/master/code_of_conduct.md)
+- [Virtual Events Guideline](https://github.com/devrel-kr/virtual-events/tree/translated/l10n/ko-kr)
