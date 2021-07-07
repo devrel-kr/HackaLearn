@@ -1,6 +1,6 @@
 # HackaLearnx Korea 2021 개인정보보호정책 및 개인정보처리방침
 
-개인정보의 처리 목적 (‘https://github.com/devrel-kr/hackalearn’ 이하 ‘HackaLearnx Korea’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며 다음의 목적 이외의 용도로는 이용하지 않습니다.
+개인정보의 처리 목적 (‘https://aka.ms/hackalearn/korea’ 이하 ‘HackaLearnx Korea’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며 다음의 목적 이외의 용도로는 이용하지 않습니다.
 
 ## ✔ 개인정보 수집
 
