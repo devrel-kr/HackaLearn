@@ -16,6 +16,11 @@ HackaLearn is the term combining both Hackathon and Learn, which is the event th
 * Judgement: August 16 - 19, 2021 (KST)
 * Announcement: August 20, 2021 (KST)
 
+## 🙆🏻‍♀️ Eligibility ##
+
+* Anyone who wants to participate! However...
+  * During the event period, participants MUST reside in Korea and prove their address details on request.
+
 
 ## 🏃🏻‍♂️ How to Participate? ##
 
