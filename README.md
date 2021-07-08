@@ -78,7 +78,7 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 이 행사는 마이크로소프트에서 후원합니다.
 
 <div style="text-align: left;">
-    <a href="https://www.microsoft.com/ko-kr?WT.mc_id=devcloud-33673-juyoo" target="" title=""><img src="assets/logo-microsoft.png" alt="Microsoft 로고" width="251" height="113"/></a>
+    <a href="https://www.microsoft.com/ko-kr?WT.mc_id=devcloud-33673-juyoo" target="_blank" title="Microsoft 홈페이지"><img src="assets/logo-microsoft.png" alt="Microsoft 로고" width="251" height="113"/></a>
 </div>
 
 

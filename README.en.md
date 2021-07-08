@@ -77,7 +77,7 @@ HackaLearn Korea endeavours that every single participant in this event feels sa
 Thanks Microsoft for sponsoring this event to run smoothly.
 
 <div style="text-align: left;">
-    <a href="https://www.microsoft.com/?WT.mc_id=devcloud-33673-juyoo" target="" title=""><img src="assets/logo-microsoft.png" alt="Microsoft 로고" width="251" height="113"/></a>
+    <a href="https://www.microsoft.com/?WT.mc_id=devcloud-33673-juyoo" target="_blank" title="Microsoft Homepage"><img src="assets/logo-microsoft.png" alt="Microsoft 로고" width="251" height="113"/></a>
 </div>
 
 
