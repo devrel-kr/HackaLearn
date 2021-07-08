@@ -42,6 +42,11 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 1. **블로그 후기 챌린지**: 방법 추후 공개
 
 
+## 👑 명예의 전당 Hall of Fame ##
+
+**다섯 가지 챌린지 미션**을 모두 완료한 팀은 명예의 전당에 기록이 됩니다. 👉 [명예의 전당 바로가기][hof]
+
+
 ## 💻 핸즈온 랩 세션 ##
 
 HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함께 애저 정적 웹 앱, 깃헙 액션을 만들어 보고 여러분의 애플리케이션 개발에 적용시켜 보세요!
@@ -87,6 +92,7 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [prizes]: assets/prizes-768x432@2.png
 [submit]: https://aka.ms/hacklearn/submit
 [qna]: https://aka.ms/hackalearn/qna
+[hof]: HALL_OF_FAME.md
 [privacy]: https://aka.ms/hackalearn/privacy
 [coc]: https:/aka.ms/hackalearn/coc
 [microsoft]: assets/logo-microsoft.png

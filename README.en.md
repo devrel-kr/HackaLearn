@@ -41,6 +41,11 @@ You MUST complete **all the FIVE challenge missions** below. For more details wi
 1. **Blog Retrospective Challenge**: TBA
 
 
+## 👑 Hall of Fame ##
+
+Teams who complete **all the FIVE challenge missions** are in the Hall of Fame. 👉 [Visit Hall of Fame][hof]
+
+
 ## 💻 Hands-on-Lab Workshops ##
 
 During the event, we are running a few hands-on-lab workshops for you. After these sessions, you will be able to build your own web applications!
