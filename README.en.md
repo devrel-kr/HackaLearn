@@ -1,6 +1,6 @@
-# HackaLearn Korea #
-
 [한국어](README.md)
+
+# HackaLearn Korea #
 
 <div style="text-align: center;">
     <img src="assets/banner-768x216@2-en.png" alt="HackaLearn Banner" width="768" height="216"/>
