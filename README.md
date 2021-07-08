@@ -42,6 +42,15 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 1. **블로그 후기 챌린지**: 방법 추후 공개
 
 
+## 💻 핸즈온 랩 세션 ##
+
+HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함께 애저 정적 웹 앱, 깃헙 액션을 만들어 보고 여러분의 애플리케이션 개발에 적용시켜 보세요!
+
+* [Microsoft Learn Student Ambassadors][mlsa]와 함께 하는 핸즈온 랩 세션
+* [GitHub Campus Experts][gce]와 함께 하는 핸즈온 랩 세션
+* [Microsoft Cloud Advocate][ca]와 함께 하는 핸즈온 랩 세션
+
+
 ## 🏅 시상 부문 ##
 
 * 클라우드 스킬 챌린지 완료
@@ -81,3 +90,6 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [privacy]: https://aka.ms/hackalearn/privacy
 [coc]: https:/aka.ms/hackalearn/coc
 [microsoft]: assets/logo-microsoft.png
+[mlsa]: https://aka.ms/hackalearn/mlsa
+[gce]: https://aka.ms/hackalearn/gce
+[ca]: https://aka.ms/hackalearn/ca

@@ -41,6 +41,15 @@ You MUST complete **all the FIVE challenge missions** below. For more details wi
 1. **Blog Retrospective Challenge**: TBA
 
 
+## 💻 Hands-on-Lab Workshops ##
+
+During the event, we are running a few hands-on-lab workshops for you. After these sessions, you will be able to build your own web applications!
+
+* Hands-on-Lab with [Microsoft Learn Student Ambassadors][mlsa]
+* Hands-on-Lab with [GitHub Campus Experts][gce]
+* Hands-on-Lab with [Microsoft Cloud Advocate][ca]
+
+
 ## 🏅 Awards ##
 
 * Cloud Skills Challenge Completion
@@ -80,3 +89,6 @@ Thanks Microsoft for sponsoring this event to run smoothly.
 [privacy]: https://aka.ms/hackalearn/privacy
 [coc]: https:/aka.ms/hackalearn/coc
 [microsoft]: assets/logo-microsoft.png
+[mlsa]: https://aka.ms/hackalearn/mlsa
+[gce]: https://aka.ms/hackalearn/gce
+[ca]: https://aka.ms/hackalearn/ca
