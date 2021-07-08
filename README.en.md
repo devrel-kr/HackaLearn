@@ -1,8 +1,8 @@
 # HackaLearn Korea #
 
-<p style="text-align: center; font-size: 20pt; font-weight: bold;">HackaLearn = Hackathon + Learn</p>
-
-<p style="text-align: center; font-size: 15pt; font-weight: bold;">Learn Azure Static Web Apps and GitHub Actions and build an AWESOME application with them</p>
+<div style="text-align: center;">
+    <img src="assets/banner-768x216@2-en.png" alt="HackaLearn Banner" width="768" height="216"/>
+</div>
 
 HackaLearn is the term combining both Hackathon and Learn, which is the event that you learn something and apply it during the hackathon period within the given short period of time. This HackaLearn's theme is [Azure Static Web Apps][aswa] and [GitHub Actions][gha]. For two weeks, you learn both and build a web application by yourself or with your team, through this HackaLearn event! We are looking forward to seeing the AWESOME product from you! Cool prizes are waiting for your challenge!
 
