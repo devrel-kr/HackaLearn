@@ -36,7 +36,7 @@ You MUST complete **all the FIVE challenge missions** below. For more details wi
 
 1. **Cloud Skills Challenge #1**: TBA
 1. **Cloud Skills Challenge #2**: TBA
-1. **SNS Selfie Challenge**: TBA
+1. **Social Media Selfie Challenge**: TBA
 1. **Web Application & GitHub Repository Challenge**: TBA
 1. **Blog Retrospective Challenge**: TBA
 
