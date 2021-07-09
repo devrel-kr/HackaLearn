@@ -1,0 +1,79 @@
+@startuml
+
+actor 참가자 as P
+participant "깃헙 리포지토리" as REPO
+participant "깃헙 액션" as GHA
+actor 운영자 as OP
+participant "파워 오토메이트" as PA
+database 데이터베이스 as DB
+
+group PR
+    P -> REPO: PR 생성
+    note left of P
+        GHA 챌린지 완료 인증샷
+    end note
+
+    activate REPO
+    REPO -> GHA: 이벤트 생성
+    activate GHA
+    GHA -> REPO: 라벨 추가: review-required
+    deactivate GHA
+    deactivate REPO
+end
+
+group REVIEW
+    OP -> OP: 리뷰
+
+    activate REPO
+    OP -> REPO: 라벨 추가: review-completed
+    OP -> REPO: 라벨 삭제: review-required
+    OP -> REPO: 코멘트: /signoff
+    REPO -> GHA: 이벤트 생성
+
+    activate GHA
+    GHA -> PA: 호출
+    note left of GHA
+        GitHub ID
+        PR 본문
+        제출시간
+    end note
+
+    activate PA
+    PA -> DB: 레코드 조회
+    note left of PA
+        GitHub ID
+    end note
+
+    alt 레코드 있음
+        PA -> DB: 레코드 업데이트
+        PA -> GHA: 호출
+        note right of PA
+            PR ID
+        end note
+        GHA -> REPO: 라벨 추가: record-updated
+        GHA -> REPO: 라벨 추가: completed-gha
+        GHA -> REPO: 라벨 삭제: review-completed
+        GHA -> REPO: PR 머지
+        note right of PA
+            업데이트 완료
+        end note
+        PA -> P: 확인 이메일
+    else 레코드 없음
+        PA -> GHA: 호출
+        note right of PA
+            PR ID
+        end note
+        GHA -> REPO: 라벨 추가: review-required
+        GHA -> REPO: 라벨 삭제: review-completed
+        note right of PA
+            레코드 없음
+        end note
+        PA -> P: 확인 이메일
+
+        deactivate PA
+        deactivate GHA
+        deactivate REPO
+    end
+end
+
+@enduml
