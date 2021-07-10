@@ -1,0 +1,22 @@
+name: On Challenge Updated
+
+on:
+  pull_request:
+    types:
+    - synchronize
+    branches:
+    - main
+    paths:
+    - 'teams/**/*.md'
+
+jobs:
+  labelling:
+    name: 'Add a label on update: review-required'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Add a label
+      uses: andymckay/labeler@master
+      with:
+        add-labels: review-required

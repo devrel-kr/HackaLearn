@@ -1,0 +1,23 @@
+name: On Challenge Submitted
+
+on:
+  pull_request:
+    types:
+    - opened
+    branches:
+    - main
+    paths:
+    - 'teams/**/*.md'
+
+jobs:
+  labelling:
+    name: 'Add a label on submission: review-required'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Add a label
+      uses: actions/labeler@v3
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        configuration-path: '.github/labeler.yml'

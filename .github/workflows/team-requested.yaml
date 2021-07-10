@@ -1,0 +1,52 @@
+name: On Team Creation Requested
+
+on:
+  workflow_dispatch:
+    inputs:
+      teamName:
+        description: The name of team
+        required: true
+        default: Team_HackaLearn
+      content:
+        description: The content of the file to be created
+        required: true
+        default: Hello HackaLearn
+
+jobs:
+  create_team:
+    name: 'Create a team'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+
+    - name: Create team file
+      uses: DamianReeves/write-file-action@master
+      with:
+        path: "./teams/${{ github.event.inputs.teamName }}.md"
+        contents: ${{ github.event.inputs.content }}
+        write-mode: overwrite
+
+    - name: Check team file
+      shell: pwsh
+      run: |
+        Get-Content -Path "./teams/${{ github.event.inputs.teamName }}.md"
+
+    - name: Commit team file
+      shell: bash
+      run: |
+        git config --local user.email "hackalearn.korea@outlook.com"
+        git config --local user.name "HackaLearn Korea"
+        git add ./teams/\* --force
+        git commit -m "Team: ${{ github.event.inputs.teamName }} added"
+
+    - name: Push team file
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

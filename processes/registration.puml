@@ -1,0 +1,32 @@
+@startuml
+
+actor 참가자 as P
+participant "파워 오토메이트" as PA
+participant "깃헙 리포지토리" as REPO
+database 데이터베이스 as DB
+
+P -> PA: 등록 정보
+activate PA
+PA -> DB: 등록 여부 확인
+note left of PA
+    Email
+end note
+alt 미등록 참가자
+    PA -> DB: 등록 정보
+    PA -> REPO: 팀 파일 생성
+    note right REPO
+        ./teams/팀이름.md
+    end note
+    PA -> P: 확인 이메일
+    note right PA
+        환영합니다
+    end note
+else 기등록 참가자
+    PA -> P: 확인 이메일
+    note right PA
+        환영합니다
+    end note
+end
+deactivate PA
+
+@enduml
