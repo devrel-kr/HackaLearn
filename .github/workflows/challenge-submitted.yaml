@@ -1,0 +1,29 @@
+name: On Challenge Submitted
+
+on:
+  pull_request:
+    types:
+    - opened
+    branches:
+    - main
+    paths:
+    - 'teams/**'
+
+# env:
+#   FUNCTIONAPP_PATH: 'src/GymLog.FunctionApp'
+
+jobs:
+  labelling:
+    name: 'Add a label: review-required'
+
+    runs-on: ubuntu-latest
+
+#     env:
+#       RESOURCE_GROUP_NAME: 'rg-${{ secrets.RESOURCE_NAME }}-${{ secrets.ENVIRONMENT }}-${{ secrets.LOCATION_CODE }}'
+#       FUNCTIONAPP_NAME: 'fncapp-${{ secrets.RESOURCE_NAME }}-${{ secrets.ENVIRONMENT }}-${{ secrets.LOCATION_CODE }}'
+
+    steps:
+    - name: Get event payload
+      shell: pwsh
+      run: |
+        Write-Host {{ toJSON(github) }}
