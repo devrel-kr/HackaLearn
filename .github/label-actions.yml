@@ -1,26 +1,3 @@
-name: On Challenge Labelled
-
-on:
-  pull_request:
-    types:
-    - labeled
-    - unlabeled
-
-jobs:
-  labelling:
-    name: 'Update a label'
-
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Get event payload
-      shell: pwsh
-      run: |
-        Write-Host '${{ toJSON(github.event) }}'
-
-    - name: Respond to label
-      uses: dessant/label-actions@v2
-      with:
-        # github-token: "${{ secrets.GITHUB_TOKEN }}"
-        # config-path: '.github/label-actions.yml'
-        process-only: prs
+review-completed:
+  prs:
+    unlabel: review-required
