@@ -1,0 +1,31 @@
+name: On Team Creation Requested
+
+on:
+  workflow_dispatch:
+    inputs:
+      teamName:
+        description: The name of team
+        required: true
+        default: Team HackaLearn
+      content:
+        description: The content of the file to be created
+        required: true
+        default: Hello HackaLearn
+
+jobs:
+  create_team:
+    name: 'Create a team'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Get event payload
+      shell: pwsh
+      run: |
+        Write-Host '${{ toJSON(github.event) }}'
+
+    - name: Create a file for team
+      uses: finnp/create-file-action@master
+      env:
+        FILE_NAME: "./teams/${{ github.event.inputs.teamName }}"
+        FILE_DATA: ${{ github.event.inputs.content }}
