@@ -24,15 +24,28 @@ jobs:
       run: |
         Write-Host '${{ toJSON(github.event) }}'
 
-    - name: Create a file for team
+    - name: Create team file
       uses: DamianReeves/write-file-action@master
       with:
         path: "./teams/${{ github.event.inputs.teamName }}.md"
         contents: ${{ github.event.inputs.content }}
         write-mode: overwrite
 
-    # - name: Create a file for team
-    #   uses: finnp/create-file-action@master
-    #   env:
-    #     FILE_NAME: "./teams/${{ github.event.inputs.teamName }}.md"
-    #     FILE_DATA: ${{ github.event.inputs.content }}
+    - name: Check team file
+      shell: pwsh
+      run: |
+        Get-Content -Path "./teams/${{ github.event.inputs.teamName }}.md"
+
+    - name: Commit team file
+      shell: bash
+      run: |
+        git config --local user.email "hackalearn.korea@outlook.com"
+        git config --local user.name "HackaLearn Korea"
+        git add ./teams/\* --force
+        git commit -m "Team: ${{ github.event.inputs.teamName }} added"
+
+    - name: Push team file
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
