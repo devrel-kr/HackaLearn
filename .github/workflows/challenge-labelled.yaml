@@ -21,6 +21,4 @@ jobs:
     - name: Respond to label
       uses: dessant/label-actions@v2
       with:
-        # github-token: "${{ secrets.GITHUB_TOKEN }}"
-        # config-path: '.github/label-actions.yml'
         process-only: prs
