@@ -36,28 +36,28 @@
 
 [email-template-1.html](email-template-1.html)
 
-<img width="1500" alt="banner-1" src="../banners/등록확인.png">
+<img width="1500" alt="banner-1" src="../banners/confirm-registration.png">
 
 2. 제출 독려
 
 [email-template-2.html](email-template-2.html)
 
-<img width="1500" alt="banner-2" src="../banners/제출독려.png">
+<img width="1500" alt="banner-2" src="../banners/keep-it-up.png">
 
 3. 제출 진행 상황
 
 [email-template-3.html](email-template-3.html)
 
-<img width="1500" alt="banner-3" src="../banners/제출진행상황.png">
+<img width="1500" alt="banner-3" src="../banners/work-in-progress.png">
 
 4. 최종 제출
 
 [email-template-4.html](email-template-4.html)
 
-<img width="1500" alt="banner-4" src="../banners/최종제출.png">
+<img width="1500" alt="banner-4" src="../banners/confirm-submission.png">
 
 5. 수상 축하
 
 [email-template-5.html](email-template-5.html)
 
-<img width="1500" alt="banner-5" src="../banners/축하합니다.png">
+<img width="1500" alt="banner-5" src="../banners/congrats.png">
