@@ -6,7 +6,7 @@ on:
       teamName:
         description: The name of team
         required: true
-        default: Team HackaLearn
+        default: Team_HackaLearn
       content:
         description: The content of the file to be created
         required: true
@@ -27,5 +27,5 @@ jobs:
     - name: Create a file for team
       uses: finnp/create-file-action@master
       env:
-        FILE_NAME: "./teams/${{ github.event.inputs.teamName }}"
+        FILE_NAME: "./teams/${{ github.event.inputs.teamName }}.md"
         FILE_DATA: ${{ github.event.inputs.content }}
