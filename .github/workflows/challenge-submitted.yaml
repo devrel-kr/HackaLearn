@@ -7,23 +7,17 @@ on:
     branches:
     - main
     paths:
-    - 'teams/**'
-
-# env:
-#   FUNCTIONAPP_PATH: 'src/GymLog.FunctionApp'
+    - 'teams/**/*.md'
 
 jobs:
   labelling:
-    name: 'Add a label: review-required'
+    name: 'Add a label on submission: review-required'
 
     runs-on: ubuntu-latest
 
-#     env:
-#       RESOURCE_GROUP_NAME: 'rg-${{ secrets.RESOURCE_NAME }}-${{ secrets.ENVIRONMENT }}-${{ secrets.LOCATION_CODE }}'
-#       FUNCTIONAPP_NAME: 'fncapp-${{ secrets.RESOURCE_NAME }}-${{ secrets.ENVIRONMENT }}-${{ secrets.LOCATION_CODE }}'
-
     steps:
-    - name: Get event payload
-      shell: pwsh
-      run: |
-        Write-Host {{ toJSON(github) }}
+    - name: Add a label
+      uses: actions/labeler@v3
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        configuration-path: '.github/labeler.yml'
