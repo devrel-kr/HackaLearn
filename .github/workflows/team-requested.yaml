@@ -19,11 +19,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Get event payload
-      shell: pwsh
-      run: |
-        Write-Host '${{ toJSON(github.event) }}'
-
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
