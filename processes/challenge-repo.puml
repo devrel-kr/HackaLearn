@@ -10,7 +10,6 @@ database 데이터베이스 as DB
 group PR
     P -> REPO: PR 생성
     note left of P
-        웹 앱 링크
         깃헙 리포지토리 링크
     end note
 
@@ -28,8 +27,12 @@ group REVIEW
     activate REPO
     OP -> REPO: 라벨 추가: review-completed
     OP -> REPO: 라벨 삭제: review-required
-    OP -> REPO: 코멘트: /signoff
+    OP -> REPO: 코멘트: /reposignoff
     REPO -> GHA: 이벤트 생성
+    note left of REPO
+        지정된 사용자만
+        이벤트 생성 가능
+    end note
 
     activate GHA
     GHA -> PA: 호출
@@ -52,7 +55,6 @@ group REVIEW
             PR ID
         end note
         GHA -> REPO: 라벨 추가: record-updated
-        GHA -> REPO: 라벨 추가: completed-app
         GHA -> REPO: 라벨 추가: completed-repository
         GHA -> REPO: 라벨 삭제: review-completed
         GHA -> REPO: PR 머지
