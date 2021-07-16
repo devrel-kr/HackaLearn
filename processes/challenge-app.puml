@@ -10,7 +10,7 @@ database 데이터베이스 as DB
 group PR
     P -> REPO: PR 생성
     note left of P
-        GHA 챌린지 완료 인증샷
+        웹 앱 링크
     end note
 
     activate REPO
@@ -27,7 +27,7 @@ group REVIEW
     activate REPO
     OP -> REPO: 라벨 추가: review-completed
     OP -> REPO: 라벨 삭제: review-required
-    OP -> REPO: 코멘트: /ghasignoff
+    OP -> REPO: 코멘트: /appsignoff
     REPO -> GHA: 이벤트 생성
     note left of REPO
         지정된 사용자만
@@ -55,7 +55,7 @@ group REVIEW
             PR ID
         end note
         GHA -> REPO: 라벨 추가: record-updated
-        GHA -> REPO: 라벨 추가: completed-gha
+        GHA -> REPO: 라벨 추가: completed-app
         GHA -> REPO: 라벨 삭제: review-completed
         GHA -> REPO: PR 머지
         note right of PA
