@@ -1,3 +1,7 @@
+review-required:
+  prs:
+    unlabel: review-completed
+
 review-completed:
   prs:
     unlabel: review-required

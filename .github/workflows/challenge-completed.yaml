@@ -1,0 +1,58 @@
+name: On Challenge Completed
+
+on:
+  workflow_dispatch:
+    inputs:
+      prId:
+        description: PR ID
+        required: true
+        default: ''
+      labelsToAdd:
+        description: The comma delimited labels to add
+        required: true
+        default: record-updated
+      labelsToRemove:
+        description: The comma delimited labels to remove
+        required: true
+        default: review-completed
+
+jobs:
+  update_labels:
+    name: 'Update labels'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Get event payload
+      shell: pwsh
+      run: |
+        Write-Host '${{ toJSON(github.event) }}'
+
+    - name: Update labels on PR
+      uses: justinyoo/github-issue-label-action@v1
+      with:
+        authToken: ${{ secrets.GITHUB_TOKEN }}
+        owner: 'devrel-kr'
+        repository:  HackaLearn
+        issueId: '${{ github.event.inputs.prId }}'
+        labelsToAdd: '${{ github.event.inputs.labelsToAdd }}'
+        labelsToRemove: '${{ github.event.inputs.labelsToRemove }}'
+
+  merge_pr:
+    name: 'Merge PR'
+    needs: update_labels
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Merge PR
+      uses: justinyoo/github-pr-merge-action@v0.8.0
+      with:
+        authToken: ${{ secrets.GITHUB_TOKEN }}
+        owner: 'devrel-kr'
+        repository:  HackaLearn
+        issueId: '${{ github.event.inputs.prId }}'
+        mergeMethod: Squash
+        commitTitle: ''
+        commitDescription: ''
+        deleteBranch: 'false'
