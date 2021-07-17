@@ -13,11 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Get event payload
-      shell: pwsh
-      run: |
-        Write-Host '${{ toJSON(github.event) }}'
-
     - name: Respond to label
       uses: dessant/label-actions@v2
       with:

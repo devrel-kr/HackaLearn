@@ -350,3 +350,5 @@ MigrationBackup/
 .ionide/
 
 assets/prizes*
+
+.DS_Store
