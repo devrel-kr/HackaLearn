@@ -17,6 +17,14 @@ jobs:
 
     steps:
     - name: Add a label
-      uses: andymckay/labeler@master
+      uses: actions/labeler@v3
       with:
-        add-labels: review-required
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        configuration-path: '.github/labeler.yml'
+
+    - name: Remove a label
+      uses: buildsville/add-remove-label@v1
+      with:
+        token: "${{ secrets.GITHUB_TOKEN }}"
+        label: 'review-completed'
+        type: remove

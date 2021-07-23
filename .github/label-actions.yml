@@ -5,3 +5,5 @@ review-required:
 review-completed:
   prs:
     unlabel: review-required
+  comment: |
+    리뷰를 완료했습니다. 최종 승인 후 챌린지 결과를 `main` 브랜치로 병합합니다.
