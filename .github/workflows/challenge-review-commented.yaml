@@ -52,20 +52,20 @@ jobs:
     - name: Get outputs
       shell: pwsh
       run: |
-        echo ${{ steps.checkpoint.outputs.hasValidLabel }}
-        echo ${{ steps.checkpoint.outputs.isCommenterAssignee }}
-        echo ${{ steps.checkpoint.outputs.isValidCommenter }}
-        echo ${{ steps.checkpoint.outputs.isHelloWorld }}
-        echo ${{ steps.checkpoint.outputs.isAswaSignoff }}
-        echo ${{ steps.checkpoint.outputs.isGhaSignoff }}
-        echo ${{ steps.checkpoint.outputs.isSocialSignoff }}
-        echo ${{ steps.checkpoint.outputs.isAppSignoff }}
-        echo ${{ steps.checkpoint.outputs.isRepoSignoff }}
-        echo ${{ steps.checkpoint.outputs.isRetroSignoff }}
-        echo ${{ steps.checkpoint.outputs.timestamp }}
+        echo "hasValidLabel: ${{ steps.checkpoint.outputs.hasValidLabel }}"
+        echo "isCommenterAssignee: ${{ steps.checkpoint.outputs.isCommenterAssignee }}"
+        echo "isValidCommenter: ${{ steps.checkpoint.outputs.isValidCommenter }}"
+        echo "isHelloWorld: ${{ steps.checkpoint.outputs.isHelloWorld }}"
+        echo "isAswaSignoff: ${{ steps.checkpoint.outputs.isAswaSignoff }}"
+        echo "isGhaSignoff: ${{ steps.checkpoint.outputs.isGhaSignoff }}"
+        echo "isSocialSignoff: ${{ steps.checkpoint.outputs.isSocialSignoff }}"
+        echo "isAppSignoff: ${{ steps.checkpoint.outputs.isAppSignoff }}"
+        echo "isRepoSignoff: ${{ steps.checkpoint.outputs.isRepoSignoff }}"
+        echo "isRetroSignoff: ${{ steps.checkpoint.outputs.isRetroSignoff }}"
+        echo "timestamp: ${{ steps.checkpoint.outputs.timestamp }}"
 
     - name: Record challenge HelloWorld
-      if: steps.checkpoint.outputs.hasValidLabel == true && steps.checkpoint.outputs.isCommenterAssignee == true && steps.checkpoint.outputs.isValidCommenter == true && steps.checkpoint.outputs.isHelloWorld == true
+      if: ${{ steps.checkpoint.outputs.hasValidLabel == true && steps.checkpoint.outputs.isCommenterAssignee == true && steps.checkpoint.outputs.isValidCommenter == true && steps.checkpoint.outputs.isHelloWorld == true }}
       shell: pwsh
       run: |
         echo "Hello World!"
