@@ -1,0 +1,30 @@
+name: On Challenge Review Commented
+
+on:
+  issue_comment:
+    types:
+    - created
+
+jobs:
+  check_comment:
+    # if: ${{ github.event.issue.pull_request }} && ${{ contains(github.event.issue.pull_request.labels.*.name, 'review-completed') }} && ${{ contains(secrets.PR_REVIEWERS, github.event.issue_comment.user.login) }}
+    name: 'Check comment'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Get event payload
+      shell: pwsh
+      run: |
+        Write-Host '${{ toJSON(github.event) }}'
+
+    # - name: Check comment
+    #   id: command
+    #   uses: xt0rted/slash-command-action@v1
+    #   with:
+    #     repo-token: ${{ secrets.GITHUB_TOKEN }}
+    #     command: ghasignoff
+    #     reaction: "true"
+    #     reaction-type: "+1"
+    #     allow-edits: "false"
+    #     permission-level: admin
