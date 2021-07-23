@@ -40,12 +40,12 @@ jobs:
             <br><br>
             🔹 From. HackaLearn 운영진 일동 🔹
 
-  reviewer-assigning:
-  name: 'Assign a reviewer on submission: deverl-kr/hackalearn'
+  auto-assigning:
+  name: 'Randomly auto select one assignee on submission'
   runs-on: ubuntu-latest
   steps:
-    - uses: AveryCameronUofR/add-reviewer-gh-action@1.0.3
+    - uses: gerardabello/auto-assign@v1
       with:
-        # reviewers: "devrel-kr/hackathon"
-        reviewers: ${{ secrets.PR_REVIEWERS }}
-        token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: "${{ secrets.GITHUB_TOKEN }}"
+        number-of-assignees: 1
+        assignee-pool: "${{ secrets.PR_ASSIGNEES }}"
