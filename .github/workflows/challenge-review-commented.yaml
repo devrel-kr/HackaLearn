@@ -24,47 +24,47 @@ jobs:
       run: |
         Write-Host '${{ toJSON(github.event) }}'
 
-    - name: Record challenge ASWA
-      if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/aswasignoff' }}
-      uses: joelwmale/webhook-action@2.1.0
-      with:
-        url: ${{ secrets.FLOW_URL }}
-        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "aswa", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
+    # - name: Record challenge ASWA
+    #   if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/aswasignoff' }}
+    #   uses: joelwmale/webhook-action@2.1.0
+    #   with:
+    #     url: ${{ secrets.FLOW_URL }}
+    #     body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "aswa", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
 
-    - name: Record challenge GHA
-      if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/ghasignoff' }}
-      uses: joelwmale/webhook-action@2.1.0
-      with:
-        url: ${{ secrets.FLOW_URL }}
-        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "gha", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
+    # - name: Record challenge GHA
+    #   if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/ghasignoff' }}
+    #   uses: joelwmale/webhook-action@2.1.0
+    #   with:
+    #     url: ${{ secrets.FLOW_URL }}
+    #     body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "gha", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
 
-    - name: Record challenge SOCIAL
-      if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/socialsignoff' }}
-      uses: joelwmale/webhook-action@2.1.0
-      with:
-        url: ${{ secrets.FLOW_URL }}
-        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "social", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
+    # - name: Record challenge SOCIAL
+    #   if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/socialsignoff' }}
+    #   uses: joelwmale/webhook-action@2.1.0
+    #   with:
+    #     url: ${{ secrets.FLOW_URL }}
+    #     body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "social", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
 
-    - name: Record challenge APP
-      if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/appsignoff' }}
-      uses: joelwmale/webhook-action@2.1.0
-      with:
-        url: ${{ secrets.FLOW_URL }}
-        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "app", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
+    # - name: Record challenge APP
+    #   if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/appsignoff' }}
+    #   uses: joelwmale/webhook-action@2.1.0
+    #   with:
+    #     url: ${{ secrets.FLOW_URL }}
+    #     body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "app", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
 
-    - name: Record challenge REPO
-      if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/reposignoff' }}
-      uses: joelwmale/webhook-action@2.1.0
-      with:
-        url: ${{ secrets.FLOW_URL }}
-        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "repo", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
+    # - name: Record challenge REPO
+    #   if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/reposignoff' }}
+    #   uses: joelwmale/webhook-action@2.1.0
+    #   with:
+    #     url: ${{ secrets.FLOW_URL }}
+    #     body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "repo", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
 
-    - name: Record challenge RETRO
-      if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/retrosignoff' }}
-      uses: joelwmale/webhook-action@2.1.0
-      with:
-        url: ${{ secrets.FLOW_URL }}
-        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "retro", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
+    # - name: Record challenge RETRO
+    #   if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/retrosignoff' }}
+    #   uses: joelwmale/webhook-action@2.1.0
+    #   with:
+    #     url: ${{ secrets.FLOW_URL }}
+    #     body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "retro", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
 
   # approve_signoff_aswa:
   #   # Run only if the issue is related to PR && comment is '/aswasignoff' && labelled as 'review-completed' && commenter is one of PR_REVIEWERS && commenter is assignee
