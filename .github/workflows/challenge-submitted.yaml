@@ -1,3 +1,4 @@
+
 name: On Challenge Submitted
 
 on:
@@ -21,3 +22,20 @@ jobs:
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         configuration-path: '.github/labeler.yml'
+
+  commenting:
+    name: 'Add a comment on submission'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: bubkoo/auto-comment@v1.0.7
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          pullRequestOpenedReactions: 'rocket, +1'
+          pullRequestOpened: >
+            👋🏼 @{{ author }} 님!
+            <br>
+            챌린지 완료 PR를 생성해 주셔서 감사합니다! 🎉 참가자님의 해커톤 완주를 응원해요! 💪🏼
+            <br>
+            PR 템플릿 작성 가이드라인을 잘 준수하셨는지 확인해주세요. 최대한 빠르게 리뷰하겠습니다! 😊
+            <br><br>
+            🔹 From. HackaLearn 운영진 일동 🔹
