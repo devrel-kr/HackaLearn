@@ -11,14 +11,12 @@ on:
 
 jobs:
   labelling:
-    name: 'Add a label on submission: review-required'
+    name: 'Add a label on update: review-required'
 
     runs-on: ubuntu-latest
 
     steps:
     - name: Add a label
-      uses: actions/labeler@v3
+      uses: andymckay/labeler@master
       with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
-        configuration-path: '.github/labeler.yml'
-        sync-labels: true
+        add-labels: review-required

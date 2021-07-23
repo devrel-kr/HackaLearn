@@ -2,12 +2,9 @@ name: On Challenge Labelled
 
 on:
   pull_request:
-    branches:
-    - main
     types:
     - labeled
     - unlabeled
-    - synchronize
 
 jobs:
   labelling:
@@ -16,8 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: 'Respond to label'
+    - name: Respond to label
       uses: dessant/label-actions@v2
       with:
         process-only: prs
-        config-path: '.github/label-actions.yml'
