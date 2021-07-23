@@ -5,7 +5,3 @@ review-required:
 review-completed:
   prs:
     unlabel: review-required
-
-ops:
-  comment: >
-    `ops` Pull Request
