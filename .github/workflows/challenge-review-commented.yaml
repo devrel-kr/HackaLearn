@@ -11,7 +11,8 @@ env:
 jobs:
   signoff:
     # Run only if the issue is related to PR && labelled as 'review-completed' && commenter is assignee
-    if: ${{ github.event.issue.pull_request }} && ${{ contains(github.event.issue.labels.*.name, 'review-completed') }} && ${{ github.event.comment.user.login == github.event.issue.assignee.login }}
+    if: ${{ github.event.issue.pull_request }}
+    # if: ${{ github.event.issue.pull_request }} && ${{ contains(github.event.issue.labels.*.name, 'review-completed') }} && ${{ github.event.comment.user.login == github.event.issue.assignee.login }}
     name: 'Sign-off challenge'
 
     runs-on: ubuntu-latest
@@ -19,10 +20,51 @@ jobs:
     steps:
     - name: Get event payload
       # If commenter is one of PR_REVIEWERS && comment is '/helloworld'
-      if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/helloworld' }}
+      # if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/helloworld' }}
       shell: pwsh
       run: |
         Write-Host '${{ toJSON(github.event) }}'
+
+    - name: Get checkpoints
+      id: checkpoint
+      shell: pwsh
+      run: |
+        $hasValidLabel = ${{ contains(github.event.issue.labels.*.name, 'review-completed') }}
+        $isCommenterAssignee = ${{ github.event.comment.user.login == github.event.issue.assignee.login }}
+        $isValidCommenter = ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }}
+        $isHelloWorld = ${{ github.event.comment.body == '/helloworld' }}
+        $isAswaSignoff = ${{ github.event.comment.body == '/aswasignoff' }}
+        $isGhaSignoff = ${{ github.event.comment.body == '/ghasignoff' }}
+        $isSocialSignoff = ${{ github.event.comment.body == '/socialsignoff' }}
+        $isAppSignoff = ${{ github.event.comment.body == '/appsignoff' }}
+        $isRepoSignoff = ${{ github.event.comment.body == '/reposignoff' }}
+        $isRetroSignoff = ${{ github.event.comment.body == '/retrosignoff' }}
+
+        echo "::set-output name=hasValidLabel::$hasValidLabel"
+        echo "::set-output name=isCommenterAssignee::$isCommenterAssignee"
+        echo "::set-output name=isValidCommenter::$isValidCommenter"
+        echo "::set-output name=isHelloWorld::$isHelloWorld"
+        echo "::set-output name=isAswaSignoff::$isAswaSignoff"
+        echo "::set-output name=isGhaSignoff::$isGhaSignoff"
+        echo "::set-output name=isSocialSignoff::$isSocialSignoff"
+        echo "::set-output name=isAppSignoff::$isAppSignoff"
+        echo "::set-output name=isRepoSignoff::$isRepoSignoff"
+        echo "::set-output name=isRetroSignoff::$isRetroSignoff"
+
+    - name: Get outputs
+      shell: pwsh
+      run: |
+        echo ${{ steps.checkpoint.outputs.hasValidLabel }}
+        echo ${{ steps.checkpoint.outputs.hasValidLabel}}
+        echo ${{ steps.checkpoint.outputs.isCommenterAssignee }}
+        echo ${{ steps.checkpoint.outputs.isValidCommenter }}
+        echo ${{ steps.checkpoint.outputs.isHelloWorld }}
+        echo ${{ steps.checkpoint.outputs.isAswaSignoff }}
+        echo ${{ steps.checkpoint.outputs.isGhaSignoff }}
+        echo ${{ steps.checkpoint.outputs.isSocialSignoff }}
+        echo ${{ steps.checkpoint.outputs.isAppSignoff }}
+        echo ${{ steps.checkpoint.outputs.isRepoSignoff }}
+        echo ${{ steps.checkpoint.outputs.isRetroSignoff }}
 
     # - name: Record challenge ASWA
     #   if: ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.comment.body == '/aswasignoff' }}
