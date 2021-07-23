@@ -37,7 +37,7 @@ jobs:
           🔹 From. HackaLearn 운영진 일동 🔹
 
     - name: Randomly assign a staff
-      uses: gerardabello/auto-assign@v1
+      uses: gerardabello/auto-assign@v1.0.1
       with:
         github-token: "${{ secrets.GITHUB_TOKEN }}"
         number-of-assignees: 1
