@@ -41,11 +41,11 @@ jobs:
             🔹 From. HackaLearn 운영진 일동 🔹
 
   auto-assigning:
-  name: 'Randomly auto select one assignee on submission'
-  runs-on: ubuntu-latest
-  steps:
-    - uses: gerardabello/auto-assign@v1.0.1
-      with:
-        github-token: "${{ secrets.GITHUB_TOKEN }}"
-        number-of-assignees: 1
-        assignee-pool: "${{ secrets.PR_ASSIGNEES }}"
+    name: 'Randomly auto select one assignee on submission'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gerardabello/auto-assign@v1.0.1
+        with:
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
+          number-of-assignees: 1
+          assignee-pool: "${{ secrets.PR_ASSIGNEES }}"
