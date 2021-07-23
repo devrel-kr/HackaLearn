@@ -41,7 +41,7 @@ jobs:
         $body = ${ "labels" = $labelsToAdd }
 
         $url = "https://api.github.com/repos/$owner/$repository/issues/$issueId/labels"
-        Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json
+        Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
 
         $labelsToRemove = "${{ github.event.inputs.labelsToRemove }}" -split ","
         $labelsToRemove | ForEach-Object {
