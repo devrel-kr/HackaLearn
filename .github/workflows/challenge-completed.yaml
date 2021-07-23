@@ -31,14 +31,14 @@ jobs:
     - name: Update labels on PR
       shell: pwsh
       run: |
-        $headers = @{ "Authorization" = "${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json" }
+        $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json" }
 
         $owner = "devrel-kr"
         $repository = "HackaLearn"
         $issueId = "${{ github.event.inputs.prId }}"
 
         $labelsToAdd = "${{ github.event.inputs.labelsToAdd }}" -split ","
-        $body = ${ "labels" = $labelsToAdd }
+        $body = @{ "labels" = $labelsToAdd }
 
         $url = "https://api.github.com/repos/$owner/$repository/issues/$issueId/labels"
         Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
