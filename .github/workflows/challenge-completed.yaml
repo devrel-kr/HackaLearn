@@ -23,11 +23,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Get event payload
-      shell: pwsh
-      run: |
-        Write-Host '${{ toJSON(github.event) }}'
-
     - name: Update labels on PR
       shell: pwsh
       run: |

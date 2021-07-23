@@ -16,10 +16,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Get event payload
-      shell: pwsh
-      run: |
-        Write-Host '${{ toJSON(github.event) }}'
+    # - name: Get event payload
+    #   shell: pwsh
+    #   run: |
+    #     Write-Host '${{ toJSON(github.event) }}'
 
     - name: Get checkpoints
       id: checkpoint
@@ -49,20 +49,20 @@ jobs:
         echo "::set-output name=isRetroSignoff::$isRetroSignoff"
         echo "::set-output name=timestamp::$timestamp"
 
-    - name: Get outputs
-      shell: pwsh
-      run: |
-        echo "hasValidLabel: ${{ steps.checkpoint.outputs.hasValidLabel }}"
-        echo "isCommenterAssignee: ${{ steps.checkpoint.outputs.isCommenterAssignee }}"
-        echo "isValidCommenter: ${{ steps.checkpoint.outputs.isValidCommenter }}"
-        echo "isHelloWorld: ${{ steps.checkpoint.outputs.isHelloWorld }}"
-        echo "isAswaSignoff: ${{ steps.checkpoint.outputs.isAswaSignoff }}"
-        echo "isGhaSignoff: ${{ steps.checkpoint.outputs.isGhaSignoff }}"
-        echo "isSocialSignoff: ${{ steps.checkpoint.outputs.isSocialSignoff }}"
-        echo "isAppSignoff: ${{ steps.checkpoint.outputs.isAppSignoff }}"
-        echo "isRepoSignoff: ${{ steps.checkpoint.outputs.isRepoSignoff }}"
-        echo "isRetroSignoff: ${{ steps.checkpoint.outputs.isRetroSignoff }}"
-        echo "timestamp: ${{ steps.checkpoint.outputs.timestamp }}"
+    # - name: Get outputs
+    #   shell: pwsh
+    #   run: |
+    #     echo "hasValidLabel: ${{ steps.checkpoint.outputs.hasValidLabel }}"
+    #     echo "isCommenterAssignee: ${{ steps.checkpoint.outputs.isCommenterAssignee }}"
+    #     echo "isValidCommenter: ${{ steps.checkpoint.outputs.isValidCommenter }}"
+    #     echo "isHelloWorld: ${{ steps.checkpoint.outputs.isHelloWorld }}"
+    #     echo "isAswaSignoff: ${{ steps.checkpoint.outputs.isAswaSignoff }}"
+    #     echo "isGhaSignoff: ${{ steps.checkpoint.outputs.isGhaSignoff }}"
+    #     echo "isSocialSignoff: ${{ steps.checkpoint.outputs.isSocialSignoff }}"
+    #     echo "isAppSignoff: ${{ steps.checkpoint.outputs.isAppSignoff }}"
+    #     echo "isRepoSignoff: ${{ steps.checkpoint.outputs.isRepoSignoff }}"
+    #     echo "isRetroSignoff: ${{ steps.checkpoint.outputs.isRetroSignoff }}"
+    #     echo "timestamp: ${{ steps.checkpoint.outputs.timestamp }}"
 
     - name: Record challenge HelloWorld
       if: ${{ steps.checkpoint.outputs.hasValidLabel == 'true' && steps.checkpoint.outputs.isCommenterAssignee == 'true' && steps.checkpoint.outputs.isValidCommenter == 'true' && steps.checkpoint.outputs.isHelloWorld == 'true' }}
@@ -111,105 +111,3 @@ jobs:
       with:
         url: ${{ secrets.FLOW_URL }}
         body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "retro", "timestamp": "${{ steps.checkpoint.outputs.timestamp }}", "prId": ${{ github.event.issue.number }} }'
-
-  # approve_signoff_aswa:
-  #   # Run only if the issue is related to PR && comment is '/aswasignoff' && labelled as 'review-completed' && commenter is one of PR_REVIEWERS && commenter is assignee
-  #   if: ${{ github.event.issue.pull_request }} && ${{ github.event.comment.body == '/aswasignoff' }} && ${{ contains(github.event.issue.labels.*.name, 'review-completed') }} && ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.issue.assignee.login == github.event.comment.user.login }}
-  #   name: 'Approve Signoff for ASWA'
-
-  #   runs-on: ubuntu-latest
-
-  #   steps:
-  #   # - name: Get event payload
-  #   #   shell: pwsh
-  #   #   run: |
-  #   #     Write-Host '${{ toJSON(github.event) }}'
-
-  #   # - name: Get event details
-  #   #   shell: pwsh
-  #   #   run: |
-  #   #     Write-Host '* isPR: ${{ github.event.issue.pull_request }}'
-  #   #     Write-Host '* body: ${{ github.event.comment.body }}'
-  #   #     Write-Host '* isValidComment: ${{ github.event.comment.body == '/helloworld' }}'
-  #   #     Write-Host '* commenter: ${{ github.event.comment.user.login }}'
-  #   #     Write-Host '* isValidReviewer: ${{ contains(secrets.PR_REVIEWERS, github.event.comment.user.login) }}'
-  #   #     Write-Host '* isAssigneeReviewer: ${{ github.event.issue.assignee.login == github.event.comment.user.login }}'
-  #   #     Write-Host '* labels: ${{ toJSON(github.event.issue.labels.*.name) }}'
-  #   #     Write-Host '* containLabel: ${{ contains(github.event.issue.labels.*.name, 'ops') }}'
-  #   #     Write-Host '* containLabel: ${{ contains(github.event.issue.labels.*.name, 'review-completed') }}'
-
-  #   - name: Send webhook request to record challenge
-  #     uses: joelwmale/webhook-action@2.1.0
-  #     with:
-  #       url: ${{ secrets.FLOW_URL }}
-  #       body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "aswa", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
-
-  # approve_signoff_gha:
-  #   # Run only if the issue is related to PR && comment is '/ghasignoff' && labelled as 'review-completed' && commenter is one of PR_REVIEWERS && commenter is assignee
-  #   if: ${{ github.event.issue.pull_request }} && ${{ github.event.comment.body == '/ghasignoff' }} && ${{ contains(github.event.issue.labels.*.name, 'review-completed') }} && ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.issue.assignee.login == github.event.comment.user.login }}
-  #   name: 'Approve Signoff for GHA'
-
-  #   runs-on: ubuntu-latest
-
-  #   steps:
-  #   - name: Send webhook request to record challenge
-  #     uses: joelwmale/webhook-action@2.1.0
-  #     with:
-  #       url: ${{ secrets.FLOW_URL }}
-  #       body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "gha", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
-
-  # approve_signoff_social:
-  #   # Run only if the issue is related to PR && comment is '/socialsignoff' && labelled as 'review-completed' && commenter is one of PR_REVIEWERS && commenter is assignee
-  #   if: ${{ github.event.issue.pull_request }} && ${{ github.event.comment.body == '/socialsignoff' }} && ${{ contains(github.event.issue.labels.*.name, 'review-completed') }} && ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.issue.assignee.login == github.event.comment.user.login }}
-  #   name: 'Approve Signoff for Social'
-
-  #   runs-on: ubuntu-latest
-
-  #   steps:
-  #   - name: Send webhook request to record challenge
-  #     uses: joelwmale/webhook-action@2.1.0
-  #     with:
-  #       url: ${{ secrets.FLOW_URL }}
-  #       body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "social", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
-
-  # approve_signoff_app:
-  #   # Run only if the issue is related to PR && comment is '/appsignoff' && labelled as 'review-completed' && commenter is one of PR_REVIEWERS && commenter is assignee
-  #   if: ${{ github.event.issue.pull_request }} && ${{ github.event.comment.body == '/appsignoff' }} && ${{ contains(github.event.issue.labels.*.name, 'review-completed') }} && ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.issue.assignee.login == github.event.comment.user.login }}
-  #   name: 'Approve Signoff for App'
-
-  #   runs-on: ubuntu-latest
-
-  #   steps:
-  #   - name: Send webhook request to record challenge
-  #     uses: joelwmale/webhook-action@2.1.0
-  #     with:
-  #       url: ${{ secrets.FLOW_URL }}
-  #       body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "app", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
-
-  # approve_signoff_repo:
-  #   # Run only if the issue is related to PR && comment is '/reposignoff' && labelled as 'review-completed' && commenter is one of PR_REVIEWERS && commenter is assignee
-  #   if: ${{ github.event.issue.pull_request }} && ${{ github.event.comment.body == '/reposignoff' }} && ${{ contains(github.event.issue.labels.*.name, 'review-completed') }} && ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.issue.assignee.login == github.event.comment.user.login }}
-  #   name: 'Approve Signoff for Repo'
-
-  #   runs-on: ubuntu-latest
-
-  #   steps:
-  #   - name: Send webhook request to record challenge
-  #     uses: joelwmale/webhook-action@2.1.0
-  #     with:
-  #       url: ${{ secrets.FLOW_URL }}
-  #       body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "repo", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
-
-  # approve_signoff_retro:
-  #   # Run only if the issue is related to PR && comment is '/retrosignoff' && labelled as 'review-completed' && commenter is one of PR_REVIEWERS && commenter is assignee
-  #   if: ${{ github.event.issue.pull_request }} && ${{ github.event.comment.body == '/retrosignoff' }} && ${{ contains(github.event.issue.labels.*.name, 'review-completed') }} && ${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }} && ${{ github.event.issue.assignee.login == github.event.comment.user.login }}
-  #   name: 'Approve Signoff for Retro'
-
-  #   runs-on: ubuntu-latest
-
-  #   steps:
-  #   - name: Send webhook request to record challenge
-  #     uses: joelwmale/webhook-action@2.1.0
-  #     with:
-  #       url: ${{ secrets.FLOW_URL }}
-  #       body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "retro", "timestamp": "${{ github.event.issue.comment.created_at }}", "prId": ${{ github.event.issue.number }} }'
