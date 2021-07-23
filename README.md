@@ -6,7 +6,7 @@
     <img src="assets/banner-768x216@2-ko.png" alt="HackaLearn 배너" width="768" height="216"/>
 </div>
 
-HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 지식을 직접 배워서 해커톤에 적용하는 이벤트입니다. 이번 HackaLearn 이벤트의 주제는 바로 [애저 정적 웹 앱(Azure Static Web Apps)][aswa]과 [깃헙 액션(GitHub Actions)][gha]입니다. 2주간 공부하고 직접 웹 애플리케이션을 만들어 보는 HackaLearn 이벤트! 멋진 애플리케이션을 만들어 보세요! 푸짐한 상품이 기다랍니다.
+HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 지식을 직접 배워서 해커톤에 적용하는 이벤트입니다. 이번 HackaLearn 이벤트의 주제는 바로 [애저 정적 웹 앱(Azure Static Web Apps)][aswa]과 [깃헙 액션(GitHub Actions)][gha]입니다. 2주간 공부하고 직접 웹 애플리케이션을 만들어 보는 HackaLearn 이벤트! 멋진 애플리케이션을 만들어 보세요! 푸짐한 상품이 기다립니다.
 
 
 ## ⏰ 일정 ##
