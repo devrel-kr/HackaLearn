@@ -39,3 +39,13 @@ jobs:
             PR 템플릿 작성 가이드라인을 잘 준수하셨는지 확인해주세요. 최대한 빠르게 리뷰하겠습니다! 😊
             <br><br>
             🔹 From. HackaLearn 운영진 일동 🔹
+
+  reviewer-assigning:
+  name: 'Assign a reviewer on submission: deverl-kr/hackalearn'
+  runs-on: ubuntu-latest
+  steps:
+    - uses: AveryCameronUofR/add-reviewer-gh-action@1.0.3
+      with:
+        # reviewers: "devrel-kr/hackathon"
+        reviewers: ${{ secrets.PR_REVIEWERS }}
+        token: ${{ secrets.GITHUB_TOKEN }}
