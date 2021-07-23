@@ -26,6 +26,7 @@ jobs:
         Write-Host '* isValidComment: ${{ github.event.comment.body == '/helloworld' }}'
         Write-Host '* commenter: ${{ github.event.issue.comment.user.login }}'
         Write-Host '* isValidReviewer: ${{ contains(secrets.PR_REVIEWERS, github.event.issue.comment.user.login) }}'
+        Write-Host '* isAssigneeReviewer: ${{ github.event.issue.assignee.login == github.event.issue.comment.user.login }}'
         Write-Host '* labels: ${{ toJSON(github.event.issue.labels.*.name) }}'
         Write-Host '* containLabel: ${{ contains(github.event.issue.labels.*.name, 'ops') }}'
         Write-Host '* containLabel: ${{ contains(github.event.issue.labels.*.name, 'review-completed') }}'
