@@ -37,7 +37,8 @@ You MUST complete **all the FIVE challenge missions** below. For more details wi
 1. **Cloud Skills Challenge #1**: TBA
 1. **Cloud Skills Challenge #2**: TBA
 1. **Social Media Selfie Challenge**: TBA
-1. **Web Application & GitHub Repository Challenge**: TBA
+1. **Web Application Challenge**: TBA
+1. **GitHub Repository Challenge**: TBA
 1. **Blog Retrospective Challenge**: TBA
 
 
@@ -57,14 +58,20 @@ During the event, we are running a few hands-on-lab workshops for you. After the
 
 ## 🏅 Awards ##
 
-* Cloud Skills Challenge Completion
-* Best for Creativity
-* Best for UX
-* Best for Social Good
+* All participants who complete 6 challenges
+* 1 Team for Best Creativity
+* 1 Team for Best UX
+* 1 Team for Best Social Good
 
 ## 🏆 Prizes ##
 
-TBA
+* 1 Team for Best Creativity &ndash; JBL Charge 4
+* 1 Team for Best UX &ndash; Microsoft Surface Headphones 2
+* 1 Team for Best Social Good &ndash; Microsoft Surface Laptop 4
+
+![Prizes][prizes]
+
+> * Prize details may change without prior notice.
 
 
 ## 🎭 Privacy Policy ##
