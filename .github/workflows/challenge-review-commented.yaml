@@ -25,16 +25,16 @@ jobs:
       id: checkpoint
       shell: pwsh
       run: |
-        $hasValidLabel = [System.Convert]::ToBoolean("${{ contains(github.event.issue.labels.*.name, 'review-completed') }}")
-        $isCommenterAssignee = [System.Convert]::ToBoolean("${{ github.event.comment.user.login == github.event.issue.assignee.login }}")
-        $isValidCommenter = [System.Convert]::ToBoolean("${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }}")
-        $isHelloWorld = [System.Convert]::ToBoolean("${{ github.event.comment.body == '/helloworld' }}")
-        $isAswaSignoff = [System.Convert]::ToBoolean("${{ github.event.comment.body == '/aswasignoff' }}")
-        $isGhaSignoff = [System.Convert]::ToBoolean("${{ github.event.comment.body == '/ghasignoff' }}")
-        $isSocialSignoff = [System.Convert]::ToBoolean("${{ github.event.comment.body == '/socialsignoff' }}")
-        $isAppSignoff = [System.Convert]::ToBoolean("${{ github.event.comment.body == '/appsignoff' }}")
-        $isRepoSignoff = [System.Convert]::ToBoolean("${{ github.event.comment.body == '/reposignoff' }}")
-        $isRetroSignoff = [System.Convert]::ToBoolean("${{ github.event.comment.body == '/retrosignoff' }}")
+        $hasValidLabel = "${{ contains(github.event.issue.labels.*.name, 'review-completed') }}"
+        $isCommenterAssignee = "${{ github.event.comment.user.login == github.event.issue.assignee.login }}"
+        $isValidCommenter = "${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }}"
+        $isHelloWorld = "${{ github.event.comment.body == '/helloworld' }}"
+        $isAswaSignoff = "${{ github.event.comment.body == '/aswasignoff' }}"
+        $isGhaSignoff = "${{ github.event.comment.body == '/ghasignoff' }}"
+        $isSocialSignoff = "${{ github.event.comment.body == '/socialsignoff' }}"
+        $isAppSignoff = "${{ github.event.comment.body == '/appsignoff' }}"
+        $isRepoSignoff = "${{ github.event.comment.body == '/reposignoff' }}"
+        $isRetroSignoff = "${{ github.event.comment.body == '/retrosignoff' }}"
         $timestamp = "${{ github.event.comment.created_at }}"
 
         echo "::set-output name=hasValidLabel::$hasValidLabel"
@@ -65,7 +65,7 @@ jobs:
         echo "timestamp: ${{ steps.checkpoint.outputs.timestamp }}"
 
     - name: Record challenge HelloWorld
-      if: ${{ steps.checkpoint.outputs.hasValidLabel == true && steps.checkpoint.outputs.isCommenterAssignee == true && steps.checkpoint.outputs.isValidCommenter == true && steps.checkpoint.outputs.isHelloWorld == true }}
+      if: ${{ steps.checkpoint.outputs.hasValidLabel == 'true' && steps.checkpoint.outputs.isCommenterAssignee == 'true' && steps.checkpoint.outputs.isValidCommenter == 'true' && steps.checkpoint.outputs.isHelloWorld == 'true' }}
       shell: pwsh
       run: |
         echo "Hello World!"
