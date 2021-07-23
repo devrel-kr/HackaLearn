@@ -65,7 +65,7 @@ jobs:
         echo ${{ steps.checkpoint.outputs.timestamp }}
 
     - name: Record challenge HelloWorld
-      if: steps.checkpoint.outputs.hasValidLabel && steps.checkpoint.outputs.isCommenterAssignee && steps.checkpoint.outputs.isValidCommenter && steps.checkpoint.outputs.isHelloWorld
+      if: steps.checkpoint.outputs.hasValidLabel == true && steps.checkpoint.outputs.isCommenterAssignee == true && steps.checkpoint.outputs.isValidCommenter == true && steps.checkpoint.outputs.isHelloWorld == true
       shell: pwsh
       run: |
         echo "Hello World!"
