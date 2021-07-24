@@ -70,7 +70,7 @@ HackaLearn 기간중 챌린지를 완수하기 위한 기술적인 문제들에 
 
 | <img src="./mentors/chulhyuncho.png" width="150" alt="조철현 멘토"/> | <img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="박정은 멘토"/> | <img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/> | <img src="./mentors/minhoyang.jpg" width="150" alt="양민호 멘토"/> |
 | :---: | :---: | :---: | :---: | :---: |
-| 일반<br/>[조철현 멘토](./mentors#조철현-멘토--일반)<br/>이노베이션 아카데미 | 기획<br/>[김수정 멘토](./mentors#김수정-멘토--기획)<br/>Angelhack | UX<br/>[박정은 멘토](./mentors#박정은-멘토--UX)<br/>IBM | 프론트엔드<br/>[임진호 멘토](./mentors#임진호-멘토--프론트엔드)<br/>마켓컬리 | 백엔드<br/>[양민호 멘토](./mentors#양민호-멘토--백엔드)<br/>커먼컴퓨터 |
+| 일반<br/>[조철현 멘토](./mentors#chulhyuncho)<br/>이노베이션 아카데미 | 기획<br/>[김수정 멘토](./mentors#suekim)<br/>Angelhack | UX<br/>[박정은 멘토](./mentors#aimeepark)<br/>IBM | 프론트엔드<br/>[임진호 멘토](./mentors#jaylim)<br/>마켓컬리 | 백엔드<br/>[양민호 멘토](./mentors#minhoyang)<br/>커먼컴퓨터 |
 
 
 ## 🏅 시상 부문 ##
