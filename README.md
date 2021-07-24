@@ -71,13 +71,18 @@ HackaLearn 기간중 기술적인 문제들에 막히셨나요? 여기 MLSA, GCE
     <td><img src="./mentors/minhooyang.png" width="150" alt="양민호 멘토"/></td>
   </tr>
   <tr style="text-align: center;">
-    <td>일반<br/>조철현 멘토<br/>이노베이션 아카데미</td>
-    <td>기획<br/>김수정 멘토<br/>엔젤핵</td>
-    <td>UX<br/>박정은 멘토<br/>IBM</td>
-    <td>프론트엔드<br/>임진호 멘토<br/>마켓컬리</td>
-    <td>백엔드<br/>양민호 멘토<br/>커먼컴퓨터</td>
+    <td><div style="text-align: center;">일반<br/>조철현 멘토<br/>이노베이션 아카데미</div></td>
+    <td><div style="text-align: center;">기획<br/>김수정 멘토<br/>엔젤핵</div></td>
+    <td><div style="text-align: center;">UX<br/>박정은 멘토<br/>IBM</div></td>
+    <td><div style="text-align: center;">프론트엔드<br/>임진호 멘토<br/>마켓컬리</div></td>
+    <td><div style="text-align: center;">백엔드<br/>양민호 멘토<br/>커먼컴퓨터</div></td>
   </tr>
 </table>
+
+| <img src="./mentors/chulhyuncho.png" width="150" alt="조철현 멘토"/> | <img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/> | <img src="./mentors/aimeepark.png" width="150" alt="박정은 멘토"/> | <img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/> | <img src="./mentors/minhooyang.png" width="150" alt="양민호 멘토"/> |
+| :---: | :---: | :---: | :---: | :---: |
+| 일반<br/>조철현 멘토<br/>이노베이션 아카데미 | 기획<br/>김수정 멘토<br/>엔젤핵 | UX<br/>박정은 멘토<br/>IBM | 프론트엔드<br/>임진호 멘토<br/>마켓컬리 | 백엔드<br/>양민호 멘토<br/>커먼컴퓨터 |
+
 
 
 ## 🏅 시상 부문 ##
