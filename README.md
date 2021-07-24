@@ -52,9 +52,32 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 
 HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함께 애저 정적 웹 앱, 깃헙 액션을 만들어 보고 여러분의 애플리케이션 개발에 적용시켜 보세요!
 
-* [Microsoft Learn Student Ambassadors][mlsa]와 함께 하는 핸즈온 랩 세션
-* [GitHub Campus Experts][gce]와 함께 하는 핸즈온 랩 세션
-* [Microsoft Cloud Advocate][ca]와 함께 하는 핸즈온 랩 세션
+* [Microsoft Learn Student Ambassadors (MLSA)][mlsa]와 함께 하는 핸즈온 랩 세션
+* [GitHub Campus Experts (GCE)][gce]와 함께 하는 핸즈온 랩 세션
+* [Microsoft Cloud Advocate (CA)][ca]와 함께 하는 핸즈온 랩 세션
+
+
+## 🧑🏻‍🏫 기술 멘토 ##
+
+HackaLearn 기간중 기술적인 문제들에 막히셨나요? 여기 MLSA, GCE, CA 및 다양한 현장 전문가 분들께서 여러분들이 HackaLearn 기간중 겪는 여러가지 기술적인 문제 해결에 멘토링을 해 주실 예정입니다.
+<br/>
+
+<table>
+  <tr style="text-align: center;">
+    <td><img src="./mentors/chulhyuncho.png" width="150" alt="조철현 멘토"/></td>
+    <td><img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/></td>
+    <td><img src="./mentors/aimeepark.png" width="150" alt="박정은 멘토"/></td>
+    <td><img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/></td>
+    <td><img src="./mentors/minhooyang.png" width="150" alt="양민호 멘토"/></td>
+  </tr>
+  <tr style="text-align: center;">
+    <td>일반<br/>조철현 멘토<br/>이노베이션 아카데미</td>
+    <td>기획<br/>김수정 멘토<br/>엔젤핵</td>
+    <td>UX<br/>박정은 멘토<br/>IBM</td>
+    <td>프론트엔드<br/>임진호 멘토<br/>마켓컬리</td>
+    <td>백엔드<br/>양민호 멘토<br/>커먼컴퓨터</td>
+  </tr>
+</table>
 
 
 ## 🏅 시상 부문 ##
