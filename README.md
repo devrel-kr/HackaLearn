@@ -57,6 +57,12 @@ HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함�
 * [Microsoft Cloud Advocate][ca]와 함께 하는 핸즈온 랩 세션
 
 
+## 🛠 개발 도구 사전 준비사항 ##
+
+HackaLearn 기간 중 다양한 개발 도구 및 무료 계정을 사용해야 하는데요, 아래 링크를 통해 참가자의 운영체제에 맞는 개발 도구를 선택해서 사용할 수 있습니다.
+👉 [개발 도구 사전 준비사항 보러가기][tools]
+
+
 ## 🏅 시상 부문 ##
 
 * 여섯 가지 모든 챌린지를 완료한 참가자 전부
@@ -107,3 +113,4 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [mlsa]: https://aka.ms/hackalearn/mlsa
 [gce]: https://aka.ms/hackalearn/gce
 [ca]: https://aka.ms/hackalearn/ca
+[tools]: ./tools
