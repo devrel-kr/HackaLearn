@@ -20,11 +20,11 @@
 
 ## 박정은 멘토 &ndash; UX ##
 
-TBD
-
-<!-- <div>
+<div>
   <img src="./aimeepark.jpg" width="500" alt="박정은 멘토"/>
-</div> -->
+</div>
+
+> 사람과 사람, 사람과 기술을 연결하는 일을 하고있는 박정은 입니다. Service design, UX를 공부했고 지금은 IBM Garage designer로 즐겁고 바쁜 시간을 보내고 있습니다. 사람을 위한 IT 서비스를 잘 하고싶고 저와 같은 고민을 하는 분들과 경험을 공유하고 싶습니다.
 
 
 ## 임진호 멘토 &ndash; 프론트엔드 ##
