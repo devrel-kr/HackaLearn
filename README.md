@@ -62,26 +62,9 @@ HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함�
 HackaLearn 기간중 기술적인 문제들에 막히셨나요? 여기 MLSA, GCE, CA 및 다양한 현장 전문가 분들께서 여러분들이 HackaLearn 기간중 겪는 여러가지 기술적인 문제 해결에 멘토링을 해 주실 예정입니다.
 <br/>
 
-<table>
-  <tr style="text-align: center;">
-    <td><img src="./mentors/chulhyuncho.png" width="150" alt="조철현 멘토"/></td>
-    <td><img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/></td>
-    <td><img src="./mentors/aimeepark.png" width="150" alt="박정은 멘토"/></td>
-    <td><img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/></td>
-    <td><img src="./mentors/minhooyang.png" width="150" alt="양민호 멘토"/></td>
-  </tr>
-  <tr style="text-align: center;">
-    <td><div style="text-align: center;">일반<br/>조철현 멘토<br/>이노베이션 아카데미</div></td>
-    <td><div style="text-align: center;">기획<br/>김수정 멘토<br/>엔젤핵</div></td>
-    <td><div style="text-align: center;">UX<br/>박정은 멘토<br/>IBM</div></td>
-    <td><div style="text-align: center;">프론트엔드<br/>임진호 멘토<br/>마켓컬리</div></td>
-    <td><div style="text-align: center;">백엔드<br/>양민호 멘토<br/>커먼컴퓨터</div></td>
-  </tr>
-</table>
-
 | <img src="./mentors/chulhyuncho.png" width="150" alt="조철현 멘토"/> | <img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/> | <img src="./mentors/aimeepark.png" width="150" alt="박정은 멘토"/> | <img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/> | <img src="./mentors/minhooyang.png" width="150" alt="양민호 멘토"/> |
 | :---: | :---: | :---: | :---: | :---: |
-| 일반<br/>조철현 멘토<br/>이노베이션 아카데미 | 기획<br/>김수정 멘토<br/>엔젤핵 | UX<br/>박정은 멘토<br/>IBM | 프론트엔드<br/>임진호 멘토<br/>마켓컬리 | 백엔드<br/>양민호 멘토<br/>커먼컴퓨터 |
+| 일반<br/>[조철현 멘토](./mentors#조철현-멘토--일반)<br/>이노베이션 아카데미 | 기획<br/>[김수정 멘토](./mentors#김수정-멘토--기획)<br/>엔젤핵 | UX<br/>[박정은 멘토](./mentors#박정은-멘토--UX)<br/>IBM | 프론트엔드<br/>[임진호 멘토](./mentors#임진호-멘토--프론트엔드)<br/>마켓컬리 | 백엔드<br/>[양민호 멘토](./mentors#양민호-멘토--백엔드)<br/>커먼컴퓨터 |
 
 
 
