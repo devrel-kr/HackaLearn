@@ -6,7 +6,7 @@
 - [ ] `<tbody id="contents-body">`의 메일 내용 부분
     ``` html
     <div id="dear">
-    ... 
+    ...
     </div>
 
     <div id="list">
@@ -24,12 +24,12 @@
     <div id="from">
     ...
     </div>
-    
+
     <div id="button">
     ...
     </div>
     ```
-    
+
 ---
 
 1. 등록 확인
