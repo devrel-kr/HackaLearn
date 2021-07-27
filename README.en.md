@@ -3,7 +3,7 @@
 # HackaLearn Korea #
 
 <div style="text-align: center;">
-    <img src="assets/banner-768x216@2-en.png" alt="HackaLearn Banner" width="768" height="216"/>
+    <img src="assets/banner-768x216@2-en.png" alt="HackaLearn Banner" width="100%"/>
 </div>
 
 HackaLearn is the term combining both Hackathon and Learn, which is the event that you learn something and apply it during the hackathon period within the given short period of time. This HackaLearn's theme is [Azure Static Web Apps][aswa] and [GitHub Actions][gha]. For two weeks, you learn both and build a web application by yourself or with your team, through this HackaLearn event! We are looking forward to seeing the AWESOME product from you! Cool prizes are waiting for your challenge!
@@ -69,7 +69,7 @@ During the challenge, participants may have technical questions to figure out. H
 
 | <img src="./mentors/chulhyuncho.png" width="150" alt="Chulhyun Cho"/> | <img src="./mentors/suekim.jpg" width="150" alt="Sue Kim"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="Aimee Park"/> | <img src="./mentors/jaylim.jpg" width="150" alt="Jay Lim"/> | <img src="./mentors/minhoyang.jpg" width="150" alt="Minho Yang"/> |
 | :---: | :---: | :---: | :---: | :---: |
-| General<br/>[Chulhyun Cho](./mentors#chulhyuncho)<br/>Innovation Academy | Product Management/Planning<br/>[Sue Kim](./mentors#suekim)<br/>Angelhack | UX<br/>[Aimee Park](./mentors#aimeepark)<br/>IBM | Front-end Development<br/>[Jay Lim](./mentors#jaylim)<br/>Market Kurly | Back-end Development<br/>[Minho Yang](./mentors#minhoyang)<br/>Common Computer |
+| General<br/>[Chulhyun Cho](./mentors#chulhyuncho)<br/>Innovation Academy<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Product Management / Planning<br/>[Sue Kim](./mentors#suekim)<br/>Angelhack<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | UX<br/>[Aimee Park](./mentors#aimeepark)<br/>IBM<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Front-end Development<br/>[Jay Lim](./mentors#jaylim)<br/>Market Kurly<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Back-end Development<br/>[Minho Yang](./mentors#minhoyang)<br/>Common Computer<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 
 ## 🏅 Awards ##
