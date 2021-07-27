@@ -2,10 +2,11 @@
 
 ## 팀이름 ##
 
-> 팀이름, 자신의 GitHub ID를 남겨주세요.
+> 팀이름, 자신의 GitHub ID, 그리고 Microsoft Learn 프로필 URL를 남겨주세요. Microsoft Learn 프로필 URL은 `https://docs.microsoft.com/ko-kr/users/******`와 같이 생겼습니다.
 
 * 팀 이름: 
 * GitHub ID: 
+* Microsoft Learn 프로필 URL: 
 
 
 ## 완료된 챌린지 ##
