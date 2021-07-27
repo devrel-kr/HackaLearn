@@ -3,7 +3,7 @@
 # HackaLearn Korea #
 
 <div style="text-align: center;">
-    <img src="assets/banner-768x216@2-ko.png" alt="HackaLearn 배너" width="768" height="216"/>
+    <img src="assets/banner-768x216@2-ko.png" alt="HackaLearn 배너" width="100%"/>
 </div>
 
 HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 지식을 직접 배워서 해커톤에 적용하는 이벤트입니다. 이번 HackaLearn 이벤트의 주제는 바로 [애저 정적 웹 앱(Azure Static Web Apps)][aswa]과 [깃헙 액션(GitHub Actions)][gha]입니다. 2주간 공부하고 직접 웹 애플리케이션을 만들어 보는 HackaLearn 이벤트! 멋진 애플리케이션을 만들어 보세요! 푸짐한 상품이 기다립니다.
@@ -70,7 +70,7 @@ HackaLearn 기간중 챌린지를 완수하기 위한 기술적인 문제들에 
 
 | <img src="./mentors/chulhyuncho.png" width="150" alt="조철현 멘토"/> | <img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="박정은 멘토"/> | <img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/> | <img src="./mentors/minhoyang.jpg" width="150" alt="양민호 멘토"/> |
 | :---: | :---: | :---: | :---: | :---: |
-| 일반<br/>[조철현 멘토](./mentors#chulhyuncho)<br/>이노베이션 아카데미 | 기획<br/>[김수정 멘토](./mentors#suekim)<br/>Angelhack | UX<br/>[박정은 멘토](./mentors#aimeepark)<br/>IBM | 프론트엔드<br/>[임진호 멘토](./mentors#jaylim)<br/>마켓컬리 | 백엔드<br/>[양민호 멘토](./mentors#minhoyang)<br/>커먼컴퓨터 |
+| 일반<br/>[조철현 멘토](./mentors#chulhyuncho)<br/>이노베이션 아카데미<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 기획<br/>[김수정 멘토](./mentors#suekim)<br/>Angelhack<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | UX<br/>[박정은 멘토](./mentors#aimeepark)<br/>IBM<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 프론트엔드<br/>[임진호 멘토](./mentors#jaylim)<br/>마켓컬리<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 백엔드<br/>[양민호 멘토](./mentors#minhoyang)<br/>커먼컴퓨터<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 
 ## 🏅 시상 부문 ##
