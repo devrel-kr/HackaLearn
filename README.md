@@ -6,7 +6,7 @@
     <img src="assets/banner-768x216@2-ko.png" alt="HackaLearn 배너" width="768" height="216"/>
 </div>
 
-HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 지식을 직접 배워서 해커톤에 적용하는 이벤트입니다. 이번 HackaLearn 이벤트의 주제는 바로 [애저 정적 웹 앱(Azure Static Web Apps)][aswa]과 [깃헙 액션(GitHub Actions)][gha]입니다. 2주간 공부하고 직접 웹 애플리케이션을 만들어 보는 HackaLearn 이벤트! 멋진 애플리케이션을 만들어 보세요! 푸짐한 상품이 기다랍니다.
+HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 지식을 직접 배워서 해커톤에 적용하는 이벤트입니다. 이번 HackaLearn 이벤트의 주제는 바로 [애저 정적 웹 앱(Azure Static Web Apps)][aswa]과 [깃헙 액션(GitHub Actions)][gha]입니다. 2주간 공부하고 직접 웹 애플리케이션을 만들어 보는 HackaLearn 이벤트! 멋진 애플리케이션을 만들어 보세요! 푸짐한 상품이 기다립니다.
 
 
 ## ⏰ 일정 ##
@@ -52,22 +52,44 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 
 HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함께 애저 정적 웹 앱, 깃헙 액션을 만들어 보고 여러분의 애플리케이션 개발에 적용시켜 보세요!
 
-* [Microsoft Learn Student Ambassadors][mlsa]와 함께 하는 핸즈온 랩 세션
-* [GitHub Campus Experts][gce]와 함께 하는 핸즈온 랩 세션
-* [Microsoft Cloud Advocate][ca]와 함께 하는 핸즈온 랩 세션
+* [Microsoft Learn Student Ambassadors (MLSA)][mlsa]와 함께 하는 핸즈온 랩 세션
+* [GitHub Campus Experts (GCE)][gce]와 함께 하는 핸즈온 랩 세션
+* [Microsoft Cloud Advocate (CA)][ca]와 함께 하는 핸즈온 랩 세션
+
+
+## 🛠 개발 도구 사전 준비사항 ##
+
+HackaLearn 기간 중 다양한 개발 도구 및 무료 계정을 사용해야 하는데요, 아래 링크를 통해 참가자의 운영체제에 맞는 개발 도구를 선택해서 사용할 수 있습니다.
+👉 [개발 도구 사전 준비사항 보러가기][tools]
+
+
+## 🧑🏻‍🏫 기술 멘토 ##
+
+HackaLearn 기간중 챌린지를 완수하기 위한 기술적인 문제들에 대해 궁금한 점이 있으신가요? 여기 MLSA, GCE, CA 및 다양한 현장 전문가 분들께서 여러분들이 HackaLearn 기간중 겪는 여러가지 기술적인 문제 해결에 멘토링을 해 주실 예정입니다.
+<br/>
+
+| <img src="./mentors/chulhyuncho.png" width="150" alt="조철현 멘토"/> | <img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="박정은 멘토"/> | <img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/> | <img src="./mentors/minhoyang.jpg" width="150" alt="양민호 멘토"/> |
+| :---: | :---: | :---: | :---: | :---: |
+| 일반<br/>[조철현 멘토](./mentors#chulhyuncho)<br/>이노베이션 아카데미 | 기획<br/>[김수정 멘토](./mentors#suekim)<br/>Angelhack | UX<br/>[박정은 멘토](./mentors#aimeepark)<br/>IBM | 프론트엔드<br/>[임진호 멘토](./mentors#jaylim)<br/>마켓컬리 | 백엔드<br/>[양민호 멘토](./mentors#minhoyang)<br/>커먼컴퓨터 |
 
 
 ## 🏅 시상 부문 ##
 
-* 클라우드 스킬 챌린지 완료
-* 가장 창의적인 애플리케이션
-* 가장 UX가 뛰어난 애플리케이션
-* 가장 사회 공헌적인 애플리케이션
+* 여섯 가지 모든 챌린지를 완료한 참가자 전부
+* 가장 창의적인 애플리케이션 &ndash; 한 팀
+* 가장 UX가 뛰어난 애플리케이션 &ndash; 한 팀
+* 가장 사회 공헌적인 애플리케이션 &ndash; 한 팀
 
 
 ## 🏆 시상품 ##
 
-등록 시점에 알려드립니다.
+* 가장 창의적인 애플리케이션 &ndash; 한 팀 &ndash; JBL Charge 4
+* 가장 UX가 뛰어난 애플리케이션 &ndash; 한 팀 &ndash; 마이크로소프트 서피스 헤드폰 2
+* 가장 사회 공헌적인 애플리케이션 &ndash; 한 팀 &ndash; 마이크로소프트 서피스 랩탑 4
+
+![상품 목록][prizes]
+
+> * 상품 관련 세부 사항은 예고 없이 달라질 수 있습니다.
 
 
 ## 🎭 개인정보 보호정책 ##
@@ -101,3 +123,4 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [mlsa]: https://aka.ms/hackalearn/mlsa
 [gce]: https://aka.ms/hackalearn/gce
 [ca]: https://aka.ms/hackalearn/ca
+[tools]: ./tools

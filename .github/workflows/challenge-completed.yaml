@@ -23,20 +23,37 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Get event payload
+    - name: Update labels on PR
       shell: pwsh
       run: |
-        Write-Host '${{ toJSON(github.event) }}'
+        $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json" }
 
-    - name: Update labels on PR
-      uses: justinyoo/github-issue-label-action@v1
-      with:
-        authToken: ${{ secrets.GITHUB_TOKEN }}
-        owner: 'devrel-kr'
-        repository:  HackaLearn
-        issueId: '${{ github.event.inputs.prId }}'
-        labelsToAdd: '${{ github.event.inputs.labelsToAdd }}'
-        labelsToRemove: '${{ github.event.inputs.labelsToRemove }}'
+        $owner = "devrel-kr"
+        $repository = "HackaLearn"
+        $issueId = "${{ github.event.inputs.prId }}"
+
+        $labelsToAdd = "${{ github.event.inputs.labelsToAdd }}" -split ","
+        $body = @{ "labels" = $labelsToAdd }
+
+        $url = "https://api.github.com/repos/$owner/$repository/issues/$issueId/labels"
+        Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+
+        $labelsToRemove = "${{ github.event.inputs.labelsToRemove }}" -split ","
+        $labelsToRemove | ForEach-Object {
+          $label = $_;
+          $url = "https://api.github.com/repos/$owner/$repository/issues/$issueId/labels/$label";
+          Invoke-RestMethod -Method Delete -Uri $url -Headers $headers
+        }
+
+    # - name: Update labels on PR
+    #   uses: justinyoo/github-issue-label-action@v1
+    #   with:
+    #     authToken: ${{ secrets.GITHUB_TOKEN }}
+    #     owner: 'devrel-kr'
+    #     repository:  HackaLearn
+    #     issueId: '${{ github.event.inputs.prId }}'
+    #     labelsToAdd: '${{ github.event.inputs.labelsToAdd }}'
+    #     labelsToRemove: '${{ github.event.inputs.labelsToRemove }}'
 
   merge_pr:
     name: 'Merge PR'
@@ -46,13 +63,34 @@ jobs:
 
     steps:
     - name: Merge PR
-      uses: justinyoo/github-pr-merge-action@v0.8.0
-      with:
-        authToken: ${{ secrets.GITHUB_TOKEN }}
-        owner: 'devrel-kr'
-        repository:  HackaLearn
-        issueId: '${{ github.event.inputs.prId }}'
-        mergeMethod: Squash
-        commitTitle: ''
-        commitDescription: ''
-        deleteBranch: 'false'
+      shell: pwsh
+      run: |
+        $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json" }
+
+        $owner = "devrel-kr"
+        $repository = "HackaLearn"
+        $issueId = "${{ github.event.inputs.prId }}"
+
+        $url = "https://api.github.com/repos/$owner/$repository/pulls/$issueId"
+        $pr = Invoke-RestMethod -Method Get -Uri $url -Headers $headers
+
+        $sha = $pr.head.sha
+        $title = ""
+        $message = ""
+        $merge = "squash"
+        $body = @{ "commit_title" = $title; "commit_message" = $message; "sha" = $sha; "merge_method" = $merge; }
+
+        $url = "https://api.github.com/repos/$owner/$repository/pulls/$issueId/merge"
+        Invoke-RestMethod -Method Put -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+
+    # - name: Merge PR
+    #   uses: justinyoo/github-pr-merge-action@v0.8.0
+    #   with:
+    #     authToken: ${{ secrets.GITHUB_TOKEN }}
+    #     owner: 'devrel-kr'
+    #     repository:  HackaLearn
+    #     issueId: '${{ github.event.inputs.prId }}'
+    #     mergeMethod: Squash
+    #     commitTitle: ''
+    #     commitDescription: ''
+    #     deleteBranch: 'false'

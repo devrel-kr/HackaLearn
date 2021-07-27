@@ -32,12 +32,13 @@ HackaLearn is the term combining both Hackathon and Learn, which is the event th
 
 ## ✅ Challenge Missions ##
 
-You MUST complete **all the FIVE challenge missions** below. For more details will be disclosed on the day of the registration.
+You MUST complete **all the SIX challenge missions** below. For more details will be disclosed on the day of the registration.
 
 1. **Cloud Skills Challenge #1**: TBA
 1. **Cloud Skills Challenge #2**: TBA
 1. **Social Media Selfie Challenge**: TBA
-1. **Web Application & GitHub Repository Challenge**: TBA
+1. **Web Application Challenge**: TBA
+1. **GitHub Repository Challenge**: TBA
 1. **Blog Retrospective Challenge**: TBA
 
 
@@ -50,21 +51,43 @@ Teams who complete **all the FIVE challenge missions** are in the Hall of Fame. 
 
 During the event, we are running a few hands-on-lab workshops for you. After these sessions, you will be able to build your own web applications!
 
-* Hands-on-Lab with [Microsoft Learn Student Ambassadors][mlsa]
-* Hands-on-Lab with [GitHub Campus Experts][gce]
-* Hands-on-Lab with [Microsoft Cloud Advocate][ca]
+* Hands-on-Lab with [Microsoft Learn Student Ambassadors (MLSA)][mlsa]
+* Hands-on-Lab with [GitHub Campus Experts (GCE)][gce]
+* Hands-on-Lab with [Microsoft Cloud Advocate (CA)][ca]
+
+
+## 🛠 Developer Tools Before You Go ##
+
+All participants are required to utilise many development tools and free accounts during this HackaLearn event. Visit the following page to get all the tools you need.
+👉 [Developer Tools and Free Accounts][tools]
+
+
+## 🧑🏻‍🏫 Technical Mentors ##
+
+During the challenge, participants may have technical questions to figure out. Here are MLSA, GCE, CA and many technical mentors from various industry helping you solve your technical challenges.
+<br/>
+
+| <img src="./mentors/chulhyuncho.png" width="150" alt="Chulhyun Cho"/> | <img src="./mentors/suekim.jpg" width="150" alt="Sue Kim"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="Aimee Park"/> | <img src="./mentors/jaylim.jpg" width="150" alt="Jay Lim"/> | <img src="./mentors/minhoyang.jpg" width="150" alt="Minho Yang"/> |
+| :---: | :---: | :---: | :---: | :---: |
+| General<br/>[Chulhyun Cho](./mentors#chulhyuncho)<br/>Innovation Academy | Product Management/Planning<br/>[Sue Kim](./mentors#suekim)<br/>Angelhack | UX<br/>[Aimee Park](./mentors#aimeepark)<br/>IBM | Front-end Development<br/>[Jay Lim](./mentors#jaylim)<br/>Market Kurly | Back-end Development<br/>[Minho Yang](./mentors#minhoyang)<br/>Common Computer |
 
 
 ## 🏅 Awards ##
 
-* Cloud Skills Challenge Completion
-* Best for Creativity
-* Best for UX
-* Best for Social Good
+* All participants who complete 6 challenges
+* 1 Team for Best Creativity &ndash; 1 Team
+* 1 Team for Best UX &ndash; 1 Team
+* 1 Team for Best Social Good &ndash; 1 Team
 
 ## 🏆 Prizes ##
 
-TBA
+* 1 Team for Best Creativity &ndash; JBL Charge 4
+* 1 Team for Best UX &ndash; Microsoft Surface Headphones 2
+* 1 Team for Best Social Good &ndash; Microsoft Surface Laptop 4
+
+![Prizes][prizes]
+
+> * Prize details may change without prior notice.
 
 
 ## 🎭 Privacy Policy ##
@@ -91,9 +114,11 @@ Thanks Microsoft for sponsoring this event to run smoothly.
 [prizes]: assets/prizes-768x432@2.png
 [submit]: https://aka.ms/hacklearn/submit
 [qna]: https://aka.ms/hackalearn/qna
+[hof]: HALL_OF_FAME.md
 [privacy]: https://aka.ms/hackalearn/privacy
 [coc]: https:/aka.ms/hackalearn/coc
 [microsoft]: assets/logo-microsoft.png
 [mlsa]: https://aka.ms/hackalearn/mlsa
 [gce]: https://aka.ms/hackalearn/gce
 [ca]: https://aka.ms/hackalearn/ca
+[tools]: ./tools

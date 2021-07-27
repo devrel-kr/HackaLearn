@@ -1,0 +1,113 @@
+name: On Challenge Review Commented
+
+on:
+  issue_comment:
+    types:
+    - created
+
+env:
+  PR_REVIEWERS: ${{ secrets.PR_REVIEWERS }}
+
+jobs:
+  signoff:
+    if: ${{ github.event.issue.pull_request }}
+    name: 'Sign-off challenge'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    # - name: Get event payload
+    #   shell: pwsh
+    #   run: |
+    #     Write-Host '${{ toJSON(github.event) }}'
+
+    - name: Get checkpoints
+      id: checkpoint
+      shell: pwsh
+      run: |
+        $hasValidLabel = "${{ contains(github.event.issue.labels.*.name, 'review-completed') }}"
+        $isCommenterAssignee = "${{ github.event.comment.user.login == github.event.issue.assignee.login }}"
+        $isValidCommenter = "${{ contains(env.PR_REVIEWERS, github.event.comment.user.login) }}"
+        $isHelloWorld = "${{ github.event.comment.body == '/helloworld' }}"
+        $isAswaSignoff = "${{ github.event.comment.body == '/aswasignoff' }}"
+        $isGhaSignoff = "${{ github.event.comment.body == '/ghasignoff' }}"
+        $isSocialSignoff = "${{ github.event.comment.body == '/socialsignoff' }}"
+        $isAppSignoff = "${{ github.event.comment.body == '/appsignoff' }}"
+        $isRepoSignoff = "${{ github.event.comment.body == '/reposignoff' }}"
+        $isRetroSignoff = "${{ github.event.comment.body == '/retrosignoff' }}"
+        $timestamp = "${{ github.event.comment.created_at }}"
+
+        echo "::set-output name=hasValidLabel::$hasValidLabel"
+        echo "::set-output name=isCommenterAssignee::$isCommenterAssignee"
+        echo "::set-output name=isValidCommenter::$isValidCommenter"
+        echo "::set-output name=isHelloWorld::$isHelloWorld"
+        echo "::set-output name=isAswaSignoff::$isAswaSignoff"
+        echo "::set-output name=isGhaSignoff::$isGhaSignoff"
+        echo "::set-output name=isSocialSignoff::$isSocialSignoff"
+        echo "::set-output name=isAppSignoff::$isAppSignoff"
+        echo "::set-output name=isRepoSignoff::$isRepoSignoff"
+        echo "::set-output name=isRetroSignoff::$isRetroSignoff"
+        echo "::set-output name=timestamp::$timestamp"
+
+    # - name: Get outputs
+    #   shell: pwsh
+    #   run: |
+    #     echo "hasValidLabel: ${{ steps.checkpoint.outputs.hasValidLabel }}"
+    #     echo "isCommenterAssignee: ${{ steps.checkpoint.outputs.isCommenterAssignee }}"
+    #     echo "isValidCommenter: ${{ steps.checkpoint.outputs.isValidCommenter }}"
+    #     echo "isHelloWorld: ${{ steps.checkpoint.outputs.isHelloWorld }}"
+    #     echo "isAswaSignoff: ${{ steps.checkpoint.outputs.isAswaSignoff }}"
+    #     echo "isGhaSignoff: ${{ steps.checkpoint.outputs.isGhaSignoff }}"
+    #     echo "isSocialSignoff: ${{ steps.checkpoint.outputs.isSocialSignoff }}"
+    #     echo "isAppSignoff: ${{ steps.checkpoint.outputs.isAppSignoff }}"
+    #     echo "isRepoSignoff: ${{ steps.checkpoint.outputs.isRepoSignoff }}"
+    #     echo "isRetroSignoff: ${{ steps.checkpoint.outputs.isRetroSignoff }}"
+    #     echo "timestamp: ${{ steps.checkpoint.outputs.timestamp }}"
+
+    - name: Record challenge HelloWorld
+      if: ${{ steps.checkpoint.outputs.hasValidLabel == 'true' && steps.checkpoint.outputs.isCommenterAssignee == 'true' && steps.checkpoint.outputs.isValidCommenter == 'true' && steps.checkpoint.outputs.isHelloWorld == 'true' }}
+      shell: pwsh
+      run: |
+        echo "Hello World!"
+
+    - name: Record challenge ASWA
+      if: ${{ steps.checkpoint.outputs.hasValidLabel == 'true' && steps.checkpoint.outputs.isCommenterAssignee == 'true' && steps.checkpoint.outputs.isValidCommenter == 'true' && steps.checkpoint.outputs.isAswaSignoff == 'true' }}
+      uses: joelwmale/webhook-action@2.1.0
+      with:
+        url: ${{ secrets.FLOW_URL }}
+        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "aswa", "timestamp": "${{ steps.checkpoint.outputs.timestamp }}", "prId": ${{ github.event.issue.number }} }'
+
+    - name: Record challenge GHA
+      if: ${{ steps.checkpoint.outputs.hasValidLabel == 'true' && steps.checkpoint.outputs.isCommenterAssignee == 'true' && steps.checkpoint.outputs.isValidCommenter == 'true' && steps.checkpoint.outputs.isGhaSignoff == 'true' }}
+      uses: joelwmale/webhook-action@2.1.0
+      with:
+        url: ${{ secrets.FLOW_URL }}
+        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "gha", "timestamp": "${{ steps.checkpoint.outputs.timestamp }}", "prId": ${{ github.event.issue.number }} }'
+
+    - name: Record challenge SOCIAL
+      if: ${{ steps.checkpoint.outputs.hasValidLabel == 'true' && steps.checkpoint.outputs.isCommenterAssignee == 'true' && steps.checkpoint.outputs.isValidCommenter == 'true' && steps.checkpoint.outputs.isSocialSignoff == 'true' }}
+      uses: joelwmale/webhook-action@2.1.0
+      with:
+        url: ${{ secrets.FLOW_URL }}
+        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "social", "timestamp": "${{ steps.checkpoint.outputs.timestamp }}", "prId": ${{ github.event.issue.number }} }'
+
+    - name: Record challenge APP
+      if: ${{ steps.checkpoint.outputs.hasValidLabel == 'true' && steps.checkpoint.outputs.isCommenterAssignee == 'true' && steps.checkpoint.outputs.isValidCommenter == 'true' && steps.checkpoint.outputs.isAppSignoff == 'true' }}
+      uses: joelwmale/webhook-action@2.1.0
+      with:
+        url: ${{ secrets.FLOW_URL }}
+        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "app", "timestamp": "${{ steps.checkpoint.outputs.timestamp }}", "prId": ${{ github.event.issue.number }} }'
+
+    - name: Record challenge REPO
+      if: ${{ steps.checkpoint.outputs.hasValidLabel == 'true' && steps.checkpoint.outputs.isCommenterAssignee == 'true' && steps.checkpoint.outputs.isValidCommenter == 'true' && steps.checkpoint.outputs.isRepoSignoff == 'true' }}
+      uses: joelwmale/webhook-action@2.1.0
+      with:
+        url: ${{ secrets.FLOW_URL }}
+        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "repo", "timestamp": "${{ steps.checkpoint.outputs.timestamp }}", "prId": ${{ github.event.issue.number }} }'
+
+    - name: Record challenge RETRO
+      if: ${{ steps.checkpoint.outputs.hasValidLabel == 'true' && steps.checkpoint.outputs.isCommenterAssignee == 'true' && steps.checkpoint.outputs.isValidCommenter == 'true' && steps.checkpoint.outputs.isRetroSignoff == 'true' }}
+      uses: joelwmale/webhook-action@2.1.0
+      with:
+        url: ${{ secrets.FLOW_URL }}
+        body: '{"gitHubId": "${{ github.event.issue.user.login }}", "challengeType": "retro", "timestamp": "${{ steps.checkpoint.outputs.timestamp }}", "prId": ${{ github.event.issue.number }} }'
