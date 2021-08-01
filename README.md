@@ -33,7 +33,7 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 
 ## ✅ 챌린지 미션 ##
 
-총 **여섯 가지 챌린지 미션**을 완료해야 합니다. 자세한 사항은 등록 시점에 알려드립니다.
+총 **여섯 가지 챌린지 미션**을 완료해야 합니다. 전체 챌린지 미션은 아래와 같습니다.
 
 1. **클라우드 스킬 챌린지 #1** 👉 [애저 정적 웹 앱 Learn 챌린지 바로가기](./challenges/ASWA.md)
 2. **클라우드 스킬 챌린지 #2** 👉 [깃헙 액션 Learn 챌린지 바로가기](./challenges/GHA.md)
@@ -52,15 +52,17 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 
 HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함께 애저 정적 웹 앱, 깃헙 액션을 만들어 보고 여러분의 애플리케이션 개발에 적용시켜 보세요!
 
-* [Microsoft Learn Student Ambassadors (MLSA)][mlsa]와 함께 하는 핸즈온 랩 세션
-* [GitHub Campus Experts (GCE)][gce]와 함께 하는 핸즈온 랩 세션
-* [Microsoft Cloud Advocate (CA)][ca]와 함께 하는 핸즈온 랩 세션
+| 제목 | 일시 | 링크 |
+| :--: | :--: | :--: |
+| [MLSA][mlsa]와 함께하는 애저 정적 웹 앱 만들기 | 2021년 8월 3일 (화) 8pm | [바로 가기][live mlsa] |
+| [GCE][gce]와 함께하는 깃헙 액션 만들기 | 2021년 8월 5일 (목) 8pm | [바로 가기][live gce] |
+| [클라우드 아드보캇][ca]과 함께하는 블로그 사이트 만들기 | 2021년 8월 10일 (화) 8pm | [바로 가기][live ca] |
 
 
 ## 🛠 개발 도구 사전 준비사항 ##
 
-HackaLearn 기간 중 다양한 개발 도구 및 무료 계정을 사용해야 하는데요, 아래 링크를 통해 참가자의 운영체제에 맞는 개발 도구를 선택해서 사용할 수 있습니다.
-👉 [개발 도구 사전 준비사항 보러가기][tools]
+* HackaLearn 기간 중 다양한 개발 도구 및 무료 계정을 사용해야 하는데요, 아래 링크를 통해 참가자의 운영체제에 맞는 개발 도구를 선택해서 사용할 수 있습니다. 👉 [개발 도구 사전 준비사항 보러가기][tools]
+* Git 혹은 GitHub 자체에 익숙해지고 싶으신가요? 여기 잘 정리된 비디오가 있습니다. 👉 [오픈소스 소통을 위한 Git 공부하기][git yt]
 
 
 ## 🧑🏻‍🏫 기술 멘토 ##
@@ -124,3 +126,7 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [gce]: https://aka.ms/hackalearn/gce
 [ca]: https://aka.ms/hackalearn/ca
 [tools]: ./tools
+[git yt]: https://www.youtube.com/playlist?list=PLDZRZwFT9WktMraaU2KPeU8nPx5O1CXv_
+[live mlsa]: https://youtu.be/Hxkv6AjAisY
+[live gce]: https://youtu.be/e_elLW6uNSc
+[live ca]: https://youtu.be/x3j3mDblqMY
