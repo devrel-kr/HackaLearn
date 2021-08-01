@@ -59,8 +59,8 @@ During the event, we are running a few hands-on-lab workshops for you. After the
 
 | Topic | Date/Time | Link |
 | :--: | :--: | :--: |
-| Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 3 (Tue), 2021 | [Live Streaming][live mlsa] |
-| Code with [GCE][gce]: GitHub Actions | 8pm, August 5 (Thu), 2021 | [Live Streaming][live gce] |
+| Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live mlsa] |
+| Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live gce] |
 | Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] |
 
 
