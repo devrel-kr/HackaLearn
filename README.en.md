@@ -24,7 +24,7 @@ HackaLearn is the term combining both Hackathon and Learn, which is the event th
 
 ## 🏃🏻‍♂️ How to Participate? ##
 
-1. Register yourself or your team to the HackaLearn event 👉 Registration link will be open on August 2, 2021, 00.00am (KST)
+1. Register yourself or your team to the HackaLearn event 👉 [Registration][rego]
 2. Complete all the challenge missions below.
 3. On completion of each challenge, create a PR to this repository to [submit your challenge][submit].
 4. Ask anything during the challenge at the [Q&A][qna] board.
@@ -34,12 +34,12 @@ HackaLearn is the term combining both Hackathon and Learn, which is the event th
 
 You MUST complete **all the SIX challenge missions** below. For more details will be disclosed on the day of the registration.
 
-1. **Cloud Skills Challenge #1**: TBA
-1. **Cloud Skills Challenge #2**: TBA
-1. **Social Media Selfie Challenge**: TBA
-1. **Web Application Challenge**: TBA
-1. **GitHub Repository Challenge**: TBA
-1. **Blog Retrospective Challenge**: TBA
+1. **Cloud Skills Challenge #1** 👉 [Azure Static Web Apps Learn Challenge](./challenges/ASWA.md)
+1. **Cloud Skills Challenge #2** 👉 [GitHub Actions Learn Challenge](./challenges/GHA.md)
+1. **Social Media Selfie Challenge** 👉 [Social Media Selfie Challenge](./challenges/SOCIAL.md)
+1. **Web Application Challenge** 👉 [Web Application Challenge](./challenges/APP.md)
+1. **GitHub Repository Challenge** 👉 [GitHub Repository Challenge](./challenges/REPO.md)
+1. **Blog Retrospective Challenge** 👉 [Blog Retrospective Challenge](./challenges/RETRO.md)
 
 
 ## 👑 Hall of Fame ##
@@ -51,15 +51,17 @@ Teams who complete **all the FIVE challenge missions** are in the Hall of Fame. 
 
 During the event, we are running a few hands-on-lab workshops for you. After these sessions, you will be able to build your own web applications!
 
-* Hands-on-Lab with [Microsoft Learn Student Ambassadors (MLSA)][mlsa]
-* Hands-on-Lab with [GitHub Campus Experts (GCE)][gce]
-* Hands-on-Lab with [Microsoft Cloud Advocate (CA)][ca]
+| Topic | Date/Time | Link |
+| :--: | :--: | :--: |
+| Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 3 (Tue), 2021 | [Live Streaming][live mlsa] |
+| Code with [GCE][gce]: GitHub Actions | 8pm, August 5 (Thu), 2021 | [Live Streaming][live gce] |
+| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] |
 
 
 ## 🛠 Developer Tools Before You Go ##
 
-All participants are required to utilise many development tools and free accounts during this HackaLearn event. Visit the following page to get all the tools you need.
-👉 [Developer Tools and Free Accounts][tools]
+* All participants are required to utilise many development tools and free accounts during this HackaLearn event. Visit the following page to get all the tools you need. 👉 [Developer Tools and Free Accounts][tools]
+* Git & GitHub 101 👉 Watch [YouTube video][git yt]
 
 
 ## 🧑🏻‍🏫 Technical Mentors ##
@@ -112,6 +114,7 @@ Thanks Microsoft for sponsoring this event to run smoothly.
 [aswa]: https://aka.ms/hackalearn/aswa/intro
 [gha]: https://aka.ms/hackalearn/gha/intro
 [prizes]: assets/prizes-768x432@2.png
+[rego]: http://aka.ms/hackalearn/register
 [submit]: https://aka.ms/hacklearn/submit
 [qna]: https://aka.ms/hackalearn/qna
 [hof]: HALL_OF_FAME.md
@@ -122,3 +125,7 @@ Thanks Microsoft for sponsoring this event to run smoothly.
 [gce]: https://aka.ms/hackalearn/gce
 [ca]: https://aka.ms/hackalearn/ca
 [tools]: ./tools
+[git yt]: https://www.youtube.com/playlist?list=PLDZRZwFT9WktMraaU2KPeU8nPx5O1CXv_
+[live mlsa]: https://youtu.be/Hxkv6AjAisY
+[live gce]: https://youtu.be/e_elLW6uNSc
+[live ca]: https://youtu.be/x3j3mDblqMY

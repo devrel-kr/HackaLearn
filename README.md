@@ -25,7 +25,7 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 
 ## 🏃🏻‍♂️ 참여 방법 ##
 
-1. HackaLearn 이벤트에 참가 신청합니다. 👉 참가 신청 링크 추후 공개
+1. HackaLearn 이벤트에 참가 신청합니다. 👉 [참가신청][rego]
 2. 아래 챌린지 미션을 모두 완료합니다.
 3. 챌린지 미션을 완료할 때 마다 PR을 생성하여 운영진에게 [제출][submit]합니다.
 4. 챌린지 도중 궁금한 사항이 있을 땐 언제든 [질문/답변][qna] 방을 이용해 주세요.
@@ -116,6 +116,7 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [aswa]: https://aka.ms/hackalearn/aswa/intro
 [gha]: https://aka.ms/hackalearn/gha/intro
 [prizes]: assets/prizes-768x432@2.png
+[rego]: http://aka.ms/hackalearn/register
 [submit]: https://aka.ms/hacklearn/submit
 [qna]: https://aka.ms/hackalearn/qna
 [hof]: HALL_OF_FAME.md
