@@ -8,6 +8,12 @@
 
 HackaLearn is the term combining both Hackathon and Learn, which is the event that you learn something and apply it during the hackathon period within the given short period of time. This HackaLearn's theme is [Azure Static Web Apps][aswa] and [GitHub Actions][gha]. For two weeks, you learn both and build a web application by yourself or with your team, through this HackaLearn event! We are looking forward to seeing the AWESOME product from you! Cool prizes are waiting for your challenge!
 
+<div>
+  <br>
+  <a href="http://aka.ms/hackalearn/register" title="Registration Link"><img src="./assets/registration-en@2.png" width="227" height="56" alt="Registration Button"/></a>
+  <br>
+</div>
+
 
 ## ⏰ Event Timeline ##
 
