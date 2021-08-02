@@ -8,6 +8,13 @@ on:
     - main
     paths:
     - 'teams/**/*.md'
+  pull_request_target:
+    types:
+    - synchronize
+    branches:
+    - main
+    paths:
+    - 'teams/**/*.md'
 
 jobs:
   labelling:
