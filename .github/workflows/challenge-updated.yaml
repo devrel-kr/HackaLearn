@@ -40,8 +40,8 @@ jobs:
       uses: bubkoo/auto-comment@v1
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        pullRequestOpenedReactions: 'rocket, +1'
-        pullRequestOpened: >
+        pullRequestSynchronizeReactions: 'rocket, +1'
+        pullRequestSynchronize: >
           👋🏼 @{{ author }} 님!
           <br>
           챌린지 완료 PR를 수정하셨습니다! 👀 참가자님의 해커톤 완주를 응원해요! 💪🏼
