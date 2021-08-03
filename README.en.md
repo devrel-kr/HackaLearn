@@ -135,4 +135,4 @@ Thanks Microsoft for sponsoring this event to run smoothly.
 [live mlsa]: https://youtu.be/Hxkv6AjAisY
 [live gce]: https://youtu.be/e_elLW6uNSc
 [live ca]: https://youtu.be/x3j3mDblqMY
-[slide gce]: https://github.com/devrel-kr/HackaLearn/blob/main/workshops/workshop-gha-youjinjung.pdf
+[slide gce]: https://aka.ms/hackalearn/gha/hol

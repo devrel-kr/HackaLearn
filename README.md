@@ -136,4 +136,4 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [live mlsa]: https://youtu.be/Hxkv6AjAisY
 [live gce]: https://youtu.be/e_elLW6uNSc
 [live ca]: https://youtu.be/x3j3mDblqMY
-[slide gce]: https://github.com/devrel-kr/HackaLearn/blob/main/workshops/workshop-gha-youjinjung.pdf
+[slide gce]: https://aka.ms/hackalearn/gha/hol
