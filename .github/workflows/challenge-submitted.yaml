@@ -1,13 +1,13 @@
 name: On Challenge Submitted
 
 on:
-  pull_request:
-    types:
-    - opened
-    branches:
-    - main
-    paths:
-    - 'teams/**/*.md'
+  # pull_request:
+  #   types:
+  #   - opened
+  #   branches:
+  #   - main
+  #   paths:
+  #   - 'teams/**/*.md'
   pull_request_target:
     types:
     - opened

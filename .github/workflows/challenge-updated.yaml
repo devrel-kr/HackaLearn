@@ -1,13 +1,13 @@
 name: On Challenge Updated
 
 on:
-  pull_request:
-    types:
-    - synchronize
-    branches:
-    - main
-    paths:
-    - 'teams/**/*.md'
+  # pull_request:
+  #   types:
+  #   - synchronize
+  #   branches:
+  #   - main
+  #   paths:
+  #   - 'teams/**/*.md'
   pull_request_target:
     types:
     - synchronize
