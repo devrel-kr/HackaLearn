@@ -57,11 +57,11 @@ Teams who complete **all the FIVE challenge missions** are in the Hall of Fame. 
 
 During the event, we are running a few hands-on-lab workshops for you. After these sessions, you will be able to build your own web applications!
 
-| Topic | Date/Time | Link | Slides |
-| :--: | :--: | :--: | :--: |
-| Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live gce] | [Download][slide gce] |
-| Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live mlsa] | |
-| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] | |
+| Topic | Date/Time | Link | Slides | 샘플코드 |
+| :--: | :--: | :--: | :--: | :--: |
+| Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live gce] | [Download][slide gce] | [링크][code gce] |
+| Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live mlsa] | | |
+| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] | | |
 
 
 ## 🛠 Developer Tools Before You Go ##
@@ -136,3 +136,4 @@ Thanks Microsoft for sponsoring this event to run smoothly.
 [live gce]: https://youtu.be/e_elLW6uNSc
 [live ca]: https://youtu.be/x3j3mDblqMY
 [slide gce]: https://aka.ms/hackalearn/gha/hol
+[code gce]: https://aka.ms/hackalearn/gha/code

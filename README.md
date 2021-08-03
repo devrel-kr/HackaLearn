@@ -57,11 +57,11 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 
 HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함께 애저 정적 웹 앱, 깃헙 액션을 만들어 보고 여러분의 애플리케이션 개발에 적용시켜 보세요!
 
-| 제목 | 일시 | 링크 | 슬라이드 |
-| :--: | :--: | :--: | :--: |
-| [GCE][gce]와 함께하는 깃헙 액션 만들기 | 2021년 8월 3일 (화) 8pm | [바로 가기][live gce] | [다운로드][slide gce] |
-| [MLSA][mlsa]와 함께하는 애저 정적 웹 앱 만들기 | 2021년 8월 5일 (목) 8pm | [바로 가기][live mlsa] | |
-| [클라우드 아드보캇][ca]과 함께하는 블로그 사이트 만들기 | 2021년 8월 10일 (화) 8pm | [바로 가기][live ca] | |
+| 제목 | 일시 | 링크 | 슬라이드 | 샘플코드 |
+| :--: | :--: | :--: | :--: | :--: |
+| [GCE][gce]와 함께하는 깃헙 액션 만들기 | 2021년 8월 3일 (화) 8pm | [바로 가기][live gce] | [다운로드][slide gce] | [링크][code gce] |
+| [MLSA][mlsa]와 함께하는 애저 정적 웹 앱 만들기 | 2021년 8월 5일 (목) 8pm | [바로 가기][live mlsa] | | |
+| [클라우드 아드보캇][ca]과 함께하는 블로그 사이트 만들기 | 2021년 8월 10일 (화) 8pm | [바로 가기][live ca] | | |
 
 
 ## 🛠 개발 도구 사전 준비사항 ##
@@ -137,3 +137,4 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [live gce]: https://youtu.be/e_elLW6uNSc
 [live ca]: https://youtu.be/x3j3mDblqMY
 [slide gce]: https://aka.ms/hackalearn/gha/hol
+[code gce]: https://aka.ms/hackalearn/gha/code
