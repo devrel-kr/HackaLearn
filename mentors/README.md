@@ -40,11 +40,11 @@
 > 마켓컬리 물류 조직에서 프론트엔드 개발을 하고 있습니다. 비전공자로 남들 보다 늦은 나이에 개발을 시작했지만 LESS(Learn, Enjoy, Solve, Share)한 삶을 살아가고 있습니다.
 
 
-<a name="minhoyang"></a>
+<a name="minhoryang"></a>
 ## 양민호 멘토 &ndash; 백엔드 ##
 
 <div>
-  <img src="./minhoyang.jpg" width="500" alt="양민호 멘토"/>
+  <img src="./minhoryang.jpg" width="500" alt="양민호 멘토"/>
 </div>
 
 > 안녕하세요 양민호 개발자입니다.
