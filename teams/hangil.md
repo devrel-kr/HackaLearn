@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@aqswa](https://github.com/aqswa) | *링크를 남겨주세요* |
+| [@joayoung3gmail.com](https://github.com/joayoung3gmail.com) | *링크를 남겨주세요* |
 
 
 
@@ -26,7 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@aqswa](https://github.com/aqswa) | *링크를 남겨주세요* |
+| [@joayoung3gmail.com](https://github.com/joayoung3gmail.com) | *링크를 남겨주세요* |
 
 
 
@@ -36,7 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@aqswa](https://github.com/aqswa) | *링크를 남겨주세요* |
+| [@joayoung3gmail.com](https://github.com/joayoung3gmail.com) | *링크를 남겨주세요* |
 
 
 
@@ -56,4 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@aqswa](https://github.com/aqswa) | *링크를 남겨주세요* |
+| [@joayoung3gmail.com](https://github.com/joayoung3gmail.com) | *링크를 남겨주세요* |
