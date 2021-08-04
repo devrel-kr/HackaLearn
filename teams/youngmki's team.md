@@ -1,4 +1,4 @@
-# 팀명: centum ms #
+# 팀명: youngmki's team #
 
 ## 챌린지 ##
 
@@ -16,9 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@minsforgh](https://github.com/minsforgh) | *링크를 남겨주세요* |
-| [@kh-min7](https://github.com/kh-min7) | *링크를 남겨주세요* |
-| [@dev-junseo](https://github.com/dev-junseo) | *링크를 남겨주세요* |
+| [@mukmookk](https://github.com/mukmookk) | *링크를 남겨주세요* |
 
 
 
@@ -28,9 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@minsforgh](https://github.com/minsforgh) | *링크를 남겨주세요* |
-| [@kh-min7](https://github.com/kh-min7) | *링크를 남겨주세요* |
-| [@dev-junseo](https://github.com/dev-junseo) | *링크를 남겨주세요* |
+| [@mukmookk](https://github.com/mukmookk) | *링크를 남겨주세요* |
 
 
 
@@ -40,9 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@minsforgh](https://github.com/minsforgh) | *링크를 남겨주세요* |
-| [@kh-min7](https://github.com/kh-min7) | *링크를 남겨주세요* |
-| [@dev-junseo](https://github.com/dev-junseo) | *링크를 남겨주세요* |
+| [@mukmookk](https://github.com/mukmookk) | *링크를 남겨주세요* |
 
 
 
@@ -62,6 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@minsforgh](https://github.com/minsforgh) | *링크를 남겨주세요* |
-| [@kh-min7](https://github.com/kh-min7) | *링크를 남겨주세요* |
-| [@dev-junseo](https://github.com/dev-junseo) | *링크를 남겨주세요* |
+| [@mukmookk](https://github.com/mukmookk) | *링크를 남겨주세요* |
