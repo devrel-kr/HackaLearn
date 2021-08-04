@@ -8,9 +8,9 @@
 위 두 개의 해시태그와 함께 위에 지정한 SNS 사이트에 인증샷을 올리고 해당 포스트 링크를 여러분의 팀 페이지에 저장한 후 PR을 생성해 주세요.
 
 * SNS 인증 챌린지 샘플 포스트: [트위터 보러가기](https://twitter.com/justinchronicle/status/1422897213315837962)
-* 인증샷 샘플 1:
+* 인증샷 샘플 1:<br>
   <img src="./challenge-social-1.png" width="640" height="360" />
-* 인증샷 샘플 2:
+* 인증샷 샘플 2:<br>
   <img src="./challenge-social-2.png" width="640" height="360" />
 
 
