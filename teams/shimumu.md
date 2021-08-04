@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@yelim421](https://github.com/yelim421) | *링크를 남겨주세요* |
+| [@yelim421](https://github.com/yelim421) | https://raw.githubusercontent.com/yelim421/HackaLearn_auth/main/21%20%ED%95%98%EB%82%98%20%EB%81%9D.PNG |
 
 
 
