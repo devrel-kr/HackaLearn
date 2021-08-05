@@ -16,8 +16,8 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@sojeoong](https://github.com/sojeoong) | *링크를 남겨주세요* |
 | [@doyokim](https://github.com/doyokim) | *링크를 남겨주세요* |
+| [@sojeoong](https://github.com/sojeoong) | *링크를 남겨주세요* |
 
 
 
@@ -27,8 +27,8 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@sojeoong](https://github.com/sojeoong) | *링크를 남겨주세요* |
 | [@doyokim](https://github.com/doyokim) | *링크를 남겨주세요* |
+| [@sojeoong](https://github.com/sojeoong) | *링크를 남겨주세요* |
 
 
 
@@ -38,8 +38,8 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@sojeoong](https://github.com/sojeoong) | *링크를 남겨주세요* |
 | [@doyokim](https://github.com/doyokim) | *링크를 남겨주세요* |
+| [@sojeoong](https://github.com/sojeoong) | *링크를 남겨주세요* |
 
 
 
@@ -59,5 +59,5 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@sojeoong](https://github.com/sojeoong) | *링크를 남겨주세요* |
 | [@doyokim](https://github.com/doyokim) | *링크를 남겨주세요* |
+| [@sojeoong](https://github.com/sojeoong) | *링크를 남겨주세요* |
