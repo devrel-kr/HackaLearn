@@ -57,7 +57,7 @@ Teams who complete **all the FIVE challenge missions** are in the Hall of Fame. 
 
 During the event, we are running a few hands-on-lab workshops for you. After these sessions, you will be able to build your own web applications!
 
-| Topic | Date/Time | Link | Slides | Codes |
+| Topic | Date/Time | Streaming | Slides | Codes |
 | :--: | :--: | :--: | :--: | :--: |
 | Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live gce] | [Download][slide gce] | [링크][code gce] |
 | Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live mlsa] | [Download][slide mlsa] | [링크][code mlsa] |
