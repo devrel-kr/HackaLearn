@@ -19,7 +19,7 @@
 | [@ajb3296](https://github.com/ajb3296) | https://gist.github.com/ajb3296/81b6a5a484c0d9e7bfc4938ef9312638/raw/d613dafc123cf561a5c1fb14d37920e4dd440c1d/Cloud_Skill_Challenge_1.png |
 | [@kimka2013](https://github.com/kimka2013) | *링크를 남겨주세요* |
 | [@easycastle](https://github.com/easycastle) | *링크를 남겨주세요* |
-| [@Swipe0801](https://github.com/Swipe0801) | *링크를 남겨주세요* |
+| [@Swipe0801](https://github.com/Swipe0801) | https://user-images.githubusercontent.com/41516228/128605307-bcd48bf1-0d47-401d-849a-ef40f5e95588.png |
 
 
 
