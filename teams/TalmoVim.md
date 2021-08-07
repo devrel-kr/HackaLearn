@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@belnut](https://github.com/belnut) | *링크를 남겨주세요* |
+| [@Belnut](https://github.com/Belnut) | *링크를 남겨주세요* |
 | [@devchanki](https://github.com/devchanki) | *링크를 남겨주세요* |
 
 
@@ -27,7 +27,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@belnut](https://github.com/belnut) | *링크를 남겨주세요* |
+| [@Belnut](https://github.com/Belnut) | *링크를 남겨주세요* |
 | [@devchanki](https://github.com/devchanki) | *링크를 남겨주세요* |
 
 
@@ -38,7 +38,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@belnut](https://github.com/belnut) | *링크를 남겨주세요* |
+| [@Belnut](https://github.com/Belnut) | *링크를 남겨주세요* |
 | [@devchanki](https://github.com/devchanki) | *링크를 남겨주세요* |
 
 
@@ -59,5 +59,5 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@belnut](https://github.com/belnut) | *링크를 남겨주세요* |
+| [@Belnut](https://github.com/Belnut) | *링크를 남겨주세요* |
 | [@devchanki](https://github.com/devchanki) | *링크를 남겨주세요* |
