@@ -17,7 +17,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@ajb3296](https://github.com/ajb3296) | *링크를 남겨주세요* |
-| [@kimka2013](https://github.com/kimka2013) | *링크를 남겨주세요* |
+| [@kimka2013](https://github.com/kimka2013) | https://user-images.githubusercontent.com/32701658/128632237-0c6af3f6-f486-485a-995c-0b0f88444730.png |
 | [@easycastle](https://github.com/easycastle) | *링크를 남겨주세요* |
 | [@Swipe0801](https://github.com/Swipe0801) | *링크를 남겨주세요* |
 
