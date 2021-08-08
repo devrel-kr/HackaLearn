@@ -19,7 +19,7 @@
 | [@JunYoung7](https://github.com/JunYoung7) | *링크를 남겨주세요* |
 | [@Lee-WonJun](https://github.com/Lee-WonJun) | *링크를 남겨주세요* |
 | [@rockacid20](https://github.com/rockacid20) | *링크를 남겨주세요* |
-| [@dream365](https://github.com/dream365) | *링크를 남겨주세요* |
+| [@dream365](https://github.com/dream365) | [스크린샷](https://user-images.githubusercontent.com/16471779/128630966-77804c87-24c4-4efb-9fce-8aea04f58fdf.PNG) |
 
 
 
