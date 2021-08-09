@@ -18,7 +18,7 @@
 | --------- | ------------- |
 | [@rockacid20](https://github.com/rockacid20) | *링크를 남겨주세요* |
 | [@Lee-WonJun](https://github.com/Lee-WonJun) | *링크를 남겨주세요* |
-| [@JunYoung7](https://github.com/JunYoung7) | *링크를 남겨주세요* |
+| [@JunYoung7](https://github.com/JunYoung7) | https://user-images.githubusercontent.com/61405355/128654322-2ed841e1-1015-4185-98f5-73bcf86e1ed0.JPG |
 | [@dream365](https://github.com/dream365) | *링크를 남겨주세요* |
 
 
