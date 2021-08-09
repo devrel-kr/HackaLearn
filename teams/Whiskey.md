@@ -31,7 +31,7 @@
 | --------- | ------------- |
 | [@rockacid20](https://github.com/rockacid20) | *링크를 남겨주세요* |
 | [@Lee-WonJun](https://github.com/Lee-WonJun) | *링크를 남겨주세요* |
-| [@JunYoung7](https://github.com/JunYoung7) | *링크를 남겨주세요* |
+| [@JunYoung7](https://github.com/JunYoung7) | https://user-images.githubusercontent.com/61405355/128654541-7e7b950d-eb04-4c8a-95cf-0cb564edbda5.JPG |
 | [@dream365](https://github.com/dream365) | *링크를 남겨주세요* |
 
 
