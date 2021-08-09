@@ -2,7 +2,7 @@
 
 ## 챌린지 ##
 
-* [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+* [v] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 * [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
 * [ ] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@Yuna9949](https://github.com/Yuna9949) | *링크를 남겨주세요* |
+| [@Yuna9949](https://github.com/Yuna9949) | https://user-images.githubusercontent.com/82620252/128651845-1818549f-1458-4516-904e-7102aeaaf2f9.png |
 | [@DoltAmelia](https://github.com/DoltAmelia) | *링크를 남겨주세요* |
 | [@fazerlover](https://github.com/fazerlover) | *링크를 남겨주세요* |
 
