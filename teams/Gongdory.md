@@ -18,7 +18,8 @@
 | --------- | ------------- |
 | [@Yuna9949](https://github.com/Yuna9949) | *링크를 남겨주세요* |
 | [@DoltAmelia](https://github.com/DoltAmelia) | *링크를 남겨주세요* |
-| [@fazerlover](https://github.com/fazerlover) | *링크를 남겨주세요* |
+| [@fazerlover](https://github.com/fazerlover) | https://user-images.githubusercontent.com/88120977/128652660-41c4af92-bb88-4735-a50c-052ef154e55e.jpg
+
 
 
 
