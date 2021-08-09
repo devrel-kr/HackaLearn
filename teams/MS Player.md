@@ -30,7 +30,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@ajb3296](https://github.com/ajb3296) | https://gist.github.com/ajb3296/360f8767ef8de51eda79ccfe8b0a3bb0/raw/acab3ca740bf304d7f8595328d0e6a09606ba404/Cloud_Skill_Challenge_2.png |
-| [@kimka2013](https://github.com/kimka2013) | *링크를 남겨주세요* |
+| [@kimka2013](https://github.com/kimka2013) | https://user-images.githubusercontent.com/32701658/128692434-d6df4754-6475-411c-826e-3f2a1a1022a9.png |
 | [@easycastle](https://github.com/easycastle) | *링크를 남겨주세요* |
 | [@Swipe0801](https://github.com/Swipe0801) | https://user-images.githubusercontent.com/41516228/128629972-0199ff5a-b0a0-4529-b34e-c76e8a7dd852.png |
 
