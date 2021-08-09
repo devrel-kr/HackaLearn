@@ -15,6 +15,11 @@ on:
         description: The comma delimited labels to remove
         required: true
         default: review-completed
+      isMergeable:
+        description: The value indicating whether the challenge is mergeable or not.
+        required: true
+        default: 'false'
+
 
 jobs:
   update_labels:
@@ -63,6 +68,7 @@ jobs:
 
     steps:
     - name: Merge PR
+      if: ${{ github.event.inputs.isMergeable == 'true' }}
       shell: pwsh
       run: |
         $headers = @{ "Authorization" = "token ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json" }
