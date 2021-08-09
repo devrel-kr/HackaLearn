@@ -16,10 +16,10 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@ajb3296](https://github.com/ajb3296) | *링크를 남겨주세요* |
+| [@ajb3296](https://github.com/ajb3296) | https://gist.github.com/ajb3296/81b6a5a484c0d9e7bfc4938ef9312638/raw/d613dafc123cf561a5c1fb14d37920e4dd440c1d/Cloud_Skill_Challenge_1.png |
 | [@kimka2013](https://github.com/kimka2013) | *링크를 남겨주세요* |
 | [@easycastle](https://github.com/easycastle) | *링크를 남겨주세요* |
-| [@Swipe0801](https://github.com/Swipe0801) | *링크를 남겨주세요* |
+| [@Swipe0801](https://github.com/Swipe0801) | https://user-images.githubusercontent.com/41516228/128605307-bcd48bf1-0d47-401d-849a-ef40f5e95588.png |
 
 
 
@@ -29,7 +29,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@ajb3296](https://github.com/ajb3296) | *링크를 남겨주세요* |
+| [@ajb3296](https://github.com/ajb3296) | https://gist.github.com/ajb3296/360f8767ef8de51eda79ccfe8b0a3bb0/raw/acab3ca740bf304d7f8595328d0e6a09606ba404/Cloud_Skill_Challenge_2.png |
 | [@kimka2013](https://github.com/kimka2013) | *링크를 남겨주세요* |
 | [@easycastle](https://github.com/easycastle) | *링크를 남겨주세요* |
 | [@Swipe0801](https://github.com/Swipe0801) | https://user-images.githubusercontent.com/41516228/128629972-0199ff5a-b0a0-4529-b34e-c76e8a7dd852.png |
@@ -42,10 +42,10 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@ajb3296](https://github.com/ajb3296) | *링크를 남겨주세요* |
+| [@ajb3296](https://github.com/ajb3296) | https://twitter.com/ajb_3296/status/1422881832912052233?s=19 |
 | [@kimka2013](https://github.com/kimka2013) | https://twitter.com/kimb0505/status/1424402720518119424?s=21 |
 | [@easycastle](https://github.com/easycastle) | *링크를 남겨주세요* |
-| [@Swipe0801](https://github.com/Swipe0801) | *링크를 남겨주세요* |
+| [@Swipe0801](https://github.com/Swipe0801) | https://twitter.com/sharpbin1/status/1423155953239687173?s=20 |
 
 
 
