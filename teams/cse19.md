@@ -1,4 +1,4 @@
-# 팀명: shimumu #
+# 팀명: cse19 #
 
 ## 챌린지 ##
 
@@ -16,7 +16,9 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@yelim421](https://github.com/yelim421) | https://raw.githubusercontent.com/yelim421/HackaLearn_auth/main/21%20%ED%95%98%EB%82%98%20%EB%81%9D.PNG |
+| [@JooDevel0p](https://github.com/JooDevel0p) | *링크를 남겨주세요* |
+| [@stritegdc](https://github.com/stritegdc) | *링크를 남겨주세요* |
+| [@soyun9902](https://github.com/soyun9902) | *링크를 남겨주세요* |
 
 
 
@@ -26,7 +28,9 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@yelim421](https://github.com/yelim421) | https://raw.githubusercontent.com/yelim421/HackaLearn_auth/main/24%20%EB%91%90%EB%B2%88%EC%A7%B8%EA%BA%BC%20%EB%81%9D!.PNG|
+| [@JooDevel0p](https://github.com/JooDevel0p) | *링크를 남겨주세요* |
+| [@stritegdc](https://github.com/stritegdc) | *링크를 남겨주세요* |
+| [@soyun9902](https://github.com/soyun9902) | *링크를 남겨주세요* |
 
 
 
@@ -36,7 +40,9 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@yelim421](https://github.com/yelim421) | *링크를 남겨주세요* |
+| [@JooDevel0p](https://github.com/JooDevel0p) | *링크를 남겨주세요* |
+| [@stritegdc](https://github.com/stritegdc) | *링크를 남겨주세요* |
+| [@soyun9902](https://github.com/soyun9902) | *링크를 남겨주세요* |
 
 
 
@@ -56,4 +62,6 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@yelim421](https://github.com/yelim421) | *링크를 남겨주세요* |
+| [@JooDevel0p](https://github.com/JooDevel0p) | *링크를 남겨주세요* |
+| [@stritegdc](https://github.com/stritegdc) | *링크를 남겨주세요* |
+| [@soyun9902](https://github.com/soyun9902) | *링크를 남겨주세요* |
