@@ -18,6 +18,7 @@
 | --------- | ------------- |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
+| [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
 
 
 
@@ -29,7 +30,7 @@
 | --------- | ------------- |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
-
+| [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
 
 
 ## SNS 인증샷 챌린지 ##
@@ -40,7 +41,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
-
+| [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
 
 
 ## 웹 애플리케이션 및 GitHub 저장소 챌린지 ##
@@ -61,3 +62,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
+| [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
