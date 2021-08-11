@@ -4,7 +4,7 @@
 
 * [x] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 * [x] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [ ] SNS 인증샷 챌린지
+* [x] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
 * [ ] 블로그 후기 챌린지
@@ -44,7 +44,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@ajb3296](https://github.com/ajb3296) | https://twitter.com/ajb_3296/status/1422881832912052233?s=19 |
 | [@kimka2013](https://github.com/kimka2013) | https://twitter.com/kimb0505/status/1424402720518119424?s=21 |
-| [@easycastle](https://github.com/easycastle) | *링크를 남겨주세요* |
+| [@easycastle](https://github.com/easycastle) | https://www.instagram.com/p/CSbyur1lMQ5/?utm_source=ig_web_copy_link |
 | [@Swipe0801](https://github.com/Swipe0801) | https://twitter.com/sharpbin1/status/1423155953239687173?s=20 |
 
 
