@@ -17,7 +17,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@seonghun-dev](https://github.com/seonghun-dev) | *링크를 남겨주세요* |
-| [@judemin](https://github.com/judemin) | *링크를 남겨주세요* |
+| [@judemin](https://github.com/judemin) | https://nickel-quarter-02b.notion.site/1-eb16c76f4d294f2db70d5656c840808e |
 | [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
 | [@eanshu](https://github.com/eanshu) | *링크를 남겨주세요* |
 
@@ -30,7 +30,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@seonghun-dev](https://github.com/seonghun-dev) | *링크를 남겨주세요* |
-| [@judemin](https://github.com/judemin) | *링크를 남겨주세요* |
+| [@judemin](https://github.com/judemin) | https://nickel-quarter-02b.notion.site/2-2ae539ab69b34ff38707056f5b28114b |
 | [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
 | [@eanshu](https://github.com/eanshu) | *링크를 남겨주세요* |
 
