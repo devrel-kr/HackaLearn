@@ -4,7 +4,7 @@
 
 * [X] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 * [X] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [ ] SNS 인증샷 챌린지
+* [x] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
 * [ ] 블로그 후기 챌린지
@@ -40,7 +40,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@Yuna9949](https://github.com/Yuna9949) | *링크를 남겨주세요* |
+| [@Yuna9949](https://github.com/Yuna9949) | https://www.instagram.com/p/CScGuCJFBnu/?utm_source=ig_web_copy_link |
 | [@DoltAmelia](https://github.com/DoltAmelia) | *링크를 남겨주세요* |
 | [@fazerlover](https://github.com/fazerlover) | *링크를 남겨주세요* |
 
