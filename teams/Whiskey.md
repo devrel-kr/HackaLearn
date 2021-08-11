@@ -30,7 +30,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@rockacid20](https://github.com/rockacid20) | *링크를 남겨주세요* |
+| [@rockacid20](https://github.com/rockacid20) | [스크린샷](https://user-images.githubusercontent.com/88379815/128871891-1f318412-e24a-40cd-80f9-70eab7a987ab.png) |
 | [@Lee-WonJun](https://github.com/Lee-WonJun) | *링크를 남겨주세요* |
 | [@JunYoung7](https://github.com/JunYoung7) | https://user-images.githubusercontent.com/61405355/128654541-7e7b950d-eb04-4c8a-95cf-0cb564edbda5.JPG |
 | [@dream365](https://github.com/dream365) | [스크린샷](https://user-images.githubusercontent.com/16471779/128631237-572fc3dc-eceb-4888-aa4d-9e50a7aeecf7.PNG) |
