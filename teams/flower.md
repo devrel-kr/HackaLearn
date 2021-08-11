@@ -1,4 +1,4 @@
-# 팀명: 털썩유발자들 #
+# 팀명: flower #
 
 ## 챌린지 ##
 
@@ -16,11 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@HyunJiLim0406](https://github.com/HyunJiLim0406) | *링크를 남겨주세요* |
-| [@JoongHyun-Kim](https://github.com/JoongHyun-Kim) | *링크를 남겨주세요* |
-| [@YeonjuSeo](https://github.com/YeonjuSeo) | *링크를 남겨주세요* |
-| [@mkwkw](https://github.com/mkwkw) |![image](https://user-images.githubusercontent.com/76611903/128788337-c4474469-7623-49eb-a9b5-15a97398ab0c.png)
-
+| [@flowerksj](https://github.com/flowerksj) | *링크를 남겨주세요* |
 
 
 
@@ -30,11 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@HyunJiLim0406](https://github.com/HyunJiLim0406) | *링크를 남겨주세요* |
-| [@JoongHyun-Kim](https://github.com/JoongHyun-Kim) | *링크를 남겨주세요* |
-| [@YeonjuSeo](https://github.com/YeonjuSeo) | *링크를 남겨주세요* |
-| [@mkwkw](https://github.com/mkwkw) | ![image](https://user-images.githubusercontent.com/76611903/128833376-5f75a048-b780-4c75-a1f6-b683d40caff7.png)
-
+| [@flowerksj](https://github.com/flowerksj) | *링크를 남겨주세요* |
 
 
 
@@ -44,10 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@HyunJiLim0406](https://github.com/HyunJiLim0406) | *링크를 남겨주세요* |
-| [@JoongHyun-Kim](https://github.com/JoongHyun-Kim) | *링크를 남겨주세요* |
-| [@YeonjuSeo](https://github.com/YeonjuSeo) | *링크를 남겨주세요* |
-| [@mkwkw](https://github.com/mkwkw) | *링크를 남겨주세요* |
+| [@flowerksj](https://github.com/flowerksj) | *링크를 남겨주세요* |
 
 
 
@@ -67,7 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@HyunJiLim0406](https://github.com/HyunJiLim0406) | *링크를 남겨주세요* |
-| [@JoongHyun-Kim](https://github.com/JoongHyun-Kim) | *링크를 남겨주세요* |
-| [@YeonjuSeo](https://github.com/YeonjuSeo) | *링크를 남겨주세요* |
-| [@mkwkw](https://github.com/mkwkw) | *링크를 남겨주세요* |
+| [@flowerksj](https://github.com/flowerksj) | *링크를 남겨주세요* |
