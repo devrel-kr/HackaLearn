@@ -2,8 +2,8 @@
 
 ## 챌린지 ##
 
-* [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-* [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
+* [X] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+* [X] 클라우드 스킬 챌린지 #2: 깃헙 액션
 * [ ] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
@@ -16,8 +16,10 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@Yuna9949](https://github.com/Yuna9949) | *링크를 남겨주세요* |
-| [@DoltAmelia](https://github.com/DoltAmelia) | *링크를 남겨주세요* |
+
+
+| [@Yuna9949](https://github.com/Yuna9949) | https://user-images.githubusercontent.com/82620252/128651845-1818549f-1458-4516-904e-7102aeaaf2f9.png |
+| [@DoltAmelia](https://github.com/DoltAmelia) | https://user-images.githubusercontent.com/88205708/128653436-e4e8c7d2-11a5-4ee6-9fc0-55583ae9bb8a.png |
 | [@fazerlover](https://github.com/fazerlover) | https://user-images.githubusercontent.com/88120977/128652660-41c4af92-bb88-4735-a50c-052ef154e55e.jpg
 
 
@@ -29,8 +31,8 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@Yuna9949](https://github.com/Yuna9949) | *링크를 남겨주세요* |
-| [@DoltAmelia](https://github.com/DoltAmelia) | *링크를 남겨주세요* |
+| [@Yuna9949](https://github.com/Yuna9949) | https://user-images.githubusercontent.com/82620252/128651849-2e67a49b-a2c2-4ad9-88db-032a5e02fb0a.png |
+| [@DoltAmelia](https://github.com/DoltAmelia) | https://user-images.githubusercontent.com/88205708/128664293-dabb3e46-83f4-4740-9bed-bd3c6571c56e.png |
 | [@fazerlover](https://github.com/fazerlover) | *링크를 남겨주세요* |
 
 
