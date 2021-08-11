@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@byk1123naver.com](https://github.com/byk1123naver.com) | *링크를 남겨주세요* |
+| [@byk1123naver.com](https://github.com/byk1123naver.com) | ![캡처](https://user-images.githubusercontent.com/75259098/129022528-526c27ef-b243-4f88-a986-b8328eaa2dff.JPG)|
 
 
 
