@@ -9,6 +9,15 @@
 * [ ] GitHub 저장소 챌린지
 * [ ] 블로그 후기 챌린지
 
+## Microsoft Learn 프로필 링크 ##
+
+| GitHub ID | 프로필 링크 |
+| --------- | ------------- |
+| [@seonghun-dev](https://github.com/seonghun-dev) | *링크를 남겨주세요* |
+| [@judemin](https://github.com/judemin) | https://docs.microsoft.com/ko-kr/users/21213855/ |
+| [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
+| [@eanshu](https://github.com/eanshu) | *링크를 남겨주세요* |
+
 
 ## 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱 ##
 
