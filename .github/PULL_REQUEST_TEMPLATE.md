@@ -4,12 +4,12 @@
 
 챌린저의 정보를 아래에 남겨주세요.
 
-* 팀 이름: 
+* 팀 이름: RCOD
 
 > Microsoft Learn 프로필 URL은 `https://docs.microsoft.com/ko-kr/users/******`와 같이 생겼습니다.
 
-* Microsoft Learn 프로필 URL: 
-* GitHub ID: @
+* Microsoft Learn 프로필 URL: https://docs.microsoft.com/ko-kr/users/ugaemi-5374/
+* GitHub ID: @ugaemi
 
 
 아래는 SNS 챌린지의 경우에만 입력해 주세요.
@@ -24,7 +24,7 @@
 
 > 이번에 완료된 챌린지의 내용을 마킹해주세요.
 
-* [ ] 애저 정적 웹 앱 챌린지 완료
+* [X] 애저 정적 웹 앱 챌린지 완료
 * [ ] 깃헙 액션 챌린지 완료
 * [ ] 소셜미디어 인증샷 챌린지 완료
 * [ ] 애저 정적 웹 앱 URL 제출 챌린지 완료
