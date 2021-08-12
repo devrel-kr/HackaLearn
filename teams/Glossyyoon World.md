@@ -2,8 +2,8 @@
 
 ## 챌린지 ##
 
-* [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-* [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
+* [x] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+* [x] 클라우드 스킬 챌린지 #2: 깃헙 액션
 * [ ] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@glossyyoon](https://github.com/glossyyoon) | *링크를 남겨주세요* |
+| [@glossyyoon](https://github.com/glossyyoon) | https://gist.github.com/glossyyoon/a8e542a6838c702c64de1f64942fff58 |
 
 
 
@@ -26,7 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@glossyyoon](https://github.com/glossyyoon) | *링크를 남겨주세요* |
+| [@glossyyoon](https://github.com/glossyyoon) | https://gist.github.com/glossyyoon/743b8b283ca53f68c28bde2801d90a60 |
 
 
 
