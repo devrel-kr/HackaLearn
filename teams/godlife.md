@@ -2,7 +2,7 @@
 
 ## 챌린지 ##
 
-* [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+* [X] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 * [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
 * [ ] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@ahnjungeun](https://github.com/ahnjungeun) | *링크를 남겨주세요* |
+| [@ahnjungeun](https://github.com/ahnjungeun) | https://github.com/ahnjungeun/2021-HackaLearn/blob/master/HackaLearn%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%8A%A4%ED%82%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80%201.png |
 | [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
 | [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
 
