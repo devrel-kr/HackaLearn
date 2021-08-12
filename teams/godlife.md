@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@ahnjungeun](https://github.com/ahnjungeun) | https://github.com/ahnjungeun/2021-HackaLearn/blob/master/HackaLearn%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%8A%A4%ED%82%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80%201.png |
+| [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129226500-43fb25b2-0973-4fe9-8e53-333322f57518.png |
 | [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
 | [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
 
