@@ -40,7 +40,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@ahnjungeun](https://github.com/ahnjungeun) | *링크를 남겨주세요* |
+| [@ahnjungeun](https://github.com/ahnjungeun) | https://www.instagram.com/p/CSemkDbBRgj/?utm_source=ig_web_copy_link |
 | [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
 | [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
 
