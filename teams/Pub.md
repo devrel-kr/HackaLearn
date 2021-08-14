@@ -13,7 +13,7 @@
 
 | GitHub ID | 프로필 링크 |
 | --------- | ------------- |
-| [@seonghun-dev](https://github.com/seonghun-dev) | *링크를 남겨주세요* |
+| [@seonghun-dev](https://github.com/seonghun-dev) | https://docs.microsoft.com/ko-kr/users/04310058/ |
 | [@judemin](https://github.com/judemin) | https://docs.microsoft.com/ko-kr/users/21213855/ |
 | [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
 | [@eanshu](https://github.com/eanshu) | *링크를 남겨주세요* |
