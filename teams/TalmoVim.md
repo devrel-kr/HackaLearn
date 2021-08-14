@@ -17,7 +17,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@Belnut](https://github.com/Belnut) | https://user-images.githubusercontent.com/16497782/129186484-253642ab-0bd7-4d5f-8544-49f978e92583.png |
-| [@devchanki](https://github.com/devchanki) | ![image](https://user-images.githubusercontent.com/31515116/129448485-0ce650f3-1aca-4f1d-952d-64f434c69617.png)|
+| [@devchanki](https://github.com/devchanki) | |
 
 
 
