@@ -41,7 +41,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
 | [@vilut1002](https://github.com/vilut1002) | *링크를 남겨주세요* |
-| [@solidcellaMoon](https://github.com/solidcellaMoon) |  |
+| [@solidcellaMoon](https://github.com/solidcellaMoon) | |
 | [@minie12](https://github.com/minie12) | *링크를 남겨주세요* |
 
 
@@ -63,5 +63,5 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
 | [@vilut1002](https://github.com/vilut1002) | *링크를 남겨주세요* |
-| [@solidcellaMoon](https://github.com/solidcellaMoon) |  |
+| [@solidcellaMoon](https://github.com/solidcellaMoon) | |
 | [@minie12](https://github.com/minie12) | *링크를 남겨주세요* |
