@@ -20,7 +20,7 @@
 
 | [@Yuna9949](https://github.com/Yuna9949) | https://user-images.githubusercontent.com/82620252/128651845-1818549f-1458-4516-904e-7102aeaaf2f9.png |
 | [@DoltAmelia](https://github.com/DoltAmelia) | https://user-images.githubusercontent.com/88205708/128653436-e4e8c7d2-11a5-4ee6-9fc0-55583ae9bb8a.png |
-| [@fazerlover](https://github.com/fazerlover) | https://user-images.githubusercontent.com/88120977/128652660-41c4af92-bb88-4735-a50c-052ef154e55e.jpg
+| [@fazerlover](https://github.com/fazerlover) | https://user-images.githubusercontent.com/88120977/129052366-ce3e5367-5e2f-4cc8-9388-348ec5661fbf.jpg |
 
 
 
@@ -33,7 +33,7 @@
 | --------- | ------------- |
 | [@Yuna9949](https://github.com/Yuna9949) | https://user-images.githubusercontent.com/82620252/128651849-2e67a49b-a2c2-4ad9-88db-032a5e02fb0a.png |
 | [@DoltAmelia](https://github.com/DoltAmelia) | https://user-images.githubusercontent.com/88205708/128664293-dabb3e46-83f4-4740-9bed-bd3c6571c56e.png |
-| [@fazerlover](https://github.com/fazerlover) | *링크를 남겨주세요* |
+| [@fazerlover](https://github.com/fazerlover) | https://user-images.githubusercontent.com/88120977/129052224-a16937f9-7b98-4f3a-965a-dfd635257dd1.jpg |
 
 
 
