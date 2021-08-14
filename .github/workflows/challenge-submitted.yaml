@@ -23,6 +23,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Get event payload
+      shell: pwsh
+      run: |
+        Write-Host '${{ toJSON(github.event) }}'
+
     - name: Add a label
       uses: actions/labeler@v3
       with:
