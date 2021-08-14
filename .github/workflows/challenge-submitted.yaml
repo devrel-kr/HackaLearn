@@ -23,18 +23,57 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Get event payload
+    - name: Get PR date/time
+      id: checkpoint
       shell: pwsh
       run: |
-        Write-Host '${{ toJSON(github.event) }}'
+        $tz = [TimeZoneInfo]::FindSystemTimeZoneById("Asia/Seoul")
+        $dateSubmitted = [DateTimeOffset]::Parse("${{ github.event.pull_request.created_at }}")
+        $offset = $tz.GetUtcOffset($dateSubmitted)
+
+        $dateSubmitted = $dateSubmitted.ToOffset($offset)
+        $dateDue = $([DateTimeOffset]::Parse("2021-08-16T00:00:00.000+09:00"))
+        $isOverdue = "$($dateSubmitted -gt $dateDue)".ToLowerInvariant()
+
+        $dateSubmittedValue = $dateSubmitted.ToString("yyyy-MM-ddTHH:mm:ss.fffzzz")
+        $dateDueValue = $dateDue.ToString("yyyy-MM-ddTHH:mm:ss.fffzzz")
+
+        echo "::set-output name=dateSubmitted::$dateSubmittedValue"
+        echo "::set-output name=dateDue::$dateDueValue"
+        echo "::set-output name=isOverdue::$isOverdue"
+
+    - name: Add a label - Overdue
+      if: ${{ steps.checkpoint.outputs.isOverdue == 'true' }}
+      uses: buildsville/add-remove-label@v1
+      with:
+        token: "${{ secrets.GITHUB_TOKEN }}"
+        label: 'overdue'
+        type: add
+
+    - name: Comment to PR - Overdue
+      if: ${{ steps.checkpoint.outputs.isOverdue == 'true' }}
+      uses: bubkoo/auto-comment@v1
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        pullRequestOpened: |
+          👋🏼 @{{ author }} 님!
+
+          * PR 제출 시각: ${{ steps.checkpoint.outputs.dateSubmitted }}
+          * PR 마감 시각: ${{ steps.checkpoint.outputs.dateDue }}
+
+          안타깝게도 제출하신 PR은 마감 기한인 ${{ steps.checkpoint.outputs.dateDue }}을 넘기셨습니다. 😭 따라서, 이번 HackaLearn 이벤트에 반영되지 않습니다.
+
+          그동안 HackaLearn 이벤트에 참여해 주셔서 감사 드립니다. 다음 기회에 다시 만나요!
 
     - name: Add a label
+      if: ${{ steps.checkpoint.outputs.isOverdue == 'false' }}
       uses: actions/labeler@v3
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
         configuration-path: '.github/labeler.yml'
 
     - name: Comment to PR
+      if: ${{ steps.checkpoint.outputs.isOverdue == 'false' }}
       uses: bubkoo/auto-comment@v1
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -49,6 +88,7 @@ jobs:
           🔹 From. HackaLearn 운영진 일동 🔹
 
     - name: Randomly assign a staff
+      if: ${{ steps.checkpoint.outputs.isOverdue == 'false' }}
       uses: gerardabello/auto-assign@v1.0.1
       with:
         github-token: "${{ secrets.GITHUB_TOKEN }}"
