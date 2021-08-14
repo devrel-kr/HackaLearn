@@ -26,7 +26,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@seonghun-dev](https://github.com/seonghun-dev) | https://github.com/seonghun-dev/seonghun-dev.github.io/blob/main/images/Hackelarn/Azure%20static%20web%20App_seonghun.png?raw=true |
-| [@judemin](https://github.com/judemin) | https://nickel-quarter-02b.notion.site/1-eb16c76f4d294f2db70d5656c840808e |
+| [@judemin](https://github.com/judemin) | https://github.com/seonghun-dev/seonghun-dev.github.io/blob/main/images/Hackelarn/IMG_0033.png?raw=true |
 | [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
 | [@eanshu](https://github.com/eanshu) | *링크를 남겨주세요* |
 
@@ -35,11 +35,10 @@
 ## 클라우드 스킬 챌린지 #2: 깃헙 액션 ##
 
 깃헙 액션 클라우드 스킬 챌린지 완료후 스크린샷을 찍어 저장한 후 이곳에 링크를 남겨 주세요.
-
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@seonghun-dev](https://github.com/seonghun-dev) | https://github.com/seonghun-dev/seonghun-dev.github.io/blob/main/images/Hackelarn/Github%20Action_seonghun.png?raw=true|
-| [@judemin](https://github.com/judemin) | https://nickel-quarter-02b.notion.site/2-2ae539ab69b34ff38707056f5b28114b |
+| [@judemin](https://github.com/judemin) | https://github.com/seonghun-dev/seonghun-dev.github.io/blob/main/images/Hackelarn/IMG_0034.png?raw=true|
 | [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
 | [@eanshu](https://github.com/eanshu) | *링크를 남겨주세요* |
 
