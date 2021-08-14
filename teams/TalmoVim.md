@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@Belnut](https://github.com/Belnut) | *링크를 남겨주세요* |
+| [@Belnut](https://github.com/Belnut) | https://user-images.githubusercontent.com/16497782/129186484-253642ab-0bd7-4d5f-8544-49f978e92583.png |
 | [@devchanki](https://github.com/devchanki) | *링크를 남겨주세요* |
 
 
