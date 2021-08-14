@@ -1,4 +1,4 @@
-# 팀명: 제로백 #
+# 팀명: The Great Comet #
 
 ## 챌린지 ##
 
@@ -16,10 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@Eomhyunjun](https://github.com/Eomhyunjun) | *링크를 남겨주세요* |
-| [@Kyalivia](https://github.com/Kyalivia) | *링크를 남겨주세요* |
-| [@hekang42](https://github.com/hekang42) | *링크를 남겨주세요* |
-| [@humonnom](https://github.com/humonnom) | *링크를 남겨주세요* |
+| [@greatcomet1812](https://github.com/greatcomet1812) | *링크를 남겨주세요* |
 
 
 
@@ -29,10 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@Eomhyunjun](https://github.com/Eomhyunjun) | *링크를 남겨주세요* |
-| [@Kyalivia](https://github.com/Kyalivia) | *링크를 남겨주세요* |
-| [@hekang42](https://github.com/hekang42) | *링크를 남겨주세요* |
-| [@humonnom](https://github.com/humonnom) | *링크를 남겨주세요* |
+| [@greatcomet1812](https://github.com/greatcomet1812) | *링크를 남겨주세요* |
 
 
 
@@ -42,10 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@Eomhyunjun](https://github.com/Eomhyunjun) | https://www.instagram.com/p/CSXAjA-BuB5/?utm_source=ig_web_copy_link |
-| [@Kyalivia](https://github.com/Kyalivia) | *링크를 남겨주세요* |
-| [@hekang42](https://github.com/hekang42) | [링크](https://www.instagram.com/p/CShFBHKp7Ez) |
-| [@humonnom](https://github.com/humonnom) | *링크를 남겨주세요* |
+| [@greatcomet1812](https://github.com/greatcomet1812) | *링크를 남겨주세요* |
 
 
 
@@ -65,7 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@Eomhyunjun](https://github.com/Eomhyunjun) | *링크를 남겨주세요* |
-| [@Kyalivia](https://github.com/Kyalivia) | *링크를 남겨주세요* |
-| [@hekang42](https://github.com/hekang42) | [링크](https://velog.io/@hekang/Hackalearn) |
-| [@humonnom](https://github.com/humonnom) | *링크를 남겨주세요* |
+| [@greatcomet1812](https://github.com/greatcomet1812) | *링크를 남겨주세요* |
