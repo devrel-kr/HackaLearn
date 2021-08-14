@@ -1,4 +1,4 @@
-# 팀명: 팀오므 라이스 #
+# 팀명: The Great Comet #
 
 ## 챌린지 ##
 
@@ -16,8 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@hokim2407](https://github.com/hokim2407) | https://user-images.githubusercontent.com/67669579/129441678-92ebce59-168e-41da-803e-51187a6ae010.png |
-| [@kypark7](https://github.com/kypark7) | *링크를 남겨주세요* |
+| [@greatcomet1812](https://github.com/greatcomet1812) | *링크를 남겨주세요* |
 
 
 
@@ -27,8 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@hokim2407](https://github.com/hokim2407) | https://user-images.githubusercontent.com/67669579/129441676-b405a2ca-74b3-4674-a74a-ee81319881dd.png |
-| [@kypark7](https://github.com/kypark7) | *링크를 남겨주세요* |
+| [@greatcomet1812](https://github.com/greatcomet1812) | *링크를 남겨주세요* |
 
 
 
@@ -38,8 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@hokim2407](https://github.com/hokim2407) | https://twitter.com/hokim2407/status/1426483996884537347?s=20* |
-| [@kypark7](https://github.com/kypark7) | *링크를 남겨주세요* |
+| [@greatcomet1812](https://github.com/greatcomet1812) | *링크를 남겨주세요* |
 
 
 
@@ -59,5 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@hokim2407](https://github.com/hokim2407) | *링크를 남겨주세요* |
-| [@kypark7](https://github.com/kypark7) | *링크를 남겨주세요* |
+| [@greatcomet1812](https://github.com/greatcomet1812) | *링크를 남겨주세요* |
