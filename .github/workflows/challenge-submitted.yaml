@@ -65,6 +65,12 @@ jobs:
 
           그동안 HackaLearn 이벤트에 참여해 주셔서 감사 드립니다. 다음 기회에 다시 만나요!
 
+    - name: Close PR - Overdue
+      if: ${{ steps.checkpoint.outputs.isOverdue == 'true' }}
+      uses: superbrothers/close-pull-request@v3
+      with:
+        comment: "제출 기한 종료"
+
     - name: Add a label
       if: ${{ steps.checkpoint.outputs.isOverdue == 'false' }}
       uses: actions/labeler@v3
