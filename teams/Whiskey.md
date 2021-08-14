@@ -44,7 +44,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
 | [@rockacid20](https://github.com/rockacid20) | *링크를 남겨주세요* |
-| [@Lee-WonJun](https://github.com/Lee-WonJun) | [스크린샷](https://twitter.com/SeeRoEee/status/1426554773558284289) |
+| [@Lee-WonJun](https://github.com/Lee-WonJun) | [링크](https://twitter.com/SeeRoEee/status/1426554773558284289) |
 | [@JunYoung7](https://github.com/JunYoung7) | *링크를 남겨주세요* |
 | [@dream365](https://github.com/dream365) | *링크를 남겨주세요* |
 
