@@ -15,8 +15,8 @@
 애저 정적 웹 앱 클라우드 스킬 챌린지 완료후 스크린샷을 찍어 저장한 후 이곳에 링크를 남겨 주세요.
 
 | GitHub ID | 스크린샷 링크 |
-| [@est22](https://github.com/est22) | ------------- |
-{{csc}}
+| --------- | ------------- |
+| [@est22](https://github.com/est22) | [Azure Static Web Apps - Learn  Microsoft Docs.pdf](https://github.com/est22/HackaLearn/files/6987971/Azure.Static.Web.Apps.-.Learn.Microsoft.Docs.pdf) |
 
 
 ## 클라우드 스킬 챌린지 #2: 깃헙 액션 ##
