@@ -53,7 +53,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | [@seonghun-dev](https://github.com/seonghun-dev) | https://www.instagram.com/p/CSmLGaOBVmy/?utm_medium=copy_link |
 | [@judemin](https://github.com/judemin) | https://www.instagram.com/p/CSmMiEXBRNz/?utm_source=ig_web_copy_link |
 | [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
-| [@eanshu](https://github.com/eanshu) | *링크를 남겨주세요* |
+| [@eanshu](https://github.com/eanshu) | https://www.instagram.com/p/CSmOLwuFddL/?utm_source=ig_web_copy_link |
 
 
 
@@ -76,4 +76,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | [@seonghun-dev](https://github.com/seonghun-dev) | https://velog.io/@seonghun-dev/HackaLearn-참여-후기 |
 | [@judemin](https://github.com/judemin) | https://nickel-quarter-02b.notion.site/147324a047b148118ba0c5f0fa1baaac |
 | [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
-| [@eanshu](https://github.com/eanshu) | https://www.instagram.com/p/CSmOLwuFddL/?utm_source=ig_web_copy_link |
+| [@eanshu](https://github.com/eanshu) |  |
