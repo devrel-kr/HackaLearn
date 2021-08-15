@@ -37,7 +37,7 @@ jobs:
           $labelled = Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
 
           # Comment to PR
-          $body = @{ "body" = "PR 최종 수정기한인 2021년 8월 16일 12시를 넘겨서 이 PR은 더이상 리뷰하지 않고 종료합니다." }
+          $body = @{ "body" = "This PR is closed because it has passed 2021-08-16T12:00:00+09:00 for final update." }
 
           $url = "https://api.github.com/repos/$owner/$repository/issues/$($_.number)/comments"
           $commented = Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
