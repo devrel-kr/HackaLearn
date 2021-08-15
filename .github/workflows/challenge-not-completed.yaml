@@ -15,6 +15,10 @@ on:
         description: The comma delimited labels to remove
         required: true
         default: review-completed
+      isMergeable:
+        description: The value indicating whether the challenge is mergeable or not.
+        required: true
+        default: 'false'
 
 jobs:
   update_labels:
