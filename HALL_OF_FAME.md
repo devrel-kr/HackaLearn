@@ -7,3 +7,5 @@
 | zuzokim | [팀 페이지](./teams/zuzokim.md) |
 | Gongdory | [팀 페이지](./teams/Gongdory.md) |
 | 슬기로운취준생활 | [팀 페이지](./teams/슬기로운취준생활.md) |
+| 하하호호 | [팀 페이지](./teams/하하호호.md) |
+| 팀오므 라이스 | [팀 페이지](./teams/팀오므%20라이스.md) |
