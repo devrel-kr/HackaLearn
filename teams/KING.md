@@ -40,7 +40,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@vilut1002](https://github.com/vilut1002) | *링크를 남겨주세요* |
+| [@vilut1002](https://github.com/vilut1002) | https://www.instagram.com/p/CSjbnJdBvC6/?utm_source=ig_web_copy_link|
 | [@solidcellaMoon](https://github.com/solidcellaMoon) | https://twitter.com/ccsolidcc/status/1426548346244632580?s=20 |
 | [@minie12](https://github.com/minie12) | https://www.instagram.com/p/CSjd8yhFTyn/?utm_medium=copy_link |
 
