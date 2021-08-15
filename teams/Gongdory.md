@@ -67,4 +67,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@Yuna9949](https://github.com/Yuna9949) | *링크를 남겨주세요* |
 | [@DoltAmelia](https://github.com/DoltAmelia) | https://doitamelia.tistory.com/7 |
-| [@fazerlover](https://github.com/fazerlover) | *링크를 남겨주세요* |
+| [@fazerlover](https://github.com/fazerlover) | https://blog.naver.com/finlandjoensuu/222471159400 |

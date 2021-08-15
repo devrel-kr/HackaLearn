@@ -1,4 +1,4 @@
-# 팀명: 토킹 포테이토 #
+# 팀명: LD #
 
 ## 챌린지 ##
 
@@ -16,9 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@gradeten](https://github.com/gradeten) | https://user-images.githubusercontent.com/88281367/128619695-4147c6ea-014d-4841-9d41-e187acaa1f2b.png |
-| [@minji1289](https://github.com/minji1289) | https://user-images.githubusercontent.com/79117648/128619491-333fd55c-7e77-455b-95d9-5ade3ba4b7f6.png |
-| [@seoyoung0121](https://github.com/seoyoung0121) | https://gist.github.com/seoyoung0121/1c71234d4a126e4047ac23f7c31aa233#gistcomment-3850194 |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -28,9 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@gradeten](https://github.com/gradeten) | https://user-images.githubusercontent.com/88281367/128619939-1da26dc4-8749-41cc-9a50-1bff8c45890a.png |
-| [@minji1289](https://github.com/minji1289) | https://user-images.githubusercontent.com/79117648/128619481-8ad84d50-5f07-4810-a194-cf1529db498e.png |
-| [@seoyoung0121](https://github.com/seoyoung0121) | https://gist.github.com/seoyoung0121/1c71234d4a126e4047ac23f7c31aa233#gistcomment-3850197 |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -40,9 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@gradeten](https://github.com/gradeten) | https://www.instagram.com/p/CSTRisEls62/?utm_medium=copy_link |
-| [@minji1289](https://github.com/minji1289) | https://twitter.com/vitamincjava/status/1424235737059258375?s=21 |
-| [@seoyoung0121](https://github.com/seoyoung0121) | https://www.instagram.com/p/CSTRDuvlbzt/?utm_medium=copy_link|
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -52,7 +46,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | 항목            | URL                                |
 | --------------- | ---------------------------------- |
-| 애저 정적 웹 앱 | https://white-smoke-0a8607710.azurestaticapps.net/ |
+| 애저 정적 웹 앱 | *애저 정적 웹 앱 URL을 남겨주세요* |
 | 깃헙 리포지토리 | *깃헙 리포지토리 URL을 남겨주세요* |
 
 
@@ -62,6 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@gradeten](https://github.com/gradeten) | *링크를 남겨주세요* |
-| [@minji1289](https://github.com/minji1289) | *링크를 남겨주세요* |
-| [@seoyoung0121](https://github.com/seoyoung0121) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
