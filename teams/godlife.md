@@ -3,8 +3,8 @@
 ## 챌린지 ##
 
 * [X] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-* [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [ ] SNS 인증샷 챌린지
+* [X] 클라우드 스킬 챌린지 #2: 깃헙 액션
+* [X] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
 * [ ] 블로그 후기 챌린지
@@ -17,7 +17,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129226500-43fb25b2-0973-4fe9-8e53-333322f57518.png |
-| [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
+| [@jane-k](https://github.com/jane-k) | https://user-images.githubusercontent.com/64597426/129470995-1826473f-1170-4abf-90aa-caff442946a4.png |
 | [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
 
 
@@ -29,7 +29,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129227424-5e412ae3-020b-46ed-ae5f-99313a86ae16.png |
-| [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
+| [@jane-k](https://github.com/jane-k) | https://user-images.githubusercontent.com/64597426/129476447-e2cfb8b9-e786-4483-8732-0df0cae828a0.png |
 | [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
 
 
@@ -41,7 +41,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://www.instagram.com/p/CSemkDbBRgj/?utm_source=ig_web_copy_link |
-| [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
+| [@jane-k](https://github.com/jane-k) | https://www.instagram.com/p/CSlrQXTrUKc/?utm_medium=copy_link |
 | [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
 
 
