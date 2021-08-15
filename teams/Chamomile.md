@@ -2,12 +2,12 @@
 
 ## 챌린지 ##
 
-* [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-* [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [ ] SNS 인증샷 챌린지
-* [ ] 웹 애플리케이션 챌린지
-* [ ] GitHub 저장소 챌린지
-* [ ] 블로그 후기 챌린지
+* [X] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+* [X] 클라우드 스킬 챌린지 #2: 깃헙 액션
+* [X] SNS 인증샷 챌린지
+* [X] 웹 애플리케이션 챌린지
+* [X] GitHub 저장소 챌린지
+* [X] 블로그 후기 챌린지
 
 
 ## 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱 ##
@@ -18,7 +18,7 @@
 | --------- | ------------- |
 | [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
-| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
+| [@minae27](https://github.com/minae27) | https://user-images.githubusercontent.com/25501159/129478132-e42aaec7-9010-4a57-8ad7-483d3f8eac39.png |
 
 
 
@@ -30,7 +30,7 @@
 | --------- | ------------- |
 | [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
-| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
+| [@minae27](https://github.com/minae27) | https://user-images.githubusercontent.com/25501159/129478138-e987a9ab-b6ca-4509-a228-3dd087763cc4.png |
 
 
 
@@ -42,7 +42,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
-| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
+| [@minae27](https://github.com/minae27) | https://www.instagram.com/p/CSk-lwdBXZI/?utm_medium=copy_link |
 
 
 
@@ -52,8 +52,8 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | 항목            | URL                                |
 | --------------- | ---------------------------------- |
-| 애저 정적 웹 앱 | *애저 정적 웹 앱 URL을 남겨주세요* |
-| 깃헙 리포지토리 | *깃헙 리포지토리 URL을 남겨주세요* |
+| 애저 정적 웹 앱 | https://agreeable-ground-0cb02be00.azurestaticapps.net/about |
+| 깃헙 리포지토리 | https://github.com/TeamChamomile/chamomile |
 
 
 ## 블로그 후기 챌린지 ##
@@ -64,4 +64,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
-| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
+| [@minae27](https://github.com/minae27) | https://www.instagram.com/p/CSk-lwdBXZI/?utm_medium=copy_link |
