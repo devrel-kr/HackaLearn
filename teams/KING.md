@@ -30,7 +30,7 @@
 | --------- | ------------- |
 | [@vilut1002](https://github.com/vilut1002) | *링크를 남겨주세요* |
 | [@solidcellaMoon](https://github.com/solidcellaMoon) | https://github.com/solidcellaMoon/MGMbot-HackaLearnXKorea2021/blob/master/Challenge/jh-ch2.png |
-| [@minie12](https://github.com/minie12) | *링크를 남겨주세요* |
+| [@minie12](https://github.com/minie12) | https://github.com/solidcellaMoon/MGMbot-HackaLearnXKorea2021/blob/master/Challenge/Eunjung_challenge2.PNG |
 
 
 
