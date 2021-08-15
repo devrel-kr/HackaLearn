@@ -18,8 +18,7 @@
 | --------- | ------------- |
 | [@wisdeom](https://github.com/wisdeom) | ![image](https://user-images.githubusercontent.com/37167493/129477587-ac3bc627-39d6-4107-9135-ad2739bad34c.png) |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
-| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
-
+| [@minae27](https://github.com/minae27) | https://user-images.githubusercontent.com/25501159/129478132-e42aaec7-9010-4a57-8ad7-483d3f8eac39.png |
 
 
 ## 클라우드 스킬 챌린지 #2: 깃헙 액션 ##
