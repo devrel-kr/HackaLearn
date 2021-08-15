@@ -1,4 +1,4 @@
-# 팀명: TalmoVim #
+# 팀명: LD #
 
 ## 챌린지 ##
 
@@ -16,8 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@Belnut](https://github.com/Belnut) | https://user-images.githubusercontent.com/16497782/129186484-253642ab-0bd7-4d5f-8544-49f978e92583.png |
-| [@devchanki](https://github.com/devchanki) | https://user-images.githubusercontent.com/31515116/129448485-0ce650f3-1aca-4f1d-952d-64f434c69617.png |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -27,8 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@Belnut](https://github.com/Belnut) | https://user-images.githubusercontent.com/16497782/129441115-e57482a9-841c-4e10-8336-bb0207d82ff9.png  |
-| [@devchanki](https://github.com/devchanki) | https://user-images.githubusercontent.com/31515116/129448530-c40882dc-24f9-4ee0-b23a-ac9041f148bf.png |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -38,8 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@Belnut](https://github.com/Belnut) | *링크를 남겨주세요* |
-| [@devchanki](https://github.com/devchanki) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -59,5 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@Belnut](https://github.com/Belnut) | *링크를 남겨주세요* |
-| [@devchanki](https://github.com/devchanki) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
