@@ -1,12 +1,23 @@
 > 각 **챌린지 미션**을 완료 할때 마다 **각자 자신의 항목을 수정하는** PR을 생성해 주세요.
 
-## 팀이름 ##
+## 챌린저 정보 ##
 
-> 팀이름, 자신의 GitHub ID, 그리고 Microsoft Learn 프로필 URL를 남겨주세요. Microsoft Learn 프로필 URL은 `https://docs.microsoft.com/ko-kr/users/******`와 같이 생겼습니다.
+챌린저의 정보를 아래에 남겨주세요.
 
 * 팀 이름: 
-* GitHub ID: 
+
+> Microsoft Learn 프로필 URL은 `https://docs.microsoft.com/ko-kr/users/******`와 같이 생겼습니다.
+
 * Microsoft Learn 프로필 URL: 
+* GitHub ID: @
+
+
+아래는 SNS 챌린지의 경우에만 입력해 주세요.
+
+> 다양한 SNS가 있지만, 여기서는 트위터, 페이스북, 인스타그램만 인정합니다.
+
+* SNS 이름:
+* SNS ID:
 
 
 ## 완료된 챌린지 ##
@@ -16,6 +27,6 @@
 * [ ] 애저 정적 웹 앱 챌린지 완료
 * [ ] 깃헙 액션 챌린지 완료
 * [ ] 소셜미디어 인증샷 챌린지 완료
-* [ ] 애저 정적 웹 앱 리포지토리 제출 챌린지 완료
 * [ ] 애저 정적 웹 앱 URL 제출 챌린지 완료
+* [ ] 애저 정적 웹 앱 리포지토리 제출 챌린지 완료
 * [ ] 블로그 후기 URL 제출 챌린지 완료
