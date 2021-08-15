@@ -26,7 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@zuzokim](https://github.com/zuzokim) | *https://user-images.githubusercontent.com/54028005/129456913-8edfe225-b889-498f-bd42-387e0012fa80.png* |
+| [@zuzokim](https://github.com/zuzokim) | *링크를 남겨주세요* |
 
 
 
