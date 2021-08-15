@@ -16,10 +16,9 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
+| [@wisdeom](https://github.com/wisdeom) | ![image](https://user-images.githubusercontent.com/37167493/129477587-ac3bc627-39d6-4107-9135-ad2739bad34c.png) |
 | [@angie4u](https://github.com/angie4u) | https://user-images.githubusercontent.com/16282358/129478393-a0b9f58a-b156-4f9a-b7d0-b2ca7e511cf5.png |
-| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
-
+| [@minae27](https://github.com/minae27) | https://user-images.githubusercontent.com/25501159/129478132-e42aaec7-9010-4a57-8ad7-483d3f8eac39.png |
 
 
 ## 클라우드 스킬 챌린지 #2: 깃헙 액션 ##
