@@ -19,7 +19,7 @@ jobs:
       if: ${{ github.event.inputs.close == 'true' }}
       shell: pwsh
       run: |
-        $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json"; "Content-Type": "application/json; charset=UTF-8" }
+        $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json"; "Content-Type" = "application/json; charset=UTF-8" }
 
         $owner = "justinyoo"
         $repository = "HackaLearn"
