@@ -59,9 +59,9 @@ During the event, we are running a few hands-on-lab workshops for you. After the
 
 | Topic | Date/Time | Streaming | Slides | Codes |
 | :--: | :--: | :--: | :--: | :--: |
-| Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live gce] | [Download][slide gce] | [링크][code gce] |
-| Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live mlsa] | [Download][slide mlsa] | [링크][code mlsa] |
-| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] | | |
+| Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live gce] | [Download][slide gce] | [Link][code gce] |
+| Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live mlsa] | [Download][slide mlsa] | [Link][code mlsa] |
+| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] [Download][slide ca] | [Link][code ca] |
 
 
 ## 🛠 Developer Tools Before You Go ##
@@ -137,5 +137,7 @@ Thanks Microsoft for sponsoring this event to run smoothly.
 [live ca]: https://youtu.be/x3j3mDblqMY
 [slide mlsa]: https://aka.ms/hackalearn/aswa/hol
 [slide gce]: https://aka.ms/hackalearn/gha/hol
+[slide ca]: https://aka.ms/hackalearn/hol/slides
 [code mlsa]: https://aka.ms/hackalearn/aswa/code
 [code gce]: https://aka.ms/hackalearn/gha/code
+[code ca]: https://aka.ms/hackalearn/hol/code
