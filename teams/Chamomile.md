@@ -53,6 +53,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------------- | ---------------------------------- |
 | 애저 정적 웹 앱 | https://agreeable-ground-0cb02be00.azurestaticapps.net/about |
 | 깃헙 리포지토리 | https://github.com/TeamChamomile/chamomile |
+| 깃헙 리포지토리 | *깃헙 리포지토리 URL을 남겨주세요* |
 
 
 ## 블로그 후기 챌린지 ##
