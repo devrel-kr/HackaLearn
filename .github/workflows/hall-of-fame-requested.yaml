@@ -41,6 +41,7 @@ jobs:
         git config --local user.name "HackaLearn Korea"
         git add "./HALL_OF_FAME.md" --force
         git commit -m "HALL_OF_FAME.md updated"
+        git pull origin main
 
     - name: Push hall-of-fame page
       uses: ad-m/github-push-action@master
