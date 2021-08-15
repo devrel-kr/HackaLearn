@@ -64,4 +64,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://velog.io/@616a65/2021-HackaLearn-Korea-%ED%9B%84%EA%B8%B0  |
 | [@jane-k](https://github.com/jane-k) | https://velog.io/@jiin3909/HackaLearn-Skill-Challenge-w.-Azure-%ED%9B%84%EA%B8%B0 |
-| [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
+| [@thursdaydreaming](https://github.com/thursdaydreaming) |https://n-for-n.tistory.com/entry/Hackalearn-AzureGithub-challenge-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0|
