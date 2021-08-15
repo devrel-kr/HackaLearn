@@ -15,8 +15,8 @@
 
 | GitHub ID                                            | 스크린샷 링크                                                                                                      |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [@est22](https://github.com/est22)                   | _링크를 남겨주세요_                                                                                                |
-| [@yoonminsohappy](https://github.com/yoonminsohappy) | "https://github.com/yoonminsohappy/corona-map/blob/master/public/images/%EC%B1%8C%EB%A6%B0%EC%A7%801.png?raw=true" |
+| [@est22](https://github.com/est22)                   | "https://github.com/est22/CoronaMap/blob/master/Azure%20Static%20Web%20Apps%20-%20Learn%20%20Microsoft%20Docs.pdf" |
+| [@yoonminsohappy](https://github.com/yoonminsohappy) | _링크를 남겨주세요_ |
 
 ## 클라우드 스킬 챌린지 #2: 깃헙 액션
 
