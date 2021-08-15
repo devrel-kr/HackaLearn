@@ -4,7 +4,7 @@
 
 * [x] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 * [x] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [ ] SNS 인증샷 챌린지
+* [x] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
 * [ ] 블로그 후기 챌린지
@@ -17,7 +17,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@Belnut](https://github.com/Belnut) | https://user-images.githubusercontent.com/16497782/129186484-253642ab-0bd7-4d5f-8544-49f978e92583.png |
-| [@devchanki](https://github.com/devchanki) | |
+| [@devchanki](https://github.com/devchanki) | https://user-images.githubusercontent.com/31515116/129448485-0ce650f3-1aca-4f1d-952d-64f434c69617.png |
 
 
 
@@ -28,7 +28,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@Belnut](https://github.com/Belnut) | https://user-images.githubusercontent.com/16497782/129441115-e57482a9-841c-4e10-8336-bb0207d82ff9.png  |
-| [@devchanki](https://github.com/devchanki) | ![image](https://user-images.githubusercontent.com/31515116/129448530-c40882dc-24f9-4ee0-b23a-ac9041f148bf.png) |
+| [@devchanki](https://github.com/devchanki) | https://user-images.githubusercontent.com/31515116/129448530-c40882dc-24f9-4ee0-b23a-ac9041f148bf.png |
 
 
 
@@ -38,9 +38,8 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@Belnut](https://github.com/Belnut) | *링크를 남겨주세요* |
+| [@Belnut](https://github.com/Belnut) | https://twitter.com/mumuniya/status/1426905078032605185?s=20 |
 | [@devchanki](https://github.com/devchanki) | https://www.instagram.com/p/CSmNTddh5tt/?utm_medium=copy_link |
-
 
 
 ## 웹 애플리케이션 및 GitHub 저장소 챌린지 ##
@@ -60,4 +59,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
 | [@Belnut](https://github.com/Belnut) | *링크를 남겨주세요* |
-| [@devchanki](https://github.com/devchanki) | *링크를 남겨주세요* |
+| [@devchanki](https://github.com/devchanki) | https://velog.io/@devchanki/hackalearn-%EC%B0%B8%EC%97%AC|

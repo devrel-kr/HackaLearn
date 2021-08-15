@@ -1,10 +1,10 @@
-# 팀명: 미현 개발 #
+# 팀명: LD #
 
 ## 챌린지 ##
 
 * [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 * [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [x] SNS 인증샷 챌린지
+* [ ] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
 * [ ] 블로그 후기 챌린지
@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@xianeml](https://github.com/xianeml) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -26,7 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@xianeml](https://github.com/xianeml) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -36,7 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@xianeml](https://github.com/xianeml) | https://www.instagram.com/p/CSls3x7hLIb/?utm_medium=copy_link |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -56,4 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@xianeml](https://github.com/xianeml) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
