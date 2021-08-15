@@ -53,7 +53,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | 항목            | URL                                |
 | --------------- | ---------------------------------- |
-| 애저 정적 웹 앱 | https://salmon-pebble-02a8a2f10.azurestaticapps.net/views/home.html |
+| 애저 정적 웹 앱 | https://ashy-meadow-02416bf10.azurestaticapps.net/views/home.html |
 | 깃헙 리포지토리 | *링크를 남겨주세요* |
 
 
