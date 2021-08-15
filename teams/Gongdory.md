@@ -6,8 +6,8 @@
 * [X] 클라우드 스킬 챌린지 #2: 깃헙 액션
 * [X] SNS 인증샷 챌린지
 * [X] 웹 애플리케이션 챌린지
-* [X] GitHub 저장소 챌린지
-* [X] 블로그 후기 챌린지
+* [ ] GitHub 저장소 챌린지
+* [ ] 블로그 후기 챌린지
 
 
 ## 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱 ##
@@ -56,7 +56,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | 항목            | URL                                |
 | --------------- | ---------------------------------- |
 | 애저 정적 웹 앱 | https://salmon-pebble-02a8a2f10.azurestaticapps.net/views/home.html |
-| 깃헙 리포지토리 | https://github.com/DoItAmelia/online-event-guideline |
+| 깃헙 리포지토리 | *링크를 남겨주세요* |
 
 
 ## 블로그 후기 챌린지 ##
