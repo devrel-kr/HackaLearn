@@ -19,7 +19,7 @@ jobs:
       if: ${{ github.event.inputs.close == 'true' }}
       shell: pwsh
       run: |
-        $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json" }
+        $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json"; "Content-Type": "application/json; charset=UTF-8" }
 
         $owner = "justinyoo"
         $repository = "HackaLearn"
@@ -34,13 +34,13 @@ jobs:
           $body = @{ "labels" = $labelsToAdd }
 
           $url = "https://api.github.com/repos/$owner/$repository/issues/$($_.number)/labels"
-          Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+          $labelled = Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
 
           # Comment to PR
           $body = @{ "body" = "PR 최종 수정기한인 2021년 8월 16일 12시를 넘겨서 이 PR은 더이상 리뷰하지 않고 종료합니다." }
 
           $url = "https://api.github.com/repos/$owner/$repository/issues/$($_.number)/comments"
-          Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+          $commented = Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
 
           # Close PR
           $body = @{ "state" = "closed" }
