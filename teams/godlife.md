@@ -2,7 +2,7 @@
 
 ## 챌린지 ##
 
-* [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+* [X] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 * [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
 * [X] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@ahnjungeun](https://github.com/ahnjungeun) | *링크를 남겨주세요* |
+| [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129226500-43fb25b2-0973-4fe9-8e53-333322f57518.png |
 | [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
 | [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
 
@@ -28,7 +28,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@ahnjungeun](https://github.com/ahnjungeun) | *링크를 남겨주세요* |
+| [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129227424-5e412ae3-020b-46ed-ae5f-99313a86ae16.png |
 | [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
 | [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
 
@@ -62,6 +62,6 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@ahnjungeun](https://github.com/ahnjungeun) | *링크를 남겨주세요* |
+| [@ahnjungeun](https://github.com/ahnjungeun) | https://velog.io/@616a65/2021-HackaLearn-Korea-%ED%9B%84%EA%B8%B0  |
 | [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
 | [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |

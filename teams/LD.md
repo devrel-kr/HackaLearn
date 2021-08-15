@@ -1,4 +1,4 @@
-# 팀명: HJ #
+# 팀명: LD #
 
 ## 챌린지 ##
 
@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@YooHyeonJi](https://github.com/YooHyeonJi) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -26,7 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@YooHyeonJi](https://github.com/YooHyeonJi) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -36,7 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@YooHyeonJi](https://github.com/YooHyeonJi) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -56,4 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@YooHyeonJi](https://github.com/YooHyeonJi) | *링크를 남겨주세요* |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
