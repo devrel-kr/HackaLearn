@@ -16,7 +16,7 @@
 | [@seonghun-dev](https://github.com/seonghun-dev) | https://docs.microsoft.com/ko-kr/users/04310058/ |
 | [@judemin](https://github.com/judemin) | https://docs.microsoft.com/ko-kr/users/21213855/ |
 | [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
-| [@eanshu](https://github.com/eanshu) | *링크를 남겨주세요* |
+| [@eanshu](https://github.com/eanshu) |https://docs.microsoft.com/en-us/users/36582327/|
 
 
 ## 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱 ##
