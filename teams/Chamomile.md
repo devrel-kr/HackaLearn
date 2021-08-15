@@ -28,7 +28,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
+| [@wisdeom](https://github.com/wisdeom) | ![image](https://user-images.githubusercontent.com/37167493/129477622-dbbb027d-4a93-4400-ac5b-4ae16a74bcc5.png)|
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
 
