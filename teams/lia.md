@@ -24,7 +24,9 @@
 깃헙 액션 클라우드 스킬 챌린지 완료후 스크린샷을 찍어 저장한 후 이곳에 링크를 남겨 주세요.
 
 | GitHub ID | 스크린샷 링크 |
-| [@est22](https://github.com/est22) | ------------- |
+| --------- | ------------- |
+| [@est22](https://github.com/est22) | [Automate your workflow with GitHub Actions - Learn  Microsoft Docs.pdf](https://github.com/est22/HackaLearn/files/6987992/Automate.your.workflow.with.GitHub.Actions.-.Learn.Microsoft.Docs.pdf)
+ |
 {{csc}}
 
 
