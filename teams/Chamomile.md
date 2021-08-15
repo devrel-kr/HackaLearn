@@ -64,4 +64,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@wisdeom](https://github.com/wisdeom) | https://wisdeom.github.io/categories/learning/ |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
-| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
+| [@minae27](https://github.com/minae27) | https://www.instagram.com/p/CSk-lwdBXZI/?utm_medium=copy_link |
