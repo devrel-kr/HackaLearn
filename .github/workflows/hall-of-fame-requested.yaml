@@ -1,0 +1,50 @@
+name: On Hall-of-Fame Page Requested
+
+on:
+  workflow_dispatch:
+    inputs:
+      content:
+        description: The content of the file to be updated
+        required: true
+        default: "# HackaLearn 명예의 전당 Hall of Fame #\r\n\r\n여섯 가지의 챌린지 미션을 모두 완료한 팀들입니다. 가나다순으로 정렬되어 있습니다."
+
+
+jobs:
+  create_team_page:
+    name: 'Update the hall-of-fame page'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+
+    - name: Update hall-of-fame page
+      uses: DamianReeves/write-file-action@master
+      with:
+        path: "./HALL_OF_FAME.md"
+        contents: ${{ github.event.inputs.content }}
+        write-mode: overwrite
+
+    - name: Check hall-of-fame page
+      shell: pwsh
+      run: |
+        Get-Content -Path "./HALL_OF_FAME.md"
+
+    - name: Commit hall-of-fame page
+      shell: bash
+      run: |
+        git config --local user.email "hackalearn.korea@outlook.com"
+        git config --local user.name "HackaLearn Korea"
+        git add "./HALL_OF_FAME.md" --force
+        git commit -m "HALL_OF_FAME.md updated"
+        git pull origin main
+
+    - name: Push hall-of-fame page
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
