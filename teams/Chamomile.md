@@ -16,8 +16,9 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
+| [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
+| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
 
 
 
@@ -27,8 +28,9 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
+| [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
+| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
 
 
 
@@ -38,8 +40,9 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
+| [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
+| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
 
 
 
@@ -59,5 +62,6 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
+| [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
+| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
