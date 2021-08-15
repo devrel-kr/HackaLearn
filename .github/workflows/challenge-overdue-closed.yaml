@@ -37,7 +37,7 @@ jobs:
           $labelled = Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
 
           # Comment to PR
-          $body = @{ "body" = "This PR is closed because it has passed 2021-08-16T12:00:00+09:00 for final update." }
+          $body = @{ "body" = "This PR is closed because it has passed 2021-08-16T12:00:00+09:00 for final update due." }
 
           $url = "https://api.github.com/repos/$owner/$repository/issues/$($_.number)/comments"
           $commented = Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
@@ -46,5 +46,7 @@ jobs:
           $body = @{ "state" = "closed" }
 
           $url = "https://api.github.com/repos/$owner/$repository/pulls/$($_.number)"
-          Invoke-RestMethod -Method Patch -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+          $closed = Invoke-RestMethod -Method Patch -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+
+          echo "$($closed.number) has now been $($closed.state)."
         }
