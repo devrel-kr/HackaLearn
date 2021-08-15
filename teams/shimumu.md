@@ -2,12 +2,12 @@
 
 ## 챌린지 ##
 
-* [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-* [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [ ] SNS 인증샷 챌린지
+* [x] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+* [x] 클라우드 스킬 챌린지 #2: 깃헙 액션
+* [x] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
-* [ ] 블로그 후기 챌린지
+* [x] 블로그 후기 챌린지
 
 
 ## 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱 ##
@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@yelim421](https://github.com/yelim421) | *링크를 남겨주세요* |
+| [@yelim421](https://github.com/yelim421) | https://raw.githubusercontent.com/yelim421/HackaLearn_auth/main/21%20%ED%95%98%EB%82%98%20%EB%81%9D.PNG |
 
 
 
@@ -26,7 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@yelim421](https://github.com/yelim421) | *링크를 남겨주세요* |
+| [@yelim421](https://github.com/yelim421) | https://raw.githubusercontent.com/yelim421/HackaLearn_auth/main/24%20%EB%91%90%EB%B2%88%EC%A7%B8%EA%BA%BC%20%EB%81%9D!.PNG|
 
 
 
@@ -36,7 +36,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@yelim421](https://github.com/yelim421) | *링크를 남겨주세요* |
+| [@yelim421](https://github.com/yelim421) | https://www.instagram.com/p/CSUDizIBUHr/?utm_medium=copy_link|
 
 
 
@@ -56,4 +56,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@yelim421](https://github.com/yelim421) | *링크를 남겨주세요* |
+| [@yelim421](https://github.com/yelim421) | https://blog.naver.com/sedagrq821/222470813632 |
