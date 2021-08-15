@@ -18,7 +18,7 @@
 | --------- | ------------- |
 | [@vilut1002](https://github.com/vilut1002) | https://github.com/solidcellaMoon/MGMbot-HackaLearnXKorea2021/blob/master/Challenge/soominChallenge1.PNG |
 | [@solidcellaMoon](https://github.com/solidcellaMoon) | https://github.com/solidcellaMoon/MGMbot-HackaLearnXKorea2021/blob/master/Challenge/jh-ch1.png |
-| [@minie12](https://github.com/minie12) | *링크를 남겨주세요* |
+| [@minie12](https://github.com/minie12) | https://github.com/solidcellaMoon/MGMbot-HackaLearnXKorea2021/blob/master/Challenge/Eunjung_challenge1.PNG |
 
 
 
@@ -30,7 +30,7 @@
 | --------- | ------------- |
 | [@vilut1002](https://github.com/vilut1002) | *링크를 남겨주세요* |
 | [@solidcellaMoon](https://github.com/solidcellaMoon) | https://github.com/solidcellaMoon/MGMbot-HackaLearnXKorea2021/blob/master/Challenge/jh-ch2.png |
-| [@minie12](https://github.com/minie12) | *링크를 남겨주세요* |
+| [@minie12](https://github.com/minie12) | https://github.com/solidcellaMoon/MGMbot-HackaLearnXKorea2021/blob/master/Challenge/Eunjung_challenge2.PNG |
 
 
 
@@ -42,7 +42,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@vilut1002](https://github.com/vilut1002) | *링크를 남겨주세요* |
 | [@solidcellaMoon](https://github.com/solidcellaMoon) | https://twitter.com/ccsolidcc/status/1426548346244632580?s=20 |
-| [@minie12](https://github.com/minie12) | *링크를 남겨주세요* |
+| [@minie12](https://github.com/minie12) | https://www.instagram.com/p/CSjd8yhFTyn/?utm_medium=copy_link |
 
 
 

@@ -1,18 +1,14 @@
-# 팀명: 하하호호 #
-
-Microsoft Learn 프로필 URL: https://docs.microsoft.com/ko-kr/users/46894183/
-GitHub ID: @bumjin
-SNS 이름: twitter
-SNS ID: https://twitter.com/twit_hahahoho
+# 팀명: LD #
 
 ## 챌린지 ##
 
-* [x] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-* [x] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [x] SNS 인증샷 챌린지
-* [x] 웹 애플리케이션 챌린지
+* [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+* [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
+* [ ] SNS 인증샷 챌린지
+* [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
 * [ ] 블로그 후기 챌린지
+
 
 ## 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱 ##
 
@@ -20,7 +16,7 @@ SNS ID: https://twitter.com/twit_hahahoho
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@bumjin](https://github.com/bumjin) | https://user-images.githubusercontent.com/859787/129447545-78b06a40-b974-4307-9141-c5d1c83dac77.png |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
 
 
 
@@ -30,7 +26,8 @@ SNS ID: https://twitter.com/twit_hahahoho
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@bumjin](https://github.com/bumjin) | https://user-images.githubusercontent.com/859787/129448685-91d93c78-1c90-4d79-917c-e196c9ef4e10.png |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
+
 
 
 ## SNS 인증샷 챌린지 ##
@@ -39,7 +36,9 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@bumjin](https://github.com/bumjin) | https://twitter.com/twit_hahahoho/status/1426548184608776194 |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
+
+
 
 ## 웹 애플리케이션 및 GitHub 저장소 챌린지 ##
 
@@ -47,5 +46,14 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | 항목            | URL                                |
 | --------------- | ---------------------------------- |
-| 애저 정적 웹 앱 | https://nice-pond-02049ab10.azurestaticapps.net |
+| 애저 정적 웹 앱 | *애저 정적 웹 앱 URL을 남겨주세요* |
 | 깃헙 리포지토리 | *깃헙 리포지토리 URL을 남겨주세요* |
+
+
+## 블로그 후기 챌린지 ##
+
+블로그 후기를 작성하고 이곳에 링크를 남겨 주세요.
+
+| GitHub ID | 포스트 링크 |
+| --------- | ------------- |
+| [@gm20713](https://github.com/gm20713) | *링크를 남겨주세요* |
