@@ -1,0 +1,56 @@
+name: On Challenge Overdue Closed
+
+on:
+  workflow_dispatch:
+    inputs:
+      owner:
+        description: The repository owner
+        required: true
+        default: 'devrel-kr'
+      close:
+        description: The value indicating whether to close the remaining PRs or not
+        required: true
+        default: 'false'
+
+jobs:
+  close_prs:
+    name: 'Close all remaining PRs'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Close remaining PRs
+      if: ${{ github.event.inputs.close == 'true' }}
+      shell: pwsh
+      run: |
+        $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json"; "Content-Type" = "application/json; charset=UTF-8" }
+
+        $owner = "${{ github.event.inputs.owner }}"
+        $repository = "HackaLearn"
+
+        $url = "https://api.github.com/repos/$owner/$repository/pulls?state=open&per_page=100"
+        $prs = Invoke-RestMethod -Method Get -Uri $url -Headers $headers
+
+        $labelsToAdd = "OVERDUE-UPDATE" -split ","
+
+        $prs | ForEach-Object {
+          # Add label OVERDUE-UPDATE
+          $body = @{ "labels" = $labelsToAdd }
+
+          $url = "https://api.github.com/repos/$owner/$repository/issues/$($_.number)/labels"
+          $labelled = Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+
+          # Comment to PR
+          $body = @{ "body" = "This PR is closed because it has passed 2021-08-16T12:00:00+09:00 for final update due." }
+
+          $url = "https://api.github.com/repos/$owner/$repository/issues/$($_.number)/comments"
+          $commented = Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+
+          # Close PR
+          $body = @{ "state" = "closed" }
+
+          $url = "https://api.github.com/repos/$owner/$repository/pulls/$($_.number)"
+          $closed = Invoke-RestMethod -Method Patch -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+
+          echo "$($closed.number) has now been $($closed.state)."
+        }
