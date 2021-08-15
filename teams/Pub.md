@@ -74,6 +74,6 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
 | [@seonghun-dev](https://github.com/seonghun-dev) | https://velog.io/@seonghun-dev/HackaLearn-참여-후기 |
-| [@judemin](https://github.com/judemin) | *링크를 남겨주세요* |
+| [@judemin](https://github.com/judemin) | https://nickel-quarter-02b.notion.site/147324a047b148118ba0c5f0fa1baaac |
 | [@nakyoungan](https://github.com/nakyoungan) | *링크를 남겨주세요* |
 | [@eanshu](https://github.com/eanshu) | *링크를 남겨주세요* |
