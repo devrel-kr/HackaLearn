@@ -18,8 +18,7 @@
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129226500-43fb25b2-0973-4fe9-8e53-333322f57518.png |
 | [@jane-k](https://github.com/jane-k) | https://user-images.githubusercontent.com/64597426/129470995-1826473f-1170-4abf-90aa-caff442946a4.png |
-| [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
-
+| [@thursdaydreaming]()
 
 
 ## 클라우드 스킬 챌린지 #2: 깃헙 액션 ##
