@@ -3,7 +3,7 @@
 ## 챌린지 ##
 
 * [x] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-* [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
+* [x] 클라우드 스킬 챌린지 #2: 깃헙 액션
 * [x] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [x] GitHub 저장소 챌린지
@@ -26,7 +26,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@zuzokim](https://github.com/zuzokim) | *링크를 남겨주세요* |
+| [@zuzokim](https://github.com/zuzokim) | *https://user-images.githubusercontent.com/54028005/129456913-8edfe225-b889-498f-bd42-387e0012fa80.png* |
 
 
 
