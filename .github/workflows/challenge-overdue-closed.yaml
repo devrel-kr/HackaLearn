@@ -21,7 +21,7 @@ jobs:
       run: |
         $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json" }
 
-        $owner = "devrel-kr"
+        $owner = "justinyoo"
         $repository = "HackaLearn"
 
         $url = "https://api.github.com/repos/$owner/$repository/pulls?state=open&per_page=100"
@@ -33,18 +33,18 @@ jobs:
           # Add label OVERDUE-UPDATE
           $body = @{ "labels" = $labelsToAdd }
 
-          $url = "https://api.github.com/repos/$owner/$repository/issues/$_.number/labels"
+          $url = "https://api.github.com/repos/$owner/$repository/issues/$($_.number)/labels"
           Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
 
           # Comment to PR
           $body = @{ "body" = "PR 최종 수정기한인 2021년 8월 16일 12시를 넘겨서 이 PR은 더이상 리뷰하지 않고 종료합니다." }
 
-          $url = "https://api.github.com/repos/$owner/$repository/issues/$_.number/comments"
+          $url = "https://api.github.com/repos/$owner/$repository/issues/$($_.number)/comments"
           Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
 
           # Close PR
           $body = @{ "state" = "closed" }
 
-          $url = "https://api.github.com/repos/$owner/$repository/pulls/$_.number"
+          $url = "https://api.github.com/repos/$owner/$repository/pulls/$($_.number)"
           Invoke-RestMethod -Method Patch -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
         }
