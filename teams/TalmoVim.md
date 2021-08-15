@@ -39,8 +39,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
 | [@Belnut](https://github.com/Belnut) | https://twitter.com/mumuniya/status/1426905078032605185?s=20 |
-| [@devchanki](https://github.com/devchanki) | *링크를 남겨주세요* |
-
+| [@devchanki](https://github.com/devchanki) | https://www.instagram.com/p/CSmNTddh5tt/?utm_medium=copy_link |
 
 
 ## 웹 애플리케이션 및 GitHub 저장소 챌린지 ##
