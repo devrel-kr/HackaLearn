@@ -3,6 +3,10 @@ name: On Challenge Overdue Closed
 on:
   workflow_dispatch:
     inputs:
+      owner:
+        description: The repository owner
+        required: true
+        default: 'devrel-kr'
       close:
         description: The value indicating whether to close the remaining PRs or not
         required: true
@@ -21,7 +25,7 @@ jobs:
       run: |
         $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json"; "Content-Type" = "application/json; charset=UTF-8" }
 
-        $owner = "justinyoo"
+        $owner = "${{ github.event.inputs.owner }}"
         $repository = "HackaLearn"
 
         $url = "https://api.github.com/repos/$owner/$repository/pulls?state=open&per_page=100"
