@@ -2,8 +2,8 @@
 
 ## 챌린지
 
-- [x] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-- [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
+- [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+- [x] 클라우드 스킬 챌린지 #2: 깃헙 액션
 - [ ] SNS 인증샷 챌린지
 - [ ] 웹 애플리케이션 챌린지
 - [ ] GitHub 저장소 챌린지
@@ -13,19 +13,19 @@
 
 애저 정적 웹 앱 클라우드 스킬 챌린지 완료후 스크린샷을 찍어 저장한 후 이곳에 링크를 남겨 주세요.
 
-| GitHub ID                                            | 스크린샷 링크                                                                                                      |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [@est22](https://github.com/est22)                   | _링크를 남겨주세요_                                                                                                |
-| [@yoonminsohappy](https://github.com/yoonminsohappy) | "https://github.com/yoonminsohappy/corona-map/blob/master/public/images/%EC%B1%8C%EB%A6%B0%EC%A7%801.png?raw=true" |
+| GitHub ID                                            | 스크린샷 링크       |
+| ---------------------------------------------------- | ------------------- |
+| [@est22](https://github.com/est22)                   | _링크를 남겨주세요_ |
+| [@yoonminsohappy](https://github.com/yoonminsohappy) | _링크를 남겨주세요_ |
 
 ## 클라우드 스킬 챌린지 #2: 깃헙 액션
 
 깃헙 액션 클라우드 스킬 챌린지 완료후 스크린샷을 찍어 저장한 후 이곳에 링크를 남겨 주세요.
 
-| GitHub ID                                            | 스크린샷 링크       |
-| ---------------------------------------------------- | ------------------- |
-| [@est22](https://github.com/est22)                   | _링크를 남겨주세요_ |
-| [@yoonminsohappy](https://github.com/yoonminsohappy) | _링크를 남겨주세요_ |
+| GitHub ID                                            | 스크린샷 링크                                                                                             |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [@est22](https://github.com/est22)                   | _링크를 남겨주세요_                                                                                       |
+| [@yoonminsohappy](https://github.com/yoonminsohappy) | "https://github.com/yoonminsohappy/corona-map/blob/master/public/images/%EC%B1%8C%EB%A6%B0%EC%A7%802.png" |
 
 ## SNS 인증샷 챌린지
 
