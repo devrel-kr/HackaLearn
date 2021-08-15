@@ -2,12 +2,12 @@
 
 ## 챌린지 ##
 
-* [ ] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-* [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [ ] SNS 인증샷 챌린지
-* [ ] 웹 애플리케이션 챌린지
+* [x] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
+* [x] 클라우드 스킬 챌린지 #2: 깃헙 액션
+* [x] SNS 인증샷 챌린지
+* [x] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
-* [ ] 블로그 후기 챌린지
+* [x] 블로그 후기 챌린지
 
 
 ## 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱 ##
@@ -40,7 +40,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@vilut1002](https://github.com/vilut1002) | *링크를 남겨주세요* |
+| [@vilut1002](https://github.com/vilut1002) | https://www.instagram.com/p/CSjbnJdBvC6/?utm_source=ig_web_copy_link|
 | [@solidcellaMoon](https://github.com/solidcellaMoon) | https://twitter.com/ccsolidcc/status/1426548346244632580?s=20 |
 | [@minie12](https://github.com/minie12) | https://www.instagram.com/p/CSjd8yhFTyn/?utm_medium=copy_link |
 
@@ -52,7 +52,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | 항목            | URL                                |
 | --------------- | ---------------------------------- |
-| 애저 정적 웹 앱 | *애저 정적 웹 앱 URL을 남겨주세요* |
+| 애저 정적 웹 앱 | https://brave-tree-0cbae0d10.azurestaticapps.net/ |
 | 깃헙 리포지토리 | *깃헙 리포지토리 URL을 남겨주세요* |
 
 
@@ -64,4 +64,4 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------- | ------------- |
 | [@vilut1002](https://github.com/vilut1002) | https://kimbuzzi.tistory.com/4 |
 | [@solidcellaMoon](https://github.com/solidcellaMoon) | https://star-crab.tistory.com/34 |
-| [@minie12](https://github.com/minie12) | *링크를 남겨주세요* |
+| [@minie12](https://github.com/minie12) | https://minie12.tistory.com/2 |

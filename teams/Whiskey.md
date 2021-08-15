@@ -4,10 +4,10 @@
 
 * [X] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
 * [X] 클라우드 스킬 챌린지 #2: 깃헙 액션
-* [ ] SNS 인증샷 챌린지
+* [X] SNS 인증샷 챌린지
 * [X] 웹 애플리케이션 챌린지
 * [X] GitHub 저장소 챌린지
-* [ ] 블로그 후기 챌린지
+* [X] 블로그 후기 챌린지
 
 
 ## 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱 ##
@@ -46,8 +46,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | [@rockacid20](https://github.com/rockacid20) | [링크](https://twitter.com/rockacid20/status/1426554569719308289) |
 | [@Lee-WonJun](https://github.com/Lee-WonJun) | [링크](https://twitter.com/SeeRoEee/status/1426554773558284289) |
 | [@JunYoung7](https://github.com/JunYoung7) | [링크](https://www.instagram.com/p/CSlhkpsJGYT/) |
-| [@dream365](https://github.com/dream365) | *링크를 남겨주세요* |
-
+| [@dream365](https://github.com/dream365) | [링크](https://twitter.com/qkmEZV4Et64Vmvx/status/1426749212754989057) |
 
 
 ## 웹 애플리케이션 및 GitHub 저장소 챌린지 ##
@@ -56,8 +55,9 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | 항목            | URL                                |
 | --------------- | ---------------------------------- |
-| 애저 정적 웹 앱 | *애저 정적 웹 앱 URL을 남겨주세요* |
+| 애저 정적 웹 앱 | [링크](https://victorious-bush-02c109610.azurestaticapps.net/) |
 | 깃헙 리포지토리 | [링크](https://github.com/Mini-Tech-Meetup/hackrun) |
+
 
 
 ## 블로그 후기 챌린지 ##
@@ -66,7 +66,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@rockacid20](https://github.com/rockacid20) | *링크를 남겨주세요* |
+| [@rockacid20](https://github.com/rockacid20) | [링크](https://rockacid.tistory.com/2) |
 | [@Lee-WonJun](https://github.com/Lee-WonJun) | [링크](https://see-ro-e.tistory.com/322) |
 | [@JunYoung7](https://github.com/JunYoung7) | [링크](https://velog.io/@junyoung7/Azure-HackLearn-%ED%9B%84%EA%B8%B0) |
-| [@dream365](https://github.com/dream365) | *링크를 남겨주세요* |
+| [@dream365](https://github.com/dream365) | [링크](https://twitter.com/qkmEZV4Et64Vmvx/status/1426841264415154182) |
