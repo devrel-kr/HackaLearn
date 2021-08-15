@@ -16,8 +16,6 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-
-
 | [@Yuna9949](https://github.com/Yuna9949) | https://user-images.githubusercontent.com/82620252/128651845-1818549f-1458-4516-904e-7102aeaaf2f9.png |
 | [@DoltAmelia](https://github.com/DoltAmelia) | https://user-images.githubusercontent.com/88205708/128653436-e4e8c7d2-11a5-4ee6-9fc0-55583ae9bb8a.png |
 | [@fazerlover](https://github.com/fazerlover) | https://user-images.githubusercontent.com/88120977/129052366-ce3e5367-5e2f-4cc8-9388-348ec5661fbf.jpg |
@@ -55,7 +53,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | 항목            | URL                                |
 | --------------- | ---------------------------------- |
-| 애저 정적 웹 앱 | https://salmon-pebble-02a8a2f10.azurestaticapps.net/views/home.html |
+| 애저 정적 웹 앱 | https://ashy-meadow-02416bf10.azurestaticapps.net/views/home.html |
 | 깃헙 리포지토리 | *링크를 남겨주세요* |
 
 
@@ -65,6 +63,6 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@Yuna9949](https://github.com/Yuna9949) | *링크를 남겨주세요* |
+| [@Yuna9949](https://github.com/Yuna9949) | https://blog.naver.com/una0409/222470987120 |
 | [@DoltAmelia](https://github.com/DoltAmelia) | *링크를 남겨주세요* |
 | [@fazerlover](https://github.com/fazerlover) | https://blog.naver.com/finlandjoensuu/222471159400 |
