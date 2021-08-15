@@ -31,10 +31,10 @@
 
 SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackalearn #hackalearnkorea 해시태그와 함꼐 올린 후 이곳에 링크를 남겨 주세요.
 
-| GitHub ID                                            | 포스트 링크                                                       |
-| ---------------------------------------------------- | ----------------------------------------------------------------- |
-| [@est22](https://github.com/est22)                   | "https://twitter.com/est22131/status/1426351607067807746/photo/1" |
-| [@yoonminsohappy](https://github.com/yoonminsohappy) | _링크를 남겨주세요_                                               |
+| GitHub ID                                            | 포스트 링크                                                           |
+| ---------------------------------------------------- | --------------------------------------------------------------------- |
+| [@est22](https://github.com/est22)                   | "https://twitter.com/est22131/status/1426351607067807746/photo/1"     |
+| [@yoonminsohappy](https://github.com/yoonminsohappy) | "https://www.facebook.com/100062005290195/posts/219766840100158/?d=n" |
 
 ## 웹 애플리케이션 및 GitHub 저장소 챌린지
 
