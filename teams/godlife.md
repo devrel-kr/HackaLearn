@@ -18,7 +18,7 @@
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129226500-43fb25b2-0973-4fe9-8e53-333322f57518.png |
 | [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
-| [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
+| [@thursdaydreaming](https://github.com/thursdaydreaming) | https://user-images.githubusercontent.com/42180969/129472954-6bbe6d58-b712-4af9-a5e7-0a5c5c932f29.png |
 
 
 
@@ -30,7 +30,7 @@
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129227424-5e412ae3-020b-46ed-ae5f-99313a86ae16.png |
 | [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
-| [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
+| [@thursdaydreaming](https://github.com/thursdaydreaming) |https://user-images.githubusercontent.com/42180969/129472936-962d8fcf-fc18-424d-ae4d-29f4d87dd1ad.png |
 
 
 
