@@ -22,10 +22,10 @@
 
 깃헙 액션 클라우드 스킬 챌린지 완료후 스크린샷을 찍어 저장한 후 이곳에 링크를 남겨 주세요.
 
-| GitHub ID                                            | 스크린샷 링크       |
-| ---------------------------------------------------- | ------------------- |
-| [@est22](https://github.com/est22)                   | _링크를 남겨주세요_ |
-| [@yoonminsohappy](https://github.com/yoonminsohappy) | _링크를 남겨주세요_ |
+| GitHub ID                                            | 스크린샷 링크                                                                                             |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [@est22](https://github.com/est22)                   | _링크를 남겨주세요_                                                                                       |
+| [@yoonminsohappy](https://github.com/yoonminsohappy) | "https://github.com/yoonminsohappy/corona-map/blob/master/public/images/%EC%B1%8C%EB%A6%B0%EC%A7%802.png" |
 
 ## SNS 인증샷 챌린지
 
