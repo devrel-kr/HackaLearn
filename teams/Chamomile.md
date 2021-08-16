@@ -3,7 +3,7 @@
 ## 챌린지 ##
 
 * [x] 클라우드 스킬 챌린지 #1: 애저 정적 웹 앱
-* [ ] 클라우드 스킬 챌린지 #2: 깃헙 액션
+* [X] 클라우드 스킬 챌린지 #2: 깃헙 액션
 * [ ] SNS 인증샷 챌린지
 * [ ] 웹 애플리케이션 챌린지
 * [ ] GitHub 저장소 챌린지
@@ -28,7 +28,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@wisdeom](https://github.com/wisdeom) | ![image](https://user-images.githubusercontent.com/37167493/129477622-dbbb027d-4a93-4400-ac5b-4ae16a74bcc5.png)|
-| [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
+| [@angie4u](https://github.com/angie4u) | https://user-images.githubusercontent.com/16282358/129478419-b96f58ae-6354-455c-96a2-828fe8ebc122.png |
 | [@minae27](https://github.com/minae27) | https://user-images.githubusercontent.com/25501159/129478138-e987a9ab-b6ca-4509-a228-3dd087763cc4.png |
 
 
