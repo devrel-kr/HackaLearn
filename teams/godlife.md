@@ -19,7 +19,7 @@
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129226500-43fb25b2-0973-4fe9-8e53-333322f57518.png |
 | [@jane-k](https://github.com/jane-k) | https://user-images.githubusercontent.com/64597426/129470995-1826473f-1170-4abf-90aa-caff442946a4.png |
-| [@thursdaydreaming]()
+| [@thursdaydreaming](https://github.com/thursdaydreaming) |https://user-images.githubusercontent.com/42180969/129502130-de667eb2-6c60-4af7-9a5b-cca8e3c25725.png |
 
 
 ## 클라우드 스킬 챌린지 #2: 깃헙 액션 ##
@@ -30,7 +30,7 @@
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129227424-5e412ae3-020b-46ed-ae5f-99313a86ae16.png |
 | [@jane-k](https://github.com/jane-k) | https://user-images.githubusercontent.com/64597426/129476447-e2cfb8b9-e786-4483-8732-0df0cae828a0.png |
-| [@thursdaydreaming](https://github.com/thursdaydreaming) |https://user-images.githubusercontent.com/42180969/129501563-61541036-916f-42ae-a1fc-d806d6a8505d.png |
+| [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
 
 
 
