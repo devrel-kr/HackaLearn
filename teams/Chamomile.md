@@ -27,9 +27,9 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
 | [@angie4u](https://github.com/angie4u) | https://user-images.githubusercontent.com/16282358/129478419-b96f58ae-6354-455c-96a2-828fe8ebc122.png |
-| [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
+| [@wisdeom](https://github.com/wisdeom) | ![image](https://user-images.githubusercontent.com/37167493/129477622-dbbb027d-4a93-4400-ac5b-4ae16a74bcc5.png)|
+| [@minae27](https://github.com/minae27) | https://user-images.githubusercontent.com/25501159/129478138-e987a9ab-b6ca-4509-a228-3dd087763cc4.png |
 
 
 
