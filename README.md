@@ -6,13 +6,17 @@
     <img src="assets/banner-768x216@2-ko.png" alt="HackaLearn 배너" width="100%"/>
 </div>
 
+***2021년 HackaLearn 이벤트는 종료되었습니다.***
+
 HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 지식을 직접 배워서 해커톤에 적용하는 이벤트입니다. 이번 HackaLearn 이벤트의 주제는 바로 [애저 정적 웹 앱(Azure Static Web Apps)][aswa]과 [깃헙 액션(GitHub Actions)][gha]입니다. 2주간 공부하고 직접 웹 애플리케이션을 만들어 보는 HackaLearn 이벤트! 멋진 애플리케이션을 만들어 보세요! 푸짐한 상품이 기다립니다.
 
 <div>
   <br>
-  <a href="http://aka.ms/hackalearn/register" title="등록 신청 링크"><img src="./assets/registration-ko@2.png" width="227" height="56" alt="등록 신청 버튼"/></a>
+  <!-- <a href="http://aka.ms/hackalearn/register" title="등록 신청 링크"><img src="./assets/registration-ko@2.png" width="227" height="56" alt="등록 신청 버튼"/></a> -->
+  <img src="./assets/registration-ko@2.png" width="227" height="56" alt="등록 신청 버튼"/>
   <br>
 </div>
+
 
 ## ⏰ 일정 ##
 
@@ -51,6 +55,17 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 ## 👑 명예의 전당 Hall of Fame ##
 
 **여섯 가지 챌린지 미션**을 모두 완료한 팀은 명예의 전당에 기록이 됩니다. 👉 [명예의 전당 바로가기][hof]
+
+
+## 🏆 개별 챌린지 완수 ##
+
+여섯 가지 챌린지 미션을 모두 완수하지는 못했지만, 개별 챌린지를 완수하신 분들 역시 기록이 됩니다.
+
+* **클라우드 스킬 챌린지 &ndash; 애저 정적 웹 앱 & 깃헙 액션 &ndash; 완수** 👉 [바로 가기](./CLOUD_SKILL_CHALLENGE.md)
+* **SNS 챌린지 완수** 👉 [바로 가기](./SNS_POSTS.md)
+* **애저 정적 웹 앱 URL 챌린지 완수** 👉 [바로 가기](./ASWA_APPS.md)
+* **깃헙 리포지토리 챌린지 완수** 👉 [바로 가기](./ASWA_REPOS.md)
+* **블로그 포스트 챌린지 완수** 👉 [바로 가기](./BLOG_POSTS.md)
 
 
 ## 💻 핸즈온 랩 세션 ##

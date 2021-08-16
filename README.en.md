@@ -6,11 +6,14 @@
     <img src="assets/banner-768x216@2-en.png" alt="HackaLearn Banner" width="100%"/>
 </div>
 
+***2021년 HackaLearn IS OVER.***
+
 HackaLearn is the term combining both Hackathon and Learn, which is the event that you learn something and apply it during the hackathon period within the given short period of time. This HackaLearn's theme is [Azure Static Web Apps][aswa] and [GitHub Actions][gha]. For two weeks, you learn both and build a web application by yourself or with your team, through this HackaLearn event! We are looking forward to seeing the AWESOME product from you! Cool prizes are waiting for your challenge!
 
 <div>
   <br>
-  <a href="http://aka.ms/hackalearn/register" title="Registration Link"><img src="./assets/registration-en@2.png" width="227" height="56" alt="Registration Button"/></a>
+  <!-- <a href="http://aka.ms/hackalearn/register" title="Registration Link"><img src="./assets/registration-en@2.png" width="227" height="56" alt="Registration Button"/></a> -->
+  <img src="./assets/registration-en@2.png" width="227" height="56" alt="Registration Button"/>
   <br>
 </div>
 
@@ -50,7 +53,18 @@ You MUST complete **all the SIX challenge missions** below. For more details wil
 
 ## 👑 Hall of Fame ##
 
-Teams who complete **all the FIVE challenge missions** are in the Hall of Fame. 👉 [Visit Hall of Fame][hof]
+Teams who complete **all the SIX challenge missions** are in the Hall of Fame. 👉 [Visit Hall of Fame][hof]
+
+
+## 🏆 Individual Challenges Completion ##
+
+Although not all SIX challenge missions have completed, teams and members who completed each challenge are also listed on the page.
+
+* **Completion of Cloud Skills Challenge &ndash; Azure Static Web Apps & GitHub Actions** 👉 [View](./CLOUD_SKILL_CHALLENGE.md)
+* **Completion of Social Media Challenge** 👉 [View](./SNS_POSTS.md)
+* **Completion of Azure Static Web Apps URL Challenge** 👉 [View](./ASWA_APPS.md)
+* **Completion of GitHub Repository Challenge** 👉 [View](./ASWA_REPOS.md)
+* **Completion of Blog Post Challenge** 👉 [View](./BLOG_POSTS.md)
 
 
 ## 💻 Hands-on-Lab Workshops ##
