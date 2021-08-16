@@ -30,7 +30,7 @@
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129227424-5e412ae3-020b-46ed-ae5f-99313a86ae16.png |
 | [@jane-k](https://github.com/jane-k) | *링크를 남겨주세요* |
-| [@thursdaydreaming](https://github.com/thursdaydreaming) |https://user-images.githubusercontent.com/42180969/129472936-962d8fcf-fc18-424d-ae4d-29f4d87dd1ad.png |
+| [@thursdaydreaming](https://github.com/thursdaydreaming) | |
 
 
 
