@@ -4,53 +4,53 @@
 
 | 팀 이름 | 팀 페이지 | 참가자 깃헙 ID |
 | ------- | --------- | -------------- |
-| Chamomile | [팀 페이지](./teams/Chamomile.md) | @wisdeom |
-| Chamomile | [팀 페이지](./teams/Chamomile.md) | @angie4u |
-| ExcelGirls | [팀 페이지](./teams/ExcelGirls.md) | @yoonminsohappy |
-| Glossyyoon World | [팀 페이지](./teams/Glossyyoon%20World.md) | @glossyyoon |
-| godlife | [팀 페이지](./teams/godlife.md) | @jane-k |
-| godlife | [팀 페이지](./teams/godlife.md) | @thursdaydreaming |
-| godlife | [팀 페이지](./teams/godlife.md) | @ahnjungeun |
-| Gongdory | [팀 페이지](./teams/Gongdory.md) | @DoItAmelia |
-| Gongdory | [팀 페이지](./teams/Gongdory.md) | @fazerlover |
-| Gongdory | [팀 페이지](./teams/Gongdory.md) | @Yuna9949 |
-| KING | [팀 페이지](./teams/KING.md) | @solidcellaMoon |
-| KING | [팀 페이지](./teams/KING.md) | @vilut1002 |
-| KING | [팀 페이지](./teams/KING.md) | @minie12 |
-| MS Player | [팀 페이지](./teams/MS%20Player.md) | @kimka2013 |
-| MS Player | [팀 페이지](./teams/MS%20Player.md) | @ajb3296 |
-| MS Player | [팀 페이지](./teams/MS%20Player.md) | @easycastle |
-| MS Player | [팀 페이지](./teams/MS%20Player.md) | @swipe0801 |
-| shimumu | [팀 페이지](./teams/shimumu.md) | @yelim421 |
-| TalmoVim | [팀 페이지](./teams/TalmoVim.md) | @devchanki |
-| TalmoVim | [팀 페이지](./teams/TalmoVim.md) | @Belnut |
-| Whiskey | [팀 페이지](./teams/Whiskey.md) | @JunYoung7 |
-| Whiskey | [팀 페이지](./teams/Whiskey.md) | @dream365 |
-| Whiskey | [팀 페이지](./teams/Whiskey.md) | @Lee-WonJun |
-| Whiskey | [팀 페이지](./teams/Whiskey.md) | @rockacid20 |
-| zuzokim | [팀 페이지](./teams/zuzokim.md) | @zuzokim |
-| 백엔드화이팅 | [팀 페이지](./teams/백엔드화이팅.md) | @minhoryang |
-| 생생한국통 | [팀 페이지](./teams/생생한국통.md) | @hb-kwon |
-| 생생한국통 | [팀 페이지](./teams/생생한국통.md) | @JongeunKeum |
-| 생생한국통 | [팀 페이지](./teams/생생한국통.md) | @JaeSeoKim |
-| 생생한국통 | [팀 페이지](./teams/생생한국통.md) | @hyungraelee |
-| 슬기로운취준생활 | [팀 페이지](./teams/슬기로운취준생활.md) | @PARKINHYO |
-| 월급두배받는법 | [팀 페이지](./teams/월급두배받는법.md) | @ksiyeon27 |
-| 월급두배받는법 | [팀 페이지](./teams/월급두배받는법.md) | @subeenpark-io |
-| 월급두배받는법 | [팀 페이지](./teams/월급두배받는법.md) | @seoljiwon |
-| 월급두배받는법 | [팀 페이지](./teams/월급두배받는법.md) | @HoYoungChun |
-| 유주원 | [팀 페이지](./teams/유주원.md) | @juwon-yoo |
-| 제로백 | [팀 페이지](./teams/제로백.md) | @hekang42 |
-| 제로백 | [팀 페이지](./teams/제로백.md) | @Kyalivia |
-| 제로백 | [팀 페이지](./teams/제로백.md) | @humonnom |
-| 제로백 | [팀 페이지](./teams/제로백.md) | @Eomhyunjun |
-| 털썩유발자들 | [팀 페이지](./teams/털썩유발자들.md) | @JoongHyun-Kim |
-| 털썩유발자들 | [팀 페이지](./teams/털썩유발자들.md) | @mkwkw |
-| 털썩유발자들 | [팀 페이지](./teams/털썩유발자들.md) | @HyunJiLim0406 |
-| 토킹 포테이토 | [팀 페이지](./teams/토킹%20포테이토.md) | @minji1289 |
-| 토킹 포테이토 | [팀 페이지](./teams/토킹%20포테이토.md) | @seoyoung0121 |
-| 토킹 포테이토 | [팀 페이지](./teams/토킹%20포테이토.md) | @gradeten |
-| 팀오므 라이스 | [팀 페이지](./teams/팀오므%20라이스.md) | @hokim2407 |
-| 팀오므 라이스 | [팀 페이지](./teams/팀오므%20라이스.md) | @kypark7 |
-| 하하호호 | [팀 페이지](./teams/하하호호.md) | @bumjin |
-| 한발짝두발짝 | [팀 페이지](./teams/한발짝두발짝.md) | @justinyoo |
+| Chamomile | [팀 페이지](./teams/Chamomile.md) | [@wisdeom](https://github.com/wisdeom) |
+| Chamomile | [팀 페이지](./teams/Chamomile.md) | [@angie4u](https://github.com/angie4u) |
+| ExcelGirls | [팀 페이지](./teams/ExcelGirls.md) | [@yoonminsohappy](https://github.com/yoonminsohappy) |
+| Glossyyoon World | [팀 페이지](./teams/Glossyyoon%20World.md) | [@glossyyoon](https://github.com/glossyyoon) |
+| godlife | [팀 페이지](./teams/godlife.md) | [@jane-k](https://github.com/jane-k) |
+| godlife | [팀 페이지](./teams/godlife.md) | [@thursdaydreaming](https://github.com/thursdaydreaming) |
+| godlife | [팀 페이지](./teams/godlife.md) | [@ahnjungeun](https://github.com/ahnjungeun) |
+| Gongdory | [팀 페이지](./teams/Gongdory.md) | [@DoItAmelia](https://github.com/DoItAmelia) |
+| Gongdory | [팀 페이지](./teams/Gongdory.md) | [@fazerlover](https://github.com/fazerlover) |
+| Gongdory | [팀 페이지](./teams/Gongdory.md) | [@Yuna9949](https://github.com/Yuna9949) |
+| KING | [팀 페이지](./teams/KING.md) | [@solidcellaMoon](https://github.com/solidcellaMoon) |
+| KING | [팀 페이지](./teams/KING.md) | [@vilut1002](https://github.com/vilut1002) |
+| KING | [팀 페이지](./teams/KING.md) | [@minie12](https://github.com/minie12) |
+| MS Player | [팀 페이지](./teams/MS%20Player.md) | [@kimka2013](https://github.com/kimka2013) |
+| MS Player | [팀 페이지](./teams/MS%20Player.md) | [@ajb3296](https://github.com/ajb3296) |
+| MS Player | [팀 페이지](./teams/MS%20Player.md) | [@easycastle](https://github.com/easycastle) |
+| MS Player | [팀 페이지](./teams/MS%20Player.md) | [@swipe0801](https://github.com/swipe0801) |
+| shimumu | [팀 페이지](./teams/shimumu.md) | [@yelim421](https://github.com/yelim421) |
+| TalmoVim | [팀 페이지](./teams/TalmoVim.md) | [@devchanki](https://github.com/devchanki) |
+| TalmoVim | [팀 페이지](./teams/TalmoVim.md) | [@Belnut](https://github.com/Belnut) |
+| Whiskey | [팀 페이지](./teams/Whiskey.md) | [@JunYoung7](https://github.com/JunYoung7) |
+| Whiskey | [팀 페이지](./teams/Whiskey.md) | [@dream365](https://github.com/dream365) |
+| Whiskey | [팀 페이지](./teams/Whiskey.md) | [@Lee-WonJun](https://github.com/Lee-WonJun) |
+| Whiskey | [팀 페이지](./teams/Whiskey.md) | [@rockacid20](https://github.com/rockacid20) |
+| zuzokim | [팀 페이지](./teams/zuzokim.md) | [@zuzokim](https://github.com/zuzokim) |
+| 백엔드화이팅 | [팀 페이지](./teams/백엔드화이팅.md) | [@minhoryang](https://github.com/minhoryang) |
+| 생생한국통 | [팀 페이지](./teams/생생한국통.md) | [@hb-kwon](https://github.com/hb-kwon) |
+| 생생한국통 | [팀 페이지](./teams/생생한국통.md) | [@JongeunKeum](https://github.com/JongeunKeum) |
+| 생생한국통 | [팀 페이지](./teams/생생한국통.md) | [@JaeSeoKim](https://github.com/JaeSeoKim) |
+| 생생한국통 | [팀 페이지](./teams/생생한국통.md) | [@hyungraelee](https://github.com/hyungraelee) |
+| 슬기로운취준생활 | [팀 페이지](./teams/슬기로운취준생활.md) | [@PARKINHYO](https://github.com/PARKINHYO) |
+| 월급두배받는법 | [팀 페이지](./teams/월급두배받는법.md) | [@ksiyeon27](https://github.com/ksiyeon27) |
+| 월급두배받는법 | [팀 페이지](./teams/월급두배받는법.md) | [@subeenpark-io](https://github.com/subeenpark-io) |
+| 월급두배받는법 | [팀 페이지](./teams/월급두배받는법.md) | [@seoljiwon](https://github.com/seoljiwon) |
+| 월급두배받는법 | [팀 페이지](./teams/월급두배받는법.md) | [@HoYoungChun](https://github.com/HoYoungChun) |
+| 유주원 | [팀 페이지](./teams/유주원.md) | [@juwon-yoo](https://github.com/juwon-yoo) |
+| 제로백 | [팀 페이지](./teams/제로백.md) | [@hekang42](https://github.com/hekang42) |
+| 제로백 | [팀 페이지](./teams/제로백.md) | [@Kyalivia](https://github.com/Kyalivia) |
+| 제로백 | [팀 페이지](./teams/제로백.md) | [@humonnom](https://github.com/humonnom) |
+| 제로백 | [팀 페이지](./teams/제로백.md) | [@Eomhyunjun](https://github.com/Eomhyunjun) |
+| 털썩유발자들 | [팀 페이지](./teams/털썩유발자들.md) | [@JoongHyun-Kim](https://github.com/JoongHyun-Kim) |
+| 털썩유발자들 | [팀 페이지](./teams/털썩유발자들.md) | [@mkwkw](https://github.com/mkwkw) |
+| 털썩유발자들 | [팀 페이지](./teams/털썩유발자들.md) | [@HyunJiLim0406](https://github.com/HyunJiLim0406) |
+| 토킹 포테이토 | [팀 페이지](./teams/토킹%20포테이토.md) | [@minji1289](https://github.com/minji1289) |
+| 토킹 포테이토 | [팀 페이지](./teams/토킹%20포테이토.md) | [@seoyoung0121](https://github.com/seoyoung0121) |
+| 토킹 포테이토 | [팀 페이지](./teams/토킹%20포테이토.md) | [@gradeten](https://github.com/gradeten) |
+| 팀오므 라이스 | [팀 페이지](./teams/팀오므%20라이스.md) | [@hokim2407](https://github.com/hokim2407) |
+| 팀오므 라이스 | [팀 페이지](./teams/팀오므%20라이스.md) | [@kypark7](https://github.com/kypark7) |
+| 하하호호 | [팀 페이지](./teams/하하호호.md) | [@bumjin](https://github.com/bumjin) |
+| 한발짝두발짝 | [팀 페이지](./teams/한발짝두발짝.md) | [@justinyoo](https://github.com/justinyoo) |
