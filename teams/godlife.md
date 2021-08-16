@@ -1,3 +1,4 @@
+
 # 팀명: godlife #
 
 ## 챌린지 ##
@@ -18,8 +19,7 @@
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129226500-43fb25b2-0973-4fe9-8e53-333322f57518.png |
 | [@jane-k](https://github.com/jane-k) | https://user-images.githubusercontent.com/64597426/129470995-1826473f-1170-4abf-90aa-caff442946a4.png |
-| [@thursdaydreaming](https://github.com/thursdaydreaming) | *링크를 남겨주세요* |
-
+| [@thursdaydreaming](https://github.com/thursdaydreaming) |https://user-images.githubusercontent.com/42180969/129502130-de667eb2-6c60-4af7-9a5b-cca8e3c25725.png |
 
 
 ## 클라우드 스킬 챌린지 #2: 깃헙 액션 ##
