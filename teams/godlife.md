@@ -30,7 +30,8 @@
 | --------- | ------------- |
 | [@ahnjungeun](https://github.com/ahnjungeun) | https://user-images.githubusercontent.com/51527467/129227424-5e412ae3-020b-46ed-ae5f-99313a86ae16.png |
 | [@jane-k](https://github.com/jane-k) | https://user-images.githubusercontent.com/64597426/129476447-e2cfb8b9-e786-4483-8732-0df0cae828a0.png |
-| [@thursdaydreaming](https://github.com/thursdaydreaming) |https://github.com/thursdaydreaming|
+| [@thursdaydreaming](https://github.com/thursdaydreaming) |https://user-images.githubusercontent.com/42180969/129501878-526a7b37-8236-45ee-b2fb-4d2a4e0bd553.png |
+|
 
 
 
