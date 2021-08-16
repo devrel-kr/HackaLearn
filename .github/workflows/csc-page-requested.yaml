@@ -1,0 +1,53 @@
+name: On CSC Page Requested
+
+on:
+  workflow_dispatch:
+    inputs:
+      content:
+        description: The content of the file to be updated
+        required: true
+        default: "# 클라우드 스킬 챌린지 완수 #\r\n"
+
+
+jobs:
+  create_team_page:
+    name: 'Update the CSC page'
+
+    runs-on: ubuntu-latest
+
+    env:
+      FILE_NAME: 'CLOUD_SKILL_CHALLENGES.md'
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+
+    - name: Update CSC page
+      uses: DamianReeves/write-file-action@master
+      with:
+        path: "./${{ env.FILE_NAME }}"
+        contents: ${{ github.event.inputs.content }}
+        write-mode: overwrite
+
+    - name: Check CSC page
+      shell: pwsh
+      run: |
+        Get-Content -Path "./${{ env.FILE_NAME }}"
+
+    - name: Commit CSC page
+      shell: bash
+      run: |
+        git config --local user.email "hackalearn.korea@outlook.com"
+        git config --local user.name "HackaLearn Korea"
+        git add "./${{ env.FILE_NAME }}" --force
+        git commit -m "${{ env.FILE_NAME }} updated"
+        git pull origin main
+
+    - name: Push CSC page
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
