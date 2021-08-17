@@ -6,7 +6,7 @@
     <img src="assets/banner-768x216@2-en.png" alt="HackaLearn Banner" width="100%"/>
 </div>
 
-***2021년 HackaLearn IS OVER.***
+***HackaLearn 2021 IS OVER.***
 
 HackaLearn is the term combining both Hackathon and Learn, which is the event that you learn something and apply it during the hackathon period within the given short period of time. This HackaLearn's theme is [Azure Static Web Apps][aswa] and [GitHub Actions][gha]. For two weeks, you learn both and build a web application by yourself or with your team, through this HackaLearn event! We are looking forward to seeing the AWESOME product from you! Cool prizes are waiting for your challenge!
 
@@ -75,7 +75,7 @@ During the event, we are running a few hands-on-lab workshops for you. After the
 | :--: | :--: | :--: | :--: | :--: |
 | Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live gce] | [Download][slide gce] | [Link][code gce] |
 | Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live mlsa] | [Download][slide mlsa] | [Link][code mlsa] |
-| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] [Download][slide ca] | [Link][code ca] |
+| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] | [Download][slide ca] | [Link][code ca] |
 
 
 ## 🛠 Developer Tools Before You Go ##
