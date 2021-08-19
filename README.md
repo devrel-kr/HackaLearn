@@ -18,6 +18,18 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 </div>
 
 
+## 🏅 HackaLearn 수상자 및 수상팀 ##
+
+아래는 HackaLearn 챌린지별 수상자 혹은 수상팀입니다. 축하드립니다!
+
+* 클라우드 스킬 챌린지 완주자 👉 [수상자 보러 가기](./CLOUD_SKILL_CHALLENGES.md)
+* SNS 인증샷 챌린지 &ndash; 두 명 👉 [김시연](https://www.instagram.com/p/CSlyUPzpfWr/?utm_medium=copy_link), [박주은](https://www.instagram.com/p/CSlGgG8Ag0a/?utm_medium=copy_link)
+* 블로그 후기 챌린지 &ndash; 세 명 👉 [김호정](https://velog.io/@hokim/HackaLearn-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-%ED%8C%80%EC%98%A4%EB%AF%80-%EB%9D%BC%EC%9D%B4%EC%8A%A4), [김예림](https://blog.naver.com/sedagrq821/222470813632), [박수빈](https://subeen.io/blog/devs/2021-08-15-HackaLearn/)
+* 가장 창의적인 애플리케이션 &ndash; 한 팀 👉 [KING](./teams/KING.md)
+* 가장 UX가 뛰어난 애플리케이션 &ndash; 한 팀 👉 [생생한국통](./teams/생생한국통.md)
+* 가장 사회 공헌적인 애플리케이션 &ndash; 한 팀 👉 [월급두배받는법](./teams/월급두배받는법.md)
+
+
 ## ⏰ 일정 ##
 
 * 참가 신청기간: 2021년 8월 2일 0시 - 2021년 8월 16일 0시
@@ -97,10 +109,12 @@ HackaLearn 기간중 챌린지를 완수하기 위한 기술적인 문제들에 
 
 ## 🏅 시상 부문 ##
 
-* 여섯 가지 모든 챌린지를 완료한 참가자 전부
-* 가장 창의적인 애플리케이션 &ndash; 한 팀
-* 가장 UX가 뛰어난 애플리케이션 &ndash; 한 팀
-* 가장 사회 공헌적인 애플리케이션 &ndash; 한 팀
+* 여섯 가지 모든 챌린지를 완료한 참가자 전부 👉 [수상자 보러 가기](./CLOUD_SKILL_CHALLENGES.md)
+* SNS 인증샷 챌린지 &ndash; 두 명 👉 [김시연](https://www.instagram.com/p/CSlyUPzpfWr/?utm_medium=copy_link), [박주은](https://www.instagram.com/p/CSlGgG8Ag0a/?utm_medium=copy_link)
+* 블로그 후기 챌린지 &ndash; 세 명 👉 [김호정](https://velog.io/@hokim/HackaLearn-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-%ED%8C%80%EC%98%A4%EB%AF%80-%EB%9D%BC%EC%9D%B4%EC%8A%A4), [김예림](https://blog.naver.com/sedagrq821/222470813632), [박수빈](https://subeen.io/blog/devs/2021-08-15-HackaLearn/)
+* 가장 창의적인 애플리케이션 &ndash; 한 팀 👉 [KING](./teams/KING.md)
+* 가장 UX가 뛰어난 애플리케이션 &ndash; 한 팀 👉 [생생한국통](./teams/생생한국통.md)
+* 가장 사회 공헌적인 애플리케이션 &ndash; 한 팀 👉 [월급두배받는법](./teams/월급두배받는법.md)
 
 
 ## 🏆 시상품 ##

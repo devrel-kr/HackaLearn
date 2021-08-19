@@ -18,6 +18,18 @@ HackaLearn is the term combining both Hackathon and Learn, which is the event th
 </div>
 
 
+## 🏅 HackaLearn Winners ##
+
+Here are winners for HackaLearn. Congratulations to all winners!
+
+* Completion of Cloud Skills Challenge 👉 [View Winners](./CLOUD_SKILL_CHALLENGES.md)
+* Social Media Challenge &ndash; 2 Winners 👉 [김시연](https://www.instagram.com/p/CSlyUPzpfWr/?utm_medium=copy_link), [박주은](https://www.instagram.com/p/CSlGgG8Ag0a/?utm_medium=copy_link)
+* Blog Post Challenge &ndash; 3 Winners 👉 [김호정](https://velog.io/@hokim/HackaLearn-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-%ED%8C%80%EC%98%A4%EB%AF%80-%EB%9D%BC%EC%9D%B4%EC%8A%A4), [김예림](https://blog.naver.com/sedagrq821/222470813632), [박수빈](https://subeen.io/blog/devs/2021-08-15-HackaLearn/)
+* Best for Creativity &ndash; 1 Winner 👉 [KING](./teams/KING.md)
+* Best for UX &ndash; 1 Winner 👉 [생생한국통](./teams/생생한국통.md)
+* Best for Social Good &ndash; 1 Winner 👉 [월급두배받는법](./teams/월급두배받는법.md)
+
+
 ## ⏰ Event Timeline ##
 
 * Registration: August 2, 2021, 00.00am (KST) - August 16, 2021, 00.00am (KST)
@@ -96,10 +108,14 @@ During the challenge, participants may have technical questions to figure out. H
 
 ## 🏅 Awards ##
 
-* All participants who complete 6 challenges
-* 1 Team for Best Creativity &ndash; 1 Team
-* 1 Team for Best UX &ndash; 1 Team
-* 1 Team for Best Social Good &ndash; 1 Team
+* All participants who complete 6 challenges 👉 [View Winners](./CLOUD_SKILL_CHALLENGES.md)
+* Social Media Challenge &ndash; 2 Winners 👉 [김시연](https://www.instagram.com/p/CSlyUPzpfWr/?utm_medium=copy_link), [박주은](https://www.instagram.com/p/CSlGgG8Ag0a/?utm_medium=copy_link)
+* Blog Post Challenge &ndash; 3 Winners 👉 [김호정](https://velog.io/@hokim/HackaLearn-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-%ED%8C%80%EC%98%A4%EB%AF%80-%EB%9D%BC%EC%9D%B4%EC%8A%A4), [김예림](https://blog.naver.com/sedagrq821/222470813632), [박수빈](https://subeen.io/blog/devs/2021-08-15-HackaLearn/)
+* Best Creativity &ndash; 1 Winner 👉 [KING](./teams/KING.md)
+* Best UX &ndash; 1 Winner 👉 [생생한국통](./teams/생생한국통.md)
+* Best Social Good &ndash; 1 Winner 👉 [월급두배받는법](./teams/월급두배받는법.md)
+
+
 
 ## 🏆 Prizes ##
 
